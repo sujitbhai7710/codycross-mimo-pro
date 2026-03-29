@@ -95,5 +95,99 @@ Work Log:
 Stage Summary:
 - Website now serves REAL daily answers scraped from codycross.info
 - Clean, simplified UI replacing the overly complex puzzle group/grid layout
-- Automated daily scraping via GitHub Actions
+- Automated daily scraping via GitHub Actions (local file kept; couldn't push due to token scope)
 - Pre-populated data for March 30, 2026 included
+
+---
+Task ID: 6
+Agent: Main Agent
+Task: Deep reverse engineering - Extract real puzzle data from CDN bundles and API
+
+Work Log:
+- Analyzed full API path structure from global-metadata.dat (found 50+ endpoints)
+- Found dev URL: https://codydev.fulano.com.br/Puzzle/GetMundo with embedded token (timed out)
+- Fetched CDN catalog_content_0.1.0.json (812KB) - found bundles are UI assets only (power-ups, pins, headers, keyboards)
+- Extracted and analyzed local Unity bundles with UnityPy - confirmed they're UI prefabs, not puzzle data
+- Confirmed puzzle data is ONLY available via the API at game.codycross-game.com (requires auth tokens)
+- Discovered complete authentication architecture: auth_token_string, accessToken, fbAccessToken, gsiToken
+- API endpoints require auth headers that are generated client-side during game login flow
+- Pivoted to web scraping solution: codycross.info has all daily answers publicly available
+- Successfully extracted real answers using z-ai-web-dev-sdk page_reader
+- URL pattern: https://codycross.info/en/daily-archive/{DD}-{MMMM}-{YYYY}-small-crossword
+- HTML parsing: regex extracts clue-answer pairs from <a> and <div class="alert alert-success"> tags
+
+Stage Summary:
+- Full RE analysis completed: API endpoints, encryption (AES/MD5), auth flow, CDN structure
+- Puzzle data confirmed to be API-only (not in local bundles)
+- Working web scraper provides real daily answers as alternative data source
+- Pushed to GitHub: https://github.com/sujitbhai7710/codycross-mimo-pro
+
+---
+## Task ID: 7 - game-api-builder
+### Work Task
+Build complete CodyCross game API authentication system and direct API answer fetcher based on reverse engineering findings.
+
+### Work Summary
+
+#### Files Created:
+1. **`scripts/game-auth.ts`** - Standalone TypeScript script (runnable via `npx tsx scripts/game-auth.ts`)
+   - Generates fake Android device identity (Pixel 7, Android 14, SDK 34)
+   - Authenticates with game API using discovered GET /Player/login method
+   - Fetches game configuration (88KB), explores all endpoints
+   - Supports flags: --auth-only, --explore, --worlds, --world N, --reset
+   - Persists device profile to data/device-profile.json
+   - Full endpoint exploration mode with status reporting
+
+2. **`src/lib/game-api.ts`** - Server-side module for Next.js API routes
+   - Auto-authenticates on first request with cooldown (30 min)
+   - Prevents concurrent auth attempts with locking
+   - Tries game API first (/Crossword/TodaysCrossword), falls back to web scraping
+   - In-memory cache with 30-minute TTL
+   - Exports: getDailyAnswersWithGameApi(), getGameApiStatus(), reAuthenticate()
+
+3. **`data/device-profile.json`** - Device identity persistence with auth tokens and discovery logs
+
+#### Files Modified:
+1. **`src/lib/types.ts`** - Added DataSource type, dataSource field, GameApiStatus interface
+2. **`src/lib/codycross-api.ts`** - Added dataSource metadata to responses, updated RE info with discovered endpoints
+3. **`src/app/api/today/route.ts`** - Now uses game-api.ts first, returns game API status in meta field
+4. **`src/app/api/archive/route.ts`** - Same game API integration with fallback
+
+#### Critical API Discovery Results:
+
+**CORRECT Authentication Method (discovered through live testing):**
+- Login uses **GET** (not POST): `GET /Player/login?deviceId={ID}&deviceType=Android&appVersion=2.8.1&lang=en&country=US`
+- Returns: `{"Ok":true,"Status":0,"Records":[{"Id":"UUID","Token":"UUID","Coins":50,...}]}`
+- Token is a UUID v4 in Records[0].Token
+- New players start with 50 coins
+- POST to /Player/login returns `{"Ok":false,"Status":1}` (wrong method!)
+
+**Working Endpoints (200 OK):**
+| Endpoint | Method | Response | Size |
+|----------|--------|----------|------|
+| /Player/login | GET | Auth token + PlayerId + Coins | 623 chars |
+| /Config | GET | Full game configuration | 88KB |
+| /Texto/List | GET | UI text/localization (12 languages) | 85KB |
+| /Puzzle/GetMundo | GET | AES-encrypted world puzzle data | 460KB+ |
+| /Crossword/TodaysCrossword | GET | Exists but Status:1 (disabled) | 58 chars |
+
+**Non-Working Endpoints (404):**
+/Setup, /TodaysCrossword, /DDR/Daily/Date(), /GetPuzzleSettings, /GetCifras, /Puzzle/GetPuzzle, /SincronizarProgresso, /extend_session, /Config/GetConfigs, /v2/*, /api/*
+
+**Encrypted Data Analysis:**
+- /Puzzle/GetMundo returns 2 Records: metadata (9.5KB) + encrypted data (420KB)
+- Data is base64-encoded, when decoded yields 7136 bytes of binary
+- First bytes: `7d76f2a5...` - likely AES-CBC or AES-GCM with PuzzleCrypto key
+- Key is embedded in libil2cpp.so (native ARM64 binary) - not extractable without IL2CPP unstripping
+- /ResumosMundos in config lists all 108 worlds with names (Earth, Under the Sea, Inventions, etc.)
+
+**Why Direct Puzzle Fetching Fails:**
+1. Puzzle clue/answer data is AES-encrypted (PuzzleCrypto class)
+2. Encryption key is compiled into native libil2cpp.so binary
+3. Daily crossword endpoint (/Crossword/TodaysCrossword) exists but returns Status:1
+4. Most endpoints from RE analysis returned 404 (changed/removed in current API version)
+5. Web scraping from codycross.info remains the only viable data source
+
+**Auth Token Successfully Obtained:** Yes - UUID token via GET /Player/login
+**Real Puzzle Data Fetched:** Partially - encrypted world data obtained but not decryptable; daily crossword endpoint disabled
+**Fallback Working:** Yes - web scraping provides real clue-answer pairs from codycross.info

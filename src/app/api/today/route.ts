@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server';
-import { getTodayAnswers } from '@/lib/codycross-api';
+import { getDailyAnswersWithGameApi, getGameApiStatus } from '@/lib/game-api';
 
 export async function GET(request: Request) {
   const { searchParams } = new URL(request.url);
@@ -14,7 +14,7 @@ export async function GET(request: Request) {
     );
   }
 
-  const result = await getTodayAnswers(date);
+  const result = await getDailyAnswersWithGameApi(date);
 
   if (!result.success || !result.data) {
     return NextResponse.json(
@@ -23,9 +23,19 @@ export async function GET(request: Request) {
     );
   }
 
+  const gameApiStatus = getGameApiStatus();
+
   return NextResponse.json({
     success: true,
     source: result.source,
+    dataSource: result.dataSource,
     data: result.data,
+    meta: {
+      gameApi: {
+        hasAuth: gameApiStatus.hasAuth,
+        deviceId: gameApiStatus.deviceId ? gameApiStatus.deviceId.substring(0, 8) + '...' : null,
+        playerId: gameApiStatus.playerId,
+      },
+    },
   });
 }

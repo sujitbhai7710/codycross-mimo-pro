@@ -1,5 +1,5 @@
 import ZAI from 'z-ai-web-dev-sdk';
-import { ApiResponse, DailyAnswers, ClueAnswer, ReverseEngineeringInfo } from './types';
+import { ApiResponse, DailyAnswers, ClueAnswer, ReverseEngineeringInfo, DataSource } from './types';
 import { format } from 'date-fns';
 
 const CODYCROSS_INFO_BASE = 'https://codycross.info/en/daily-archive';
@@ -75,12 +75,13 @@ function parseHtmlToClues(html: string): ClueAnswer[] {
 
 /**
  * Fetch and parse daily answers from codycross.info using z-ai-web-dev-sdk
+ * This is the fallback scraping method
  */
-export async function fetchDailyAnswers(dateStr: string): Promise<ApiResponse<DailyAnswers>> {
+export async function fetchDailyAnswers(dateStr: string): ApiResponse<DailyAnswers> {
   // Check cache first
   const cached = cache.get(dateStr);
   if (cached && Date.now() - new Date(cached.scrapedAt).getTime() < CACHE_TTL_MS) {
-    return { success: true, data: { ...cached, source: 'cached' }, source: 'cached' };
+    return { success: true, data: { ...cached, source: 'cached' as DataSource, dataSource: cached.dataSource }, source: 'cached' as DataSource };
   }
 
   try {
@@ -115,13 +116,14 @@ export async function fetchDailyAnswers(dateStr: string): Promise<ApiResponse<Da
       clues,
       totalClues: clues.length,
       scrapedAt: new Date().toISOString(),
-      source: 'live',
+      source: 'live' as DataSource,
+      dataSource: 'web-scrape',
     };
 
     // Store in cache
     cache.set(dateStr, dailyAnswers);
 
-    return { success: true, data: dailyAnswers, source: 'live' };
+    return { success: true, data: dailyAnswers, source: 'live' as DataSource, dataSource: 'web-scrape' };
   } catch (error) {
     const message = error instanceof Error ? error.message : 'Unknown error';
     return { success: false, data: null, error: `Failed to fetch answers: ${message}` };
@@ -131,7 +133,7 @@ export async function fetchDailyAnswers(dateStr: string): Promise<ApiResponse<Da
 /**
  * Get today's answers (or a specific date)
  */
-export async function getTodayAnswers(dateStr?: string): Promise<ApiResponse<DailyAnswers>> {
+export async function getTodayAnswers(dateStr?: string): ApiResponse<DailyAnswers> {
   const today = dateStr || new Date().toISOString().split('T')[0];
   return fetchDailyAnswers(today);
 }
@@ -139,7 +141,7 @@ export async function getTodayAnswers(dateStr?: string): Promise<ApiResponse<Dai
 /**
  * Get archive answers for a specific date
  */
-export async function getArchiveAnswers(date: string): Promise<ApiResponse<DailyAnswers>> {
+export async function getArchiveAnswers(date: string): ApiResponse<DailyAnswers> {
   return fetchDailyAnswers(date);
 }
 
@@ -153,12 +155,17 @@ export function getReverseEngineeringInfo(): ReverseEngineeringInfo {
     apiBase: 'https://game.codycross-game.com/',
     cdnBase: 'https://addressables.codycross-game.com/',
     endpoints: [
+      '/Setup',
+      '/Player/login',
       '/TodaysCrossword',
       '/DDR/Daily/Date({date})',
       '/GetPuzzle',
       '/GetCifras',
       '/GetMundo',
+      '/Texto/List',
       '/GetPuzzleSettings',
+      '/Config/GetConfigs',
+      '/extend_session',
       '/v2/Chest/Collect',
     ],
     encryption: {
@@ -168,12 +175,22 @@ export function getReverseEngineeringInfo(): ReverseEngineeringInfo {
     },
     authentication: {
       type: 'Token-based',
-      headers: ['X-Client-Version', 'auth_token_string', 'accessToken'],
+      headers: [
+        'X-Client-Version',
+        'auth_token_string',
+        'AccessToken',
+        'UserLoginToken',
+        'PLAYER_TOKEN',
+      ],
+      flow: 'Setup → Player/login → Token extraction → Authenticated requests',
+      tokenRefresh: 'extend_session endpoint / RefreshCurrentAccessToken',
+      deviceIdentity: 'deviceId, deviceModel, deviceType, deviceInfo',
     },
     architecture: 'Unity IL2CPP (C# compiled to native ARM64)',
     worldCount: 104,
     keyClasses: [
       'Fanatee.CodyCross.Service.Util.Api.ApiCaller',
+      'Fanatee.CodyCross.Service.Player.PlayerService',
       'Fanatee.CodyCross.Domain.Crypto.PuzzleCrypto',
       'Fanatee.CodyCross.Domain.TodaysCrossword.TcYearMonth',
       'Fanatee.CodyCross.Domain.TodaysCrossword.TcDailyPuzzles',

@@ -1,0 +1,68 @@
+{
+  "deviceId": "c843b1f7cad36fde",
+  "deviceModel": "Pixel 7",
+  "deviceType": "Android",
+  "deviceInfo": {
+    "ram": "8GB",
+    "osVersion": "14",
+    "sdkVersion": "34",
+    "brand": "Google",
+    "manufacturer": "Google",
+    "screenResolution": "1080x2400",
+    "isPhysicalDevice": true
+  },
+  "authToken": "873f1143-86bc-4d4c-b038-f81a1fae663b",
+  "accessToken": "",
+  "userLoginToken": "",
+  "playerId": "bed4f52b-e1f4-425c-a1c4-d8847c12176f",
+  "appVersion": "2.8.1",
+  "lang": "en",
+  "country": "US",
+  "createdAt": "2026-03-29T20:38:19.825Z",
+  "lastUsed": "2026-03-29T20:44:26.573Z",
+  "coins": 50,
+  "authLog": [
+    {
+      "timestamp": "2026-03-29T20:37:00.000Z",
+      "action": "Discovery",
+      "status": "info",
+      "details": "Discovered: GET /Player/login?deviceId=X returns UUID token + PlayerId + Coins"
+    },
+    {
+      "timestamp": "2026-03-29T20:38:00.000Z",
+      "action": "Discovery",
+      "status": "info",
+      "details": "Discovered: GET /Config returns 88KB game configuration"
+    },
+    {
+      "timestamp": "2026-03-29T20:38:00.000Z",
+      "action": "Discovery",
+      "status": "info",
+      "details": "Discovered: GET /Puzzle/GetMundo returns AES-encrypted world data (~460KB)"
+    },
+    {
+      "timestamp": "2026-03-29T20:38:00.000Z",
+      "action": "Discovery",
+      "status": "info",
+      "details": "GET /Crossword/TodaysCrossword exists but returns Status:1 (disabled)"
+    },
+    {
+      "timestamp": "2026-03-29T20:44:25.837Z",
+      "action": "Login",
+      "status": "success",
+      "details": "Token: 873f1143-86bc-4d4c-b038-f81a1fae663b, PlayerId: bed4f52b-e1f4-425c-a1c4-d8847c12176f"
+    },
+    {
+      "timestamp": "2026-03-29T20:44:26.343Z",
+      "action": "Config",
+      "status": "success",
+      "details": "88108 chars"
+    },
+    {
+      "timestamp": "2026-03-29T20:44:32.191Z",
+      "action": "Login",
+      "status": "success",
+      "details": "Token: 873f1143-86bc-4d4c-b038-f81a1fae663b, PlayerId: bed4f52b-e1f4-425c-a1c4-d8847c12176f"
+    }
+  ]
+}

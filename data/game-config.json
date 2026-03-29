@@ -1,0 +1,4644 @@
+{
+  "Ok": true,
+  "Status": 0,
+  "Message": "",
+  "Msg": "",
+  "Records": [
+    {
+      "Global": {
+        "FacebookAppInviteCoinsReward": 20,
+        "InternetCheckUrl": "",
+        "ProgressToShowFirstDailyReward": 3,
+        "MoreGamesNagRequiredDaysPastInstall": 7,
+        "MoreGamesNagRequiredDaysPastShow": 14,
+        "HardModeEnabledCountries": [
+          {
+            "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+            "Enabled": [],
+            "Disabled": []
+          },
+          {
+            "Language": "a495a4f1-0500-763a-9515-bc7b124e8fff",
+            "Enabled": [],
+            "Disabled": []
+          },
+          {
+            "Language": "586ff3df-8088-2405-8f8b-9bbd6068f175",
+            "Enabled": [],
+            "Disabled": []
+          },
+          {
+            "Language": "c75e5d51-7dd9-327f-16f9-d1f1d022695e",
+            "Enabled": [],
+            "Disabled": []
+          }
+        ],
+        "MultiDifficultyModeEnabledCountries": [
+          {
+            "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+            "Enabled": [],
+            "Disabled": []
+          },
+          {
+            "Language": "a495a4f1-0500-763a-9515-bc7b124e8fff",
+            "Enabled": [],
+            "Disabled": []
+          },
+          {
+            "Language": "c75e5d51-7dd9-327f-16f9-d1f1d022695e",
+            "Enabled": [],
+            "Disabled": []
+          }
+        ],
+        "UltimoMundoPorIdioma": {
+          "en": 89,
+          "pt": 87,
+          "es": 81,
+          "de": 77,
+          "it": 78,
+          "fr": 76,
+          "nl": 67,
+          "ru": 64,
+          "tr": 69,
+          "ko": 16,
+          "ja": 13
+        },
+        "NoAdsOfferCooldown": "2.00:00:00",
+        "NextPuzzleConfig": {
+          "Enabled": false,
+          "ProgressoParaLiberarNoAdventure": 20
+        },
+        "SmartlookEnabled": false,
+        "SessionConfig": {
+          "Timeout": "00:30:00"
+        },
+        "PartnershipConfig": [
+          {
+            "Id": "1479091e-999a-45c0-a6c7-4c077ba7c816",
+            "Name": "AARP",
+            "Enabled": true,
+            "MissionInfos": [
+              {
+                "MissionNumber": 1,
+                "MissionEndDate": "/Date(1723435200000)/",
+                "MissionUrl": "https://www.aarp.org/rewards/discover/?intcmp=A5GAM-CDYCRSSREWARDS",
+                "MissionCode": "CODYCROSS1"
+              },
+              {
+                "MissionNumber": 2,
+                "MissionEndDate": "/Date(1724040000000)/",
+                "MissionUrl": "https://www.aarp.org/rewards/discover/?intcmp=A5GAM-CDYCRSSREWARDS",
+                "MissionCode": "CODYCROSS2"
+              },
+              {
+                "MissionNumber": 3,
+                "MissionEndDate": "/Date(1724644800000)/",
+                "MissionUrl": "https://www.aarp.org/rewards/discover/?intcmp=A5GAM-CDYCRSSREWARDS",
+                "MissionCode": "CODYCROSS3"
+              },
+              {
+                "MissionNumber": 4,
+                "MissionEndDate": "/Date(1725249600000)/",
+                "MissionUrl": "https://www.aarp.org/rewards/discover/?intcmp=A5GAM-CDYCRSSREWARDS",
+                "MissionCode": "CODYCROSS4"
+              },
+              {
+                "MissionNumber": 5,
+                "MissionEndDate": "/Date(1725854400000)/",
+                "MissionUrl": "https://www.aarp.org/rewards/discover/?intcmp=A5GAM-CDYCRSSREWARDS",
+                "MissionCode": "CODYCROSS5"
+              },
+              {
+                "MissionNumber": 6,
+                "MissionEndDate": "/Date(1726459200000)/",
+                "MissionUrl": "https://www.aarp.org/rewards/discover/?intcmp=A5GAM-CDYCRSSREWARDS",
+                "MissionCode": "CODYCROSS6"
+              },
+              {
+                "MissionNumber": 7,
+                "MissionEndDate": "/Date(1727064000000)/",
+                "MissionUrl": "https://www.aarp.org/rewards/discover/?intcmp=A5GAM-CDYCRSSREWARDS",
+                "MissionCode": "CODYCROSS7"
+              },
+              {
+                "MissionNumber": 8,
+                "MissionEndDate": "/Date(1727668800000)/",
+                "MissionUrl": "https://www.aarp.org/rewards/discover/?intcmp=A5GAM-CDYCRSSREWARDS",
+                "MissionCode": "CODYCROSS8"
+              },
+              {
+                "MissionNumber": 9,
+                "MissionEndDate": "/Date(1728273600000)/",
+                "MissionUrl": "https://www.aarp.org/rewards/discover/?intcmp=A5GAM-CDYCRSSREWARDS",
+                "MissionCode": "CODYCROSS9"
+              }
+            ]
+          }
+        ],
+        "FasterPuzzleComplete": true,
+        "EraseWrongWord": false,
+        "ErrorAnimationAccelerated": false,
+        "AdvanceToNextWordInstantlyOnCorrectCompletion": false,
+        "InstantErrorFeedbackWhenOnlyOneWrongSlot": false
+      },
+      "Ad": {
+        "GoingToPuzzle": {
+          "Active": true,
+          "Tde": 90,
+          "LimiteSeInferiorDeveMostrar": 85,
+          "PuzzlesConsiderados": 10
+        },
+        "GoingToShortTrackPuzzle": {
+          "Active": true,
+          "Tde": 90,
+          "LimiteSeInferiorDeveMostrar": 75,
+          "PuzzlesConsiderados": 10
+        },
+        "GoingToTodaysPasswordPuzzle": {
+          "Active": true,
+          "Tde": 90,
+          "LimiteSeInferiorDeveMostrar": 85,
+          "PuzzlesConsiderados": 10
+        },
+        "GoingToTodaysCrosswordPuzzle": {
+          "Active": true,
+          "Tde": 90,
+          "LimiteSeInferiorDeveMostrar": 85,
+          "PuzzlesConsiderados": 10
+        },
+        "BackFromPuzzle": {
+          "Active": true,
+          "Tde": 90
+        },
+        "PuzzleComplete": {
+          "Googler": {
+            "CpvAcmDoThr": 100,
+            "CpvAbxDoThr": 100,
+            "NdrVistosParaAtingirThr": 3,
+            "VarValMinGanho": 0,
+            "VarValMaxGanho": 60,
+            "MinDeSaldoPvaSemGastarPwp": 2,
+            "MinRwd": 1,
+            "MaxRwd": 6,
+            "RwdCasoMinDeSaldo": 2,
+            "CpvCasoMinDeSaldo": 100,
+            "Active": true,
+            "EnablesCooldown": true,
+            "InterCooldownOverride": "00:00:00"
+          },
+          "NotGoogler": {
+            "CpvAcmDoThr": 100,
+            "CpvAbxDoThr": 100,
+            "NdrVistosParaAtingirThr": 3,
+            "VarValMinGanho": 0,
+            "VarValMaxGanho": 60,
+            "MinDeSaldoPvaSemGastarPwp": 2,
+            "MinRwd": 1,
+            "MaxRwd": 6,
+            "RwdCasoMinDeSaldo": 2,
+            "CpvCasoMinDeSaldo": 100,
+            "Active": true,
+            "EnablesCooldown": true,
+            "InterCooldownOverride": "00:00:00"
+          }
+        },
+        "PuzzleCompleteCrossword": {
+          "Googler": {
+            "CpvAcmDoThr": 100,
+            "CpvAbxDoThr": 100,
+            "NdrVistosParaAtingirThr": 3,
+            "VarValMinGanho": 0,
+            "VarValMaxGanho": 60,
+            "MinDeSaldoPvaSemGastarPwp": 2,
+            "MinRwd": 1,
+            "MaxRwd": 6,
+            "RwdCasoMinDeSaldo": 2,
+            "CpvCasoMinDeSaldo": 100,
+            "Active": true,
+            "EnablesCooldown": true,
+            "InterCooldownOverride": "00:00:00"
+          },
+          "NotGoogler": {
+            "CpvAcmDoThr": 100,
+            "CpvAbxDoThr": 100,
+            "NdrVistosParaAtingirThr": 3,
+            "VarValMinGanho": 0,
+            "VarValMaxGanho": 60,
+            "MinDeSaldoPvaSemGastarPwp": 2,
+            "MinRwd": 1,
+            "MaxRwd": 6,
+            "RwdCasoMinDeSaldo": 2,
+            "CpvCasoMinDeSaldo": 100,
+            "Active": true,
+            "EnablesCooldown": true,
+            "InterCooldownOverride": "00:00:00"
+          }
+        },
+        "PuzzleCompleteShortTrack": {
+          "Googler": {
+            "CpvAcmDoThr": 100,
+            "CpvAbxDoThr": 100,
+            "NdrVistosParaAtingirThr": 3,
+            "VarValMinGanho": 0,
+            "VarValMaxGanho": 60,
+            "MinDeSaldoPvaSemGastarPwp": 2,
+            "MinRwd": 1,
+            "MaxRwd": 6,
+            "RwdCasoMinDeSaldo": 2,
+            "CpvCasoMinDeSaldo": 100,
+            "Active": true,
+            "EnablesCooldown": true,
+            "InterCooldownOverride": "00:00:00"
+          },
+          "NotGoogler": {
+            "CpvAcmDoThr": 100,
+            "CpvAbxDoThr": 100,
+            "NdrVistosParaAtingirThr": 3,
+            "VarValMinGanho": 0,
+            "VarValMaxGanho": 60,
+            "MinDeSaldoPvaSemGastarPwp": 2,
+            "MinRwd": 1,
+            "MaxRwd": 6,
+            "RwdCasoMinDeSaldo": 2,
+            "CpvCasoMinDeSaldo": 100,
+            "Active": true,
+            "EnablesCooldown": true,
+            "InterCooldownOverride": "00:00:00"
+          }
+        },
+        "PuzzleStart": {
+          "Cpv": 100,
+          "Rwd": 4,
+          "Dnt": 10,
+          "TdeMin": 30,
+          "TdeMax": 90,
+          "NrDeVezesParaSkipar": 5,
+          "NrDeDiasQueNaoMostra": 3,
+          "NrDeVezesParaMostrarCasoZeroCoinsAposSkip": 2,
+          "CooldownCasoZeroCoinsAposSkip": 7,
+          "ShowRewardAmount": false,
+          "ShowOfferText": true,
+          "Active": true,
+          "EnablesCooldown": false,
+          "InterCooldownOverride": "00:00:00"
+        },
+        "PuzzleStartCrossword": {
+          "Cpv": 100,
+          "Rwd": 4,
+          "Dnt": 10,
+          "TdeMin": 30,
+          "TdeMax": 90,
+          "NrDeVezesParaSkipar": 5,
+          "NrDeDiasQueNaoMostra": 3,
+          "NrDeVezesParaMostrarCasoZeroCoinsAposSkip": 2,
+          "CooldownCasoZeroCoinsAposSkip": 7,
+          "ShowRewardAmount": false,
+          "ShowOfferText": true,
+          "Active": true,
+          "EnablesCooldown": false,
+          "InterCooldownOverride": "00:00:00"
+        },
+        "PuzzleStartShortTrack": {
+          "Cpv": 100,
+          "Rwd": 4,
+          "Dnt": 10,
+          "TdeMin": 3,
+          "TdeMax": 9,
+          "NrDeVezesParaSkipar": 3,
+          "NrDeDiasQueNaoMostra": 2,
+          "NrDeVezesParaMostrarCasoZeroCoinsAposSkip": 2,
+          "CooldownCasoZeroCoinsAposSkip": 7,
+          "ShowRewardAmount": false,
+          "ShowOfferText": true,
+          "Active": true,
+          "EnablesCooldown": false,
+          "InterCooldownOverride": "00:00:00"
+        },
+        "DoubleDailyReward": {
+          "NrDeVezesParaSkipar": 4,
+          "NrDeDiasQueNaoMostra": 3,
+          "NrDeTentativas": 5,
+          "Active": true,
+          "EnablesCooldown": false,
+          "InterCooldownOverride": "00:00:00"
+        },
+        "FreeTokens": {
+          "LimiteDeVideosDiario": 50,
+          "BadgeModalOutOfTokensActive": true,
+          "BadgeMenuTopActive": true,
+          "NrDeTokens": 1,
+          "PuzzleMinParaVerBadgeNoGameplay": 6,
+          "MaxDeTokensParaVer": 25,
+          "TempoDeEsperaCasoNoFill": 10,
+          "NumeroDePuzzlesChangeBadgeMapa": 10,
+          "MinDeTokensParaEsconderBadge": 50,
+          "NumeroDePuzzlesSemUsarParaEsconderBadge": 20,
+          "LimiteDeVideosPorPeriodo": 2,
+          "DuracaoDoPeriodo": "01:00:00",
+          "Active": true,
+          "EnablesCooldown": false,
+          "InterCooldownOverride": "00:00:00"
+        },
+        "StreakRecovery": {
+          "Active": true,
+          "EnablesCooldown": false,
+          "InterCooldownOverride": "00:00:00"
+        },
+        "UnlockCrossword": {
+          "Active": true,
+          "EnablesCooldown": false,
+          "InterCooldownOverride": "00:00:00"
+        },
+        "UnlockShortTracks": {
+          "Active": true,
+          "EnablesCooldown": false,
+          "InterCooldownOverride": "00:00:00"
+        },
+        "PuzzleBanner": {
+          "Active": true,
+          "CloseButtonEnabled": false
+        },
+        "Banner": {
+          "Impressions": [
+            [
+              {
+                "Value": "0aa23ab903d1a097",
+                "Server": "max",
+                "Settings": {},
+                "Timeout": 180
+              }
+            ]
+          ],
+          "ProgressToUnlock": 1,
+          "AmazonId": null,
+          "AmazonIdTablet": null
+        },
+        "Interstitial": {
+          "Impressions": [
+            [
+              {
+                "Value": "5d3a4060f15d7798",
+                "Server": "max",
+                "Settings": {},
+                "Timeout": 180
+              }
+            ]
+          ],
+          "ProgressToUnlock": 4,
+          "AmazonId": null
+        },
+        "Rewarded": {
+          "Impressions": [
+            [
+              {
+                "Value": "c4c3bb6cf79e2c16",
+                "Server": "max",
+                "Settings": {},
+                "Timeout": 180
+              }
+            ]
+          ],
+          "AmazonId": null,
+          "PlayInterIfNoFill": true,
+          "PlayInterIfHigherCpm": false
+        },
+        "PuzzleCompleteAuto": {
+          "Tde": 90,
+          "Active": true,
+          "EnablesCooldown": false,
+          "InterCooldownOverride": "00:00:00"
+        },
+        "PuzzleCompleteContinue": {
+          "Active": false,
+          "Tde": 90
+        },
+        "FreeBitz": {
+          "LimiteDeVideosDiario": 12,
+          "NrDeBitz": 50,
+          "TentativasDeExibicaoCasoNoFill": 2,
+          "LimiteDeVideosPorPeriodo": 2,
+          "DuracaoDoPeriodo": "01:00:00",
+          "Active": true,
+          "EnablesCooldown": false,
+          "InterCooldownOverride": "00:00:00"
+        },
+        "OutOfTokens": {
+          "LimiteDeVideosPorPeriodo": 2,
+          "NrMaxDibz": 0,
+          "DuracaoDoPeriodo": "06:00:00",
+          "Active": false,
+          "EnablesCooldown": false,
+          "InterCooldownOverride": "00:00:00"
+        },
+        "ExtraBitz": {
+          "MinSectionsToShow": 2,
+          "SectionsToAdd": 1,
+          "Active": true,
+          "EnablesCooldown": false,
+          "InterCooldownOverride": "00:00:00"
+        },
+        "ShortTrackBanner": {
+          "Active": true,
+          "CloseButtonEnabled": false
+        },
+        "PuzzleCompleteBar": {
+          "SectionsToAdd": 1,
+          "Active": true,
+          "EnablesCooldown": false,
+          "InterCooldownOverride": "00:00:00"
+        },
+        "GooglerV2": {
+          "UnlockPuzzle": 5,
+          "ShowInGameplayAfter": "00:01:00",
+          "MoveToHeaderAfter": "00:00:10",
+          "ReshowAfterClaim": "00:00:02",
+          "MaxDisplaysWithoutUse": 2,
+          "CooldownToNextDisplay": "3.00:00:00",
+          "AlternativeLayout": true,
+          "AdventureModeEnabled": true,
+          "CrosswordModeEnabled": true,
+          "ShortTrackModeEnabled": true,
+          "Active": true,
+          "EnablesCooldown": false,
+          "InterCooldownOverride": "00:00:00"
+        },
+        "GooglerV3": {
+          "UnlockPuzzle": 5,
+          "ShowInGameplayFrom": "00:00:10",
+          "ShowInGameplayUntil": "00:01:00",
+          "MoveFromHeaderToGameplayWithoutHitAfter": "00:00:40",
+          "MoveFromHeaderToGameplayWithoutHitLimitPerPuzzle": 2,
+          "MoveFromHeaderToGameplayAtAllAfter": "00:02:00",
+          "MoveFromHeaderToGameplayAtAllLimitPerPuzzle": 1,
+          "MoveFromGameplayToHeaderAfter": "00:00:10",
+          "ReshowAfterClaim": "00:00:02",
+          "MaxDisplaysWithoutUse": 5,
+          "CooldownToNextDisplay": "3.00:00:00",
+          "ShowPrizeAmount": true,
+          "AlternativeLayout": true,
+          "AdventureModeEnabled": true,
+          "CrosswordModeEnabled": true,
+          "ShortTrackModeEnabled": true,
+          "Active": true,
+          "EnablesCooldown": false,
+          "InterCooldownOverride": "00:00:00"
+        },
+        "BannerV2": {
+          "ProgressToUnlock": 1,
+          "Enabled": true,
+          "Fallback": {
+            "Id": "0aa23ab903d1a097",
+            "Timeout": null,
+            "Floor": 0
+          },
+          "FirstImpression": {
+            "Id": "0aa23ab903d1a097",
+            "Timeout": null,
+            "Floor": 0
+          },
+          "BidFloors": [],
+          "BidFloorsEnabled": true
+        },
+        "InterstitialV2": {
+          "ProgressToUnlock": 4,
+          "Enabled": true,
+          "Fallback": {
+            "Id": "ac9f9e7ec1cb89ba",
+            "Timeout": null,
+            "Floor": 0
+          },
+          "FirstImpression": {
+            "Id": "5d3a4060f15d7798",
+            "Timeout": null,
+            "Floor": 0
+          },
+          "BidFloors": [
+            {
+              "Id": "a20b890262381415",
+              "Timeout": "00:00:30",
+              "Floor": 4.5
+            },
+            {
+              "Id": "530d513c15e97aa1",
+              "Timeout": "00:00:30",
+              "Floor": 15
+            },
+            {
+              "Id": "735ecd82ae09f51e",
+              "Timeout": "00:00:30",
+              "Floor": 25
+            },
+            {
+              "Id": "83bad0bc4a896203",
+              "Timeout": "00:00:30",
+              "Floor": 65
+            },
+            {
+              "Id": "0133604a01796828",
+              "Timeout": "00:00:30",
+              "Floor": 180
+            }
+          ],
+          "BidFloorsEnabled": true
+        },
+        "RewardedV2": {
+          "PlayInterIfNoFill": true,
+          "Enabled": true,
+          "Fallback": {
+            "Id": "1b938ccabeb0a230",
+            "Timeout": null,
+            "Floor": 0
+          },
+          "FirstImpression": {
+            "Id": "c4c3bb6cf79e2c16",
+            "Timeout": null,
+            "Floor": 0
+          },
+          "BidFloors": [
+            {
+              "Id": "156b6bd487a97caa",
+              "Timeout": "00:00:30",
+              "Floor": 2
+            },
+            {
+              "Id": "cdb6664a04a47ca5",
+              "Timeout": "00:00:30",
+              "Floor": 7.5
+            },
+            {
+              "Id": "a5c7431db9a2eae3",
+              "Timeout": "00:00:30",
+              "Floor": 11
+            },
+            {
+              "Id": "445668beeca7b413",
+              "Timeout": "00:00:30",
+              "Floor": 20
+            },
+            {
+              "Id": "f3dcd0b86a34f521",
+              "Timeout": "00:00:30",
+              "Floor": 55
+            },
+            {
+              "Id": "7465df8d6c390233",
+              "Timeout": "00:00:30",
+              "Floor": 200
+            }
+          ],
+          "BidFloorsEnabled": true
+        },
+        "InterstitialV3": {
+          "ProgressToUnlock": 4,
+          "Enabled": true,
+          "Fallback": {
+            "Id": "5b42fe087321d9d0",
+            "Timeout": null,
+            "Floor": 0
+          },
+          "FirstImpression": {
+            "Id": "5d3a4060f15d7798",
+            "Timeout": null,
+            "Floor": 0
+          },
+          "BidFloor": {
+            "Id": "85eb981beff1fd86",
+            "Timeout": null,
+            "Floor": 0
+          },
+          "BidFloorPrices": [
+            0,
+            0.5,
+            0.96,
+            1.66,
+            2.5,
+            3.02,
+            4.32,
+            4.7,
+            5.32,
+            6.52,
+            8,
+            8.9,
+            9.74,
+            11.64,
+            15,
+            16.5,
+            18.5,
+            20.62,
+            25.26,
+            28,
+            32,
+            36.76,
+            59.46,
+            67.4,
+            72.26,
+            84.12,
+            123.4,
+            182.22,
+            203.24,
+            244.7,
+            365.26
+          ],
+          "BidFloorsEnabled": false,
+          "BidFloorLevelsUp": 3,
+          "BidFloorLevelsDown": -1
+        },
+        "RewardedV3": {
+          "PlayInterIfNoFill": true,
+          "Enabled": true,
+          "Fallback": {
+            "Id": "936e7de64e82af85",
+            "Timeout": null,
+            "Floor": 0
+          },
+          "FirstImpression": {
+            "Id": "c4c3bb6cf79e2c16",
+            "Timeout": null,
+            "Floor": 0
+          },
+          "BidFloor": {
+            "Id": "8d55f815741f891b",
+            "Timeout": null,
+            "Floor": 0
+          },
+          "BidFloorPrices": [
+            0,
+            0.5,
+            0.94,
+            1.88,
+            2.2,
+            2.56,
+            3.12,
+            4,
+            4.36,
+            5.08,
+            6.34,
+            7.58,
+            8.36,
+            9.8,
+            11,
+            11.88,
+            13.08,
+            16.48,
+            21.4,
+            26.31,
+            31.23,
+            36.14,
+            41.06,
+            55.66,
+            61.5,
+            69.78,
+            103.9,
+            200,
+            220.66,
+            273.26,
+            427.24
+          ],
+          "BidFloorsEnabled": false,
+          "BidFloorLevelsUp": 3,
+          "BidFloorLevelsDown": -1
+        }
+      },
+      "Dna": {
+        "TempoMaximoNoBackground": 120,
+        "TempoMaximoParaAcertarCifra": 10
+      },
+      "Profile": {
+        "SecondsToPing": 900,
+        "MinUsernameChars": 2,
+        "MaxUsernameChars": 16
+      },
+      "Modal": {
+        "ModalConfigFacebookLoginSpecial": {
+          "Enabled": true,
+          "ShowPuzzles": [
+            22,
+            54,
+            85
+          ]
+        },
+        "ModalConfigPushNotification": {
+          "Enabled": true,
+          "NotificationDays": [
+            1,
+            5,
+            15
+          ]
+        },
+        "ModalConfigFeedback": {
+          "Enabled": true,
+          "ShowPuzzles": [
+            11,
+            35,
+            65
+          ]
+        },
+        "ModalConfigInviteEasyModeWhenUserIsStruggling": {
+          "Enabled": true,
+          "ShowPuzzles": [
+            2,
+            4,
+            6
+          ],
+          "TokensThreshold": 7
+        },
+        "ModalConfigRateMyApp": {
+          "Enabled": true,
+          "ShowPuzzle": 25,
+          "RemindAfter": 125
+        },
+        "ModalConfigSecretMessageTutorial": {
+          "Enabled": true,
+          "ShowPuzzles": [
+            17
+          ]
+        },
+        "ModalConfigAge": {
+          "Enabled": true,
+          "MinShowPuzzle": 7,
+          "ShowOnLaunch": false
+        },
+        "ModalATT": {
+          "Enabled": false
+        },
+        "ModalATTReinforce": {
+          "Enabled": false,
+          "ShowPuzzles": [
+            10
+          ]
+        },
+        "ModalPushInApp": {
+          "Enabled": false
+        }
+      },
+      "Tutorial": {
+        "Profile": {
+          "Enabled": true,
+          "MinPuzzle": 18
+        },
+        "StreakHeader": {
+          "MinStreak": 2,
+          "Enabled": true,
+          "MinPuzzle": 10
+        }
+      },
+      "Multiplayer": {
+        "Enabled": false,
+        "VersaoMinima": "0.0.0"
+      },
+      "LiveOps": {
+        "EventsTabConfig": {
+          "Enabled": true,
+          "MinPuzzleNotification": 6
+        },
+        "DailyStreakConfig": {
+          "Enabled": true,
+          "StreakInterval": 7,
+          "ShieldConfig": {
+            "MaxShields": 2,
+            "ShieldPrice": 5
+          },
+          "Milestones": {
+            "IntervalBetweenMilestones": 100,
+            "MilestonesWithPersonalizations": {
+              "3": 1,
+              "10": 2,
+              "30": 3,
+              "100": 4,
+              "200": 5,
+              "365": 6,
+              "1000": 7
+            }
+          },
+          "Notifications": {
+            "TimeToTriggerRegularPush": "20:00:00",
+            "TimeToTriggerStreakAboutToBeLostPush": "23:00:00",
+            "DontMissMinStreak": 15
+          },
+          "ShareImageUrl": "https://d2ozt78tu5j1km.cloudfront.net/streak/streak.{0}.{1}.png",
+          "MilestoneShareImageUrl": "https://d2ozt78tu5j1km.cloudfront.net/streak/streak.{0}.{1}.png",
+          "RecoveryPrice": 10
+        },
+        "FacebookVipConfig": {
+          "Enabled": true,
+          "ImageUrl": "https://d2ozt78tu5j1km.cloudfront.net/live-ops/facebook-vip/facebook.vip.modal.png",
+          "LinkUrl": "https://www.facebook.com/groups/538236057765982"
+        },
+        "TimedNotificationsConfig": {
+          "Enabled": true,
+          "PushTime": "08:00:00",
+          "PushIntervals": [
+            "1.00:00:00",
+            "2.00:00:00",
+            "3.00:00:00",
+            "7.00:00:00",
+            "15.00:00:00"
+          ]
+        },
+        "TodayCrosswordConfig": {
+          "Enabled": true,
+          "UnlockPuzzleCost": 2,
+          "MinPuzzleTodayCrossword": 20,
+          "UnlockArchiveWithoutPaying": false,
+          "ModalOnboardingPuzzle": 20,
+          "UnlockPuzzle": 0,
+          "ModalDeFasesNagUnlockPuzzle": -1
+        },
+        "TodaysPasswordConfig": {
+          "Enabled": true,
+          "UnlockPuzzle": 1,
+          "ShowModalPuzzle": 15,
+          "ImageUrl": "https://d2ozt78tu5j1km.cloudfront.net/live-ops/events-tab/todays-password/todays_password_share_{0}.png",
+          "CostRevealAnswer": 5,
+          "ModalImageUrl": "https://d2ozt78tu5j1km.cloudfront.net/live-ops/events-tab/todays-password/todays.password.modal.png"
+        },
+        "ShortTrackConfig": {
+          "Enabled": true,
+          "CostForRecharge": 10,
+          "TimeBetweenCharges": "00:30:00",
+          "MaxEnergy": 3,
+          "TimeBeforeEndToNotify": "06:00:00",
+          "EventReminderTime": "15.00:00:00",
+          "ComingSoonCardCount": 2,
+          "LockedCardCount": 1
+        },
+        "FeaturesOrder": [
+          6,
+          4,
+          7,
+          2,
+          5,
+          3,
+          1
+        ],
+        "EventFeatureOrderConfig": {
+          "FeaturesDefaultOrder": [
+            6,
+            4,
+            7,
+            2,
+            5,
+            3,
+            1
+          ],
+          "FirstTimeDaysToOrder": 4,
+          "RegularDaysToOrder": 7,
+          "CustomOrderEnabled": false
+        }
+      },
+      "BookLibraryConfig": {
+        "Enabled": true,
+        "MinPuzzle": 30,
+        "XpCollectionComplete": 1000,
+        "BookConfig": {
+          "XpByBookRarity": {
+            "1": 100,
+            "2": 250,
+            "3": 750
+          },
+          "BooksByMap": {
+            "1": "a0cf976e-c33e-4396-b5ee-bbe888b84976",
+            "2": "52c2ba88-39d0-4c8b-9798-5d8ae99f5fe4",
+            "3": "8d7b458b-3017-4010-a4c9-b8946e314d68",
+            "4": "a2f90e6a-adb3-41c1-b644-88d61a7ee2da",
+            "5": "5ffd3c84-df89-4c30-acfe-a2a9f047767e",
+            "6": "1b057e9c-b1a4-4370-9377-8c302fe47014",
+            "7": "09faaf14-6a63-476a-bb1b-110e1e54d1e0",
+            "8": "dec6d8ab-aca7-4bdc-bc9a-e7b98ba62ed0",
+            "9": "3238603b-a2b1-4f30-90c4-a08bff2fbd6e",
+            "10": "e1e7529c-5472-45d3-bbaa-5fd7ab4af983",
+            "11": "3f47fb76-e6f4-4884-8767-87123c1c62d6",
+            "12": "c0cfad64-4127-4a40-a8f2-ce46225eb034",
+            "13": "6778f066-0d6c-463c-b723-e05cc4b80f0c",
+            "14": "880af03e-d8cc-4933-ac93-91eef1beb74a",
+            "15": "684204df-fb8c-4040-8e40-e4cd0962229f",
+            "16": "1feb5581-f5eb-417b-9839-c1b875c4c6c8",
+            "17": "1cc53416-4418-4210-b791-de439fd7728e",
+            "18": "e536d895-cd4f-422a-902f-034327cdcdd9",
+            "19": "0404d900-4793-4a2a-8d3f-148c7272b478",
+            "20": "8f50d73e-2b4a-4564-a8a1-69bd3396c2e0",
+            "21": "3c768bc8-bc36-4bff-80ad-e5ab0f79844f",
+            "22": "60db9c2e-4b42-4070-9218-238a707c5f98",
+            "23": "6a617e7d-d4a1-4503-9bb7-e74a8c6c5c65",
+            "24": "9d4ceaca-43ab-4a3a-9327-54ff5b657b21",
+            "25": "d06373d5-02de-407b-9c52-1faa6da18f23",
+            "26": "1bea75ea-7307-4d43-8b0c-209c5c7e6248",
+            "27": "374d87f2-7b32-48e1-8806-38c98f519eb8",
+            "28": "b6c28b7d-4c48-46de-b6f7-99c465dcc21e",
+            "29": "33a8e3f4-ce05-4f84-96f7-75fbad83e099",
+            "30": "0897b45f-574e-4ef7-9a1f-ce4e9f687e8b",
+            "31": "60649936-f2dc-48cd-a000-c9f3a9945ced",
+            "32": "63f48546-ce27-4633-a977-365903820779",
+            "33": "9d0a3f3e-bcc0-479f-92f3-98bb46cf05b7",
+            "34": "bfdd3fd7-9eb9-4b1c-a7a1-cd33c34b246b",
+            "35": "d3836d32-cd4c-4e23-be70-ce0b6bce4132",
+            "36": "fdb94fb5-783e-4afa-a166-b6a4725119bd",
+            "37": "30498bda-9865-4217-8f80-d0976125c2d1",
+            "38": "f366aa30-1581-40ad-ba4b-a150b2414318",
+            "39": "a5bacf87-b420-4243-94c4-5fb89c088d9f",
+            "40": "fb54f5f3-5e35-478a-876a-8f509a78b7b2",
+            "41": "35d0d8e0-e002-492a-93f1-5f564eb050c3",
+            "42": "94aec606-afbe-4da9-bfb4-1da084d4fc22",
+            "43": "c0c4cf0d-38c5-4164-adcb-37ede5a69e1f",
+            "44": "c8cdb03f-626f-4d04-ac4f-1c1ffcafd1fe",
+            "45": "97c46eb6-13d2-4f01-a940-dcca3ea98aa3",
+            "46": "dfbd680b-d016-491f-a8f8-c88716202773",
+            "47": "81f2fb29-7e81-4654-b155-f564882abfdc",
+            "48": "5c5bf82c-debd-4cb2-948e-541090e40fc5",
+            "49": "17f837cf-e052-4996-ad55-44786b61571a",
+            "50": "4e072d12-1044-4fad-baea-e65c738e032e",
+            "51": "b99a6223-952a-4b0d-9716-4fdf480a89b8",
+            "52": "da02ad11-949d-43e3-bd7b-13bd27a86076",
+            "53": "c1a4851a-977a-4c95-915d-46fa6fe6f446",
+            "54": "f9e62f19-5a7c-49a0-83cc-67a7f7948415",
+            "55": "6cb3678b-cee7-4559-a6a1-ecddb6836098",
+            "56": "63a55333-c86d-4b72-8300-0039513723a2",
+            "57": "3b6c2b40-0096-4844-8220-1c943453ed46",
+            "58": "e86c8a01-76ed-4fb5-80e9-1593f7eae252",
+            "59": "ab6f3325-df7d-432d-969f-09397562b163",
+            "60": "8e6fc1fb-4f97-46f1-89e6-c4dc4b1ff699",
+            "61": "7c3cfa76-4be6-4562-a13b-d8a89dad4501",
+            "62": "96b1df0d-d8f1-46cd-b9fe-fe10fc438fe1",
+            "63": "f91601bd-d01e-457d-bfc7-eb0232a0a191",
+            "64": "31142d01-8375-4e41-8c08-40b7ab96ad33",
+            "65": "01c19bf1-b6b8-4fee-be7a-c95a57e66dbe",
+            "66": "1cbcaf61-94f0-48e5-9772-941bd48b611d",
+            "67": "65b5a63d-a2ff-41ee-94fa-10e86b027de7",
+            "68": "1015d525-b54c-49a2-a6cd-81bd79da3b1d",
+            "69": "fd638c3a-1282-4df0-8fdc-6e8f29762166",
+            "70": "ffe4a9f8-5527-4838-b5ad-73348edad2e4",
+            "71": "b76a4787-2f20-4a65-983a-b1df458521c0",
+            "72": "d5750bbc-be45-469e-bf31-779405d22266",
+            "73": "222a493d-a70f-46e2-9bee-a2f7ef25dd7c",
+            "74": "43c417d0-ddca-4b95-9072-3cbf2c6dd598",
+            "75": "61489f2f-aea0-49e4-b71a-e086cc14c4e2",
+            "76": "cac21880-0cdb-4fa1-a861-85616ade2553",
+            "77": "61d075d3-f4c4-4509-ab63-4f1dacae6edd",
+            "78": "319ee053-41c8-4257-ab5d-e243f176f050",
+            "79": "883413b5-c37b-468d-a5ae-46b0e7a5988c",
+            "80": "ff09546e-78ab-44a7-844a-8eef5f78343b",
+            "81": "d2658441-7454-4fe1-844f-9ed4aa37cb1d",
+            "82": "7c5b0d68-064c-42dc-a62e-750f66629153",
+            "83": "016b5346-b059-42d9-ad24-d8e68277951a",
+            "84": "63c37d61-f814-4a6c-a138-8044b3f68a5a",
+            "85": "c6e887fa-88f0-4f4a-a224-698fb0738891",
+            "86": "9885dedb-a62e-4549-9068-eb16adce5ae2",
+            "87": "edf1873c-e376-4501-a793-f3ae90f03274",
+            "88": "2d47a90c-4243-4ad2-9989-2e91dbec2731",
+            "89": "b6b2bd12-99a3-4baf-8480-4f5cfa128057",
+            "90": "e1caa93a-c636-4eeb-8c67-7b7661acfd90",
+            "91": "2284857e-ee5c-4dbc-a19e-3cca50631b3c",
+            "92": "e1ab8246-8625-4f32-b47e-c71a0c802f97",
+            "93": "ba8d6db4-9527-47aa-a4d3-1ae54151942a",
+            "94": "64c27396-36a3-4c01-8006-cf6b7f092e4e",
+            "95": "2c27b556-e331-4943-ade4-0357c5e37856",
+            "96": "1f1c39cf-d22f-41e7-abef-f92f1b21cd68",
+            "97": "92cc9d58-a531-4ef1-a08c-fec2f55846a2",
+            "98": "dd065c61-ef0c-4ac5-ad57-dba74b43c4e1"
+          }
+        },
+        "BookstoreConfig": {
+          "BookPricePerRarity": {
+            "1": 500,
+            "2": 1000,
+            "3": 2000
+          },
+          "AmountFreeBitz": 25,
+          "MapBookPrice": 100,
+          "ShortTracksBookPrice": 10000,
+          "RefreshPrices": [
+            5,
+            10,
+            20,
+            50
+          ],
+          "ShortTracksBookPricePerRarity": {
+            "1": 2500,
+            "2": 5000,
+            "3": 10000
+          }
+        },
+        "TutorialBooks": [
+          "48dc1c17-a9f6-47d8-b01d-5e8bd1f8e80c",
+          "ca4bbef8-fa5b-4764-9c93-3f35def0ee9a"
+        ],
+        "MinXpForLevel": [
+          0,
+          400,
+          1000,
+          2000,
+          3500,
+          5500,
+          8000,
+          11000,
+          14500,
+          19000,
+          24500,
+          31500,
+          40000,
+          51000,
+          64500,
+          81500,
+          100000,
+          125000,
+          155000,
+          200000,
+          250000,
+          305000,
+          365000,
+          430000,
+          500000
+        ],
+        "BarraBitzConfig": {
+          "Tiers": [
+            1,
+            7,
+            22,
+            42,
+            67,
+            97,
+            132
+          ],
+          "QtdePuzzlesAteCompletar": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "BitzPorBarra": 150,
+          "BitzPorBarraSubscriber": 300,
+          "ShowNewBitzBar": true
+        },
+        "BitzProductsConfig": {
+          "Enabled": true,
+          "BitzProducts": [
+            {
+              "Name": "BITZ",
+              "BitzAmount": 2000,
+              "TokenAmount": 50
+            },
+            {
+              "Name": "BITZ",
+              "BitzAmount": 10000,
+              "TokenAmount": 200
+            },
+            {
+              "Name": "BITZ",
+              "BitzAmount": 45000,
+              "TokenAmount": 750
+            }
+          ]
+        }
+      },
+      "GameplayModesConfig": {
+        "AdventureModeGameplayConfig": {
+          "RevealLetterConfigs": {
+            "Preco": 1,
+            "DisponivelAPartirDoPuzzle": 0
+          },
+          "LetterRainConfigs": {
+            "PercentualCorteTabuleiro": 0.33,
+            "QuantidadeLetrasReveladasInicio": 10,
+            "QuantidadeLetrasReveladasMeioJogo": 8,
+            "QuantidadeMaximaDeLetrasReveladasParaRevelarUmaCifra": 3,
+            "ArrayRevelacaoPrimeiraLetra": [
+              1,
+              2,
+              2,
+              3
+            ],
+            "Preco": 3,
+            "DisponivelAPartirDoPuzzle": 4
+          },
+          "AnagramConfigs": {
+            "Preco": 2,
+            "DisponivelAPartirDoPuzzle": 8
+          },
+          "RevealWordConfigs": {
+            "Preco": 4,
+            "DisponivelAPartirDoPuzzle": 12
+          },
+          "PropagacaoConfigs": {
+            "MinimoDeSlotsDisponiveis": 1,
+            "Proporcoes": [
+              [
+                0,
+                1,
+                1,
+                2
+              ],
+              [
+                0,
+                1,
+                1,
+                2
+              ],
+              [
+                0,
+                1,
+                1,
+                2
+              ],
+              [
+                0,
+                1,
+                1,
+                2
+              ]
+            ],
+            "JapaneseLowerLerpCoefficient": 0,
+            "JapaneseUpperLerpCoefficient": 2,
+            "SecondToLastPropagationOdds": 100,
+            "FeedbackChangesPropagation": true
+          },
+          "VACompletionBehavior": 0,
+          "CanAccessCompletedGroups": false,
+          "AutoOpenNextPin": false,
+          "WordCompletionAnimationStartAcceleration": true,
+          "RemoveIntroAutoScroll": true
+        },
+        "CrosswordModeGameplayConfig": {
+          "RevealLetterConfigs": {
+            "1": {
+              "Preco": 1,
+              "DisponivelAPartirDoPuzzle": 0
+            },
+            "2": {
+              "Preco": 1,
+              "DisponivelAPartirDoPuzzle": 0
+            }
+          },
+          "LetterRainConfigs": {
+            "1": {
+              "PercentualCorteTabuleiro": 0.33,
+              "QuantidadeLetrasReveladasInicio": 5,
+              "QuantidadeLetrasReveladasMeioJogo": 3,
+              "QuantidadeMaximaDeLetrasReveladasParaRevelarUmaCifra": 3,
+              "ArrayRevelacaoPrimeiraLetra": [
+                1,
+                1,
+                2,
+                2
+              ],
+              "Preco": 3,
+              "DisponivelAPartirDoPuzzle": 4
+            },
+            "2": {
+              "PercentualCorteTabuleiro": 0.33,
+              "QuantidadeLetrasReveladasInicio": 10,
+              "QuantidadeLetrasReveladasMeioJogo": 8,
+              "QuantidadeMaximaDeLetrasReveladasParaRevelarUmaCifra": 5,
+              "ArrayRevelacaoPrimeiraLetra": [
+                1,
+                2,
+                3,
+                4
+              ],
+              "Preco": 3,
+              "DisponivelAPartirDoPuzzle": 4
+            }
+          },
+          "PropagacaoConfigs": {
+            "1": {
+              "TiersThresholds": [
+                25
+              ],
+              "QtdParaPropagar": [
+                1,
+                0
+              ]
+            },
+            "2": {
+              "TiersThresholds": [
+                25,
+                50
+              ],
+              "QtdParaPropagar": [
+                2,
+                1,
+                0
+              ]
+            }
+          },
+          "UnlockPuzzle": 45
+        },
+        "CryptoModeGameplayConfig": {
+          "PropagacaoConfigs": {
+            "QtdeMinimaTilesNaoReveladosAposPropagar": 2,
+            "QtdeMaximaTilesNaoReveladosAposPropagar": 3
+          },
+          "RevealLetterConfig": {
+            "Preco": 1,
+            "DisponivelAPartirDoPuzzle": 0
+          },
+          "LetterRainConfig": {
+            "PercentualCorteTabuleiro": 0.33,
+            "QuantidadeLetrasReveladasInicio": 10,
+            "QuantidadeLetrasReveladasMeioJogo": 8,
+            "QuantidadeMaximaDeLetrasReveladasParaRevelarUmaCifra": 3,
+            "ArrayRevelacaoPrimeiraLetra": [
+              1,
+              2,
+              2,
+              3
+            ],
+            "Preco": 3,
+            "DisponivelAPartirDoPuzzle": 4
+          },
+          "AnagramConfig": {
+            "Preco": 2,
+            "DisponivelAPartirDoPuzzle": 8
+          },
+          "RevealWordConfig": {
+            "Preco": 4,
+            "DisponivelAPartirDoPuzzle": 12
+          },
+          "WordCompletionAnimationStartAcceleration": true,
+          "UnlockPuzzle": 55
+        },
+        "DragTileModeGameplayConfig": {
+          "RevealLetterConfig": {
+            "Preco": 1,
+            "DisponivelAPartirDoPuzzle": 0
+          },
+          "LetterRainConfig": {
+            "Small": {
+              "PercentualCorteTabuleiro": 0.33,
+              "QuantidadeLetrasReveladasInicio": 4,
+              "QuantidadeLetrasReveladasMeioJogo": 3,
+              "QuantidadeMaximaDeLetrasReveladasParaRevelarUmaCifra": 0,
+              "ArrayRevelacaoPrimeiraLetra": [],
+              "Preco": 3,
+              "DisponivelAPartirDoPuzzle": 4
+            },
+            "Medium": {
+              "PercentualCorteTabuleiro": 0.33,
+              "QuantidadeLetrasReveladasInicio": 6,
+              "QuantidadeLetrasReveladasMeioJogo": 4,
+              "QuantidadeMaximaDeLetrasReveladasParaRevelarUmaCifra": 0,
+              "ArrayRevelacaoPrimeiraLetra": [],
+              "Preco": 3,
+              "DisponivelAPartirDoPuzzle": 4
+            },
+            "Large": {
+              "PercentualCorteTabuleiro": 0.33,
+              "QuantidadeLetrasReveladasInicio": 10,
+              "QuantidadeLetrasReveladasMeioJogo": 7,
+              "QuantidadeMaximaDeLetrasReveladasParaRevelarUmaCifra": 0,
+              "ArrayRevelacaoPrimeiraLetra": [],
+              "Preco": 3,
+              "DisponivelAPartirDoPuzzle": 4
+            }
+          },
+          "UnlockPuzzle": 27
+        },
+        "ExpeditionModeGameplayConfig": {
+          "UnlockPuzzle": 75
+        },
+        "MiniQuestModeGameplayConfig": {
+          "UnlockPuzzle": 65
+        }
+      },
+      "ResumosMundos": {
+        "MundosInfos": {
+          "1": {
+            "Numero": 1,
+            "Nome": "Earth",
+            "Versao": 175
+          },
+          "2": {
+            "Numero": 2,
+            "Nome": "Under the sea",
+            "Versao": 2
+          },
+          "3": {
+            "Numero": 3,
+            "Nome": "Inventions",
+            "Versao": 2
+          },
+          "4": {
+            "Numero": 4,
+            "Nome": "Seasons",
+            "Versao": 331
+          },
+          "5": {
+            "Numero": 5,
+            "Nome": "Circus",
+            "Versao": 2
+          },
+          "6": {
+            "Numero": 6,
+            "Nome": "Transport",
+            "Versao": 209
+          },
+          "7": {
+            "Numero": 7,
+            "Nome": "Culinary Arts",
+            "Versao": 2
+          },
+          "8": {
+            "Numero": 8,
+            "Nome": "Sports",
+            "Versao": 2
+          },
+          "9": {
+            "Numero": 9,
+            "Nome": "Fauna and Flora",
+            "Versao": 124
+          },
+          "10": {
+            "Numero": 10,
+            "Nome": "Ancient Egypt",
+            "Versao": 124
+          },
+          "11": {
+            "Numero": 11,
+            "Nome": "Amusement Park",
+            "Versao": 2
+          },
+          "12": {
+            "Numero": 12,
+            "Nome": "Medieval Times",
+            "Versao": 149
+          },
+          "13": {
+            "Numero": 13,
+            "Nome": "Paris",
+            "Versao": 147
+          },
+          "14": {
+            "Numero": 14,
+            "Nome": "Casino",
+            "Versao": 127
+          },
+          "15": {
+            "Numero": 15,
+            "Nome": "World of Books",
+            "Versao": 2
+          },
+          "16": {
+            "Numero": 16,
+            "Nome": "Science Lab",
+            "Versao": 2
+          },
+          "17": {
+            "Numero": 17,
+            "Nome": "The 70's",
+            "Versao": 2
+          },
+          "18": {
+            "Numero": 18,
+            "Nome": "Pet Shop",
+            "Versao": 2
+          },
+          "19": {
+            "Numero": 19,
+            "Nome": "New York, New York!",
+            "Versao": 2
+          },
+          "20": {
+            "Numero": 20,
+            "Nome": "Popcorn Time",
+            "Versao": 2
+          },
+          "21": {
+            "Numero": 21,
+            "Nome": "La Bella Roma",
+            "Versao": 116
+          },
+          "22": {
+            "Numero": 22,
+            "Nome": "Wild West",
+            "Versao": 2
+          },
+          "23": {
+            "Numero": 23,
+            "Nome": "Airport",
+            "Versao": 2
+          },
+          "24": {
+            "Numero": 24,
+            "Nome": "Farm",
+            "Versao": 2
+          },
+          "25": {
+            "Numero": 25,
+            "Nome": "London",
+            "Versao": 2
+          },
+          "26": {
+            "Numero": 26,
+            "Nome": "Department Store",
+            "Versao": 2
+          },
+          "27": {
+            "Numero": 27,
+            "Nome": "Fashion Show",
+            "Versao": 2
+          },
+          "28": {
+            "Numero": 28,
+            "Nome": "Resorts",
+            "Versao": 2
+          },
+          "29": {
+            "Numero": 29,
+            "Nome": "Welcome to Japan",
+            "Versao": 2
+          },
+          "30": {
+            "Numero": 30,
+            "Nome": "Concert Hall",
+            "Versao": 2
+          },
+          "31": {
+            "Numero": 31,
+            "Nome": "TV Station",
+            "Versao": 2
+          },
+          "32": {
+            "Numero": 32,
+            "Nome": "Home Sweet Home",
+            "Versao": 2
+          },
+          "33": {
+            "Numero": 33,
+            "Nome": "Cruise Ship",
+            "Versao": 2
+          },
+          "34": {
+            "Numero": 34,
+            "Nome": "Greece",
+            "Versao": 2
+          },
+          "35": {
+            "Numero": 35,
+            "Nome": "Small World",
+            "Versao": 2
+          },
+          "36": {
+            "Numero": 36,
+            "Nome": "Train Travel",
+            "Versao": 2
+          },
+          "37": {
+            "Numero": 37,
+            "Nome": "Art Museum",
+            "Versao": 2
+          },
+          "38": {
+            "Numero": 38,
+            "Nome": "Water Park",
+            "Versao": 2
+          },
+          "39": {
+            "Numero": 39,
+            "Nome": "Brazilian Tour",
+            "Versao": 115
+          },
+          "40": {
+            "Numero": 40,
+            "Nome": "The 80s",
+            "Versao": 1
+          },
+          "41": {
+            "Numero": 41,
+            "Nome": "Spa Time",
+            "Versao": 1
+          },
+          "42": {
+            "Numero": 42,
+            "Nome": "Campsite Adventures",
+            "Versao": 1
+          },
+          "43": {
+            "Numero": 43,
+            "Nome": "Trip to Spain",
+            "Versao": 106
+          },
+          "44": {
+            "Numero": 44,
+            "Nome": "Fantasy World ",
+            "Versao": 1
+          },
+          "45": {
+            "Numero": 45,
+            "Nome": "Performing Arts",
+            "Versao": 1
+          },
+          "46": {
+            "Numero": 46,
+            "Nome": "Space Exploration",
+            "Versao": 1
+          },
+          "47": {
+            "Numero": 47,
+            "Nome": "Student Life ",
+            "Versao": 1
+          },
+          "48": {
+            "Numero": 48,
+            "Nome": "Games",
+            "Versao": 1
+          },
+          "49": {
+            "Numero": 49,
+            "Nome": "Mesopotamia",
+            "Versao": 1
+          },
+          "50": {
+            "Numero": 50,
+            "Nome": "Futuristic City ",
+            "Versao": 1
+          },
+          "51": {
+            "Numero": 51,
+            "Nome": "Australia",
+            "Versao": 1
+          },
+          "52": {
+            "Numero": 52,
+            "Nome": "Treasure Island",
+            "Versao": 1
+          },
+          "53": {
+            "Numero": 53,
+            "Nome": "Tracking Time",
+            "Versao": 1
+          },
+          "54": {
+            "Numero": 54,
+            "Nome": "Comics",
+            "Versao": 107
+          },
+          "55": {
+            "Numero": 55,
+            "Nome": "A Sweet Life",
+            "Versao": 1
+          },
+          "56": {
+            "Numero": 56,
+            "Nome": "House of Horrors",
+            "Versao": 1
+          },
+          "57": {
+            "Numero": 57,
+            "Nome": "The 90s",
+            "Versao": 1
+          },
+          "58": {
+            "Numero": 58,
+            "Nome": "California",
+            "Versao": 1
+          },
+          "59": {
+            "Numero": 59,
+            "Nome": "Architectural Styles",
+            "Versao": 1
+          },
+          "60": {
+            "Numero": 60,
+            "Nome": "Inside the Spaceship",
+            "Versao": 110
+          },
+          "61": {
+            "Numero": 61,
+            "Nome": "Rainforest",
+            "Versao": 1
+          },
+          "62": {
+            "Numero": 62,
+            "Nome": "Working From Home",
+            "Versao": 1
+          },
+          "63": {
+            "Numero": 63,
+            "Nome": "Prehistory",
+            "Versao": 1
+          },
+          "64": {
+            "Numero": 64,
+            "Nome": "Canada",
+            "Versao": 1
+          },
+          "65": {
+            "Numero": 65,
+            "Nome": "All Things Water",
+            "Versao": 1
+          },
+          "66": {
+            "Numero": 66,
+            "Nome": " Street Fair",
+            "Versao": 1
+          },
+          "67": {
+            "Numero": 67,
+            "Nome": "Café",
+            "Versao": 1
+          },
+          "68": {
+            "Numero": 68,
+            "Nome": "World of Sounds",
+            "Versao": 1
+          },
+          "69": {
+            "Numero": 69,
+            "Nome": "Mexico",
+            "Versao": 1
+          },
+          "70": {
+            "Numero": 70,
+            "Nome": "Renaissance",
+            "Versao": 1
+          },
+          "71": {
+            "Numero": 71,
+            "Nome": "Hobbies",
+            "Versao": 1
+          },
+          "72": {
+            "Numero": 72,
+            "Nome": "Botanical Garden",
+            "Versao": 1
+          },
+          "73": {
+            "Numero": 73,
+            "Nome": "Past and Present Tech",
+            "Versao": 1
+          },
+          "74": {
+            "Numero": 74,
+            "Nome": "Sense of Smell",
+            "Versao": 1
+          },
+          "75": {
+            "Numero": 75,
+            "Nome": "India",
+            "Versao": 109
+          },
+          "76": {
+            "Numero": 76,
+            "Nome": "Making a Documentary",
+            "Versao": 1
+          },
+          "77": {
+            "Numero": 77,
+            "Nome": "Professions",
+            "Versao": 1
+          },
+          "78": {
+            "Numero": 78,
+            "Nome": "African grasslands",
+            "Versao": 1
+          },
+          "79": {
+            "Numero": 79,
+            "Nome": "Taking Care of Our Planet",
+            "Versao": 1
+          },
+          "80": {
+            "Numero": 80,
+            "Nome": "Extraordinary Creatures",
+            "Versao": 0
+          },
+          "81": {
+            "Numero": 81,
+            "Nome": "Deserts of the world",
+            "Versao": 0
+          },
+          "82": {
+            "Numero": 82,
+            "Nome": "Dogs",
+            "Versao": 1
+          },
+          "83": {
+            "Numero": 83,
+            "Nome": "City Life",
+            "Versao": 1
+          },
+          "84": {
+            "Numero": 84,
+            "Nome": "Babies and Toddlers",
+            "Versao": 1
+          },
+          "85": {
+            "Numero": 85,
+            "Nome": "Tundra and Taiga",
+            "Versao": 1
+          },
+          "86": {
+            "Numero": 86,
+            "Nome": "Time for a check-up",
+            "Versao": 1
+          },
+          "87": {
+            "Numero": 87,
+            "Nome": "Cats",
+            "Versao": 1
+          },
+          "88": {
+            "Numero": 88,
+            "Nome": "Night Life",
+            "Versao": 1
+          },
+          "89": {
+            "Numero": 89,
+            "Nome": "Cosmetology",
+            "Versao": 1
+          },
+          "90": {
+            "Numero": 90,
+            "Nome": "Life on Wheels",
+            "Versao": 1
+          },
+          "91": {
+            "Numero": 91,
+            "Nome": "The 1950s",
+            "Versao": 1
+          },
+          "92": {
+            "Numero": 92,
+            "Nome": "Toys",
+            "Versao": 1
+          },
+          "93": {
+            "Numero": 93,
+            "Nome": "Daily Routines",
+            "Versao": 1
+          },
+          "94": {
+            "Numero": 94,
+            "Nome": "Peru",
+            "Versao": 1
+          },
+          "95": {
+            "Numero": 95,
+            "Nome": "Physics",
+            "Versao": 1
+          },
+          "96": {
+            "Numero": 96,
+            "Nome": "Fruits and Vegetables",
+            "Versao": 1
+          },
+          "97": {
+            "Numero": 97,
+            "Nome": "Ballroom Dancing",
+            "Versao": 1
+          },
+          "98": {
+            "Numero": 98,
+            "Nome": "Nordic Wonders",
+            "Versao": 1
+          },
+          "99": {
+            "Numero": 99,
+            "Nome": "Apothecary",
+            "Versao": 44
+          },
+          "100": {
+            "Numero": 100,
+            "Nome": "Forests",
+            "Versao": 7
+          },
+          "101": {
+            "Numero": 101,
+            "Nome": "Photography",
+            "Versao": 6
+          },
+          "102": {
+            "Numero": 102,
+            "Nome": "Singapore",
+            "Versao": 6
+          },
+          "103": {
+            "Numero": 103,
+            "Nome": "Beach Bliss",
+            "Versao": 5
+          },
+          "104": {
+            "Numero": 104,
+            "Nome": "Let's Party",
+            "Versao": 8
+          },
+          "105": {
+            "Numero": 105,
+            "Nome": "Top Secret",
+            "Versao": 4
+          },
+          "106": {
+            "Numero": 106,
+            "Nome": "The Netherlands",
+            "Versao": 4
+          },
+          "107": {
+            "Numero": 107,
+            "Nome": "Health and Fitness",
+            "Versao": 7
+          },
+          "108": {
+            "Numero": 108,
+            "Nome": "Larger than Life",
+            "Versao": 4
+          }
+        },
+        "MundosAssetsInfo": {
+          "1": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo1/mundo1"
+          },
+          "2": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo2/mundo2"
+          },
+          "3": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo3/mundo3"
+          },
+          "4": {
+            "Versao": 3,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo4/mundo4"
+          },
+          "5": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo5/mundo5"
+          },
+          "6": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo6/mundo6"
+          },
+          "7": {
+            "Versao": 3,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo7/mundo7"
+          },
+          "8": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo8/mundo8"
+          },
+          "9": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo9/mundo9"
+          },
+          "10": {
+            "Versao": 3,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo10/mundo10"
+          },
+          "11": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo11/mundo11"
+          },
+          "12": {
+            "Versao": 3,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo12/mundo12"
+          },
+          "13": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo13/mundo13"
+          },
+          "14": {
+            "Versao": 3,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo14/mundo14"
+          },
+          "15": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo15/mundo15"
+          },
+          "16": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo16/mundo16"
+          },
+          "17": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo17/mundo17"
+          },
+          "18": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo18/mundo18"
+          },
+          "19": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo19/mundo19"
+          },
+          "20": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo20/mundo20"
+          },
+          "21": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo21/mundo21"
+          },
+          "22": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo22/mundo22"
+          },
+          "23": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo23/mundo23"
+          },
+          "24": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo24/mundo24"
+          },
+          "25": {
+            "Versao": 3,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo25/mundo25"
+          },
+          "26": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo26/mundo26"
+          },
+          "27": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo27/mundo27"
+          },
+          "28": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo28/mundo28"
+          },
+          "29": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo29/mundo29"
+          },
+          "30": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo30/mundo30"
+          },
+          "31": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo31/mundo31"
+          },
+          "32": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo32/mundo32"
+          },
+          "33": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo33/mundo33"
+          },
+          "34": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo34/mundo34"
+          },
+          "35": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo35/mundo35"
+          },
+          "36": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo36/mundo36"
+          },
+          "37": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo37/mundo37"
+          },
+          "38": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo38/mundo38"
+          },
+          "39": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo39/mundo39"
+          },
+          "40": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo40/mundo40"
+          },
+          "41": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo41/mundo41"
+          },
+          "42": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo42/mundo42"
+          },
+          "43": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo43/mundo43"
+          },
+          "44": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo44/mundo44"
+          },
+          "45": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo45/mundo45"
+          },
+          "46": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo46/mundo46"
+          },
+          "47": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo47/mundo47"
+          },
+          "48": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo48/mundo48"
+          },
+          "49": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo49/mundo49"
+          },
+          "50": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo50/mundo50"
+          },
+          "51": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo51/mundo51"
+          },
+          "52": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo52/mundo52"
+          },
+          "53": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo53/mundo53"
+          },
+          "54": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo54/mundo54"
+          },
+          "55": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo55/mundo55"
+          },
+          "56": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo56/mundo56"
+          },
+          "57": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo57/mundo57"
+          },
+          "58": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo58/mundo58"
+          },
+          "59": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo59/mundo59"
+          },
+          "60": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo60/mundo60"
+          },
+          "61": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo61/mundo61"
+          },
+          "62": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo62/mundo62"
+          },
+          "63": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo63/mundo63"
+          },
+          "64": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo64/mundo64"
+          },
+          "65": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo65/mundo65"
+          },
+          "66": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo66/mundo66"
+          },
+          "67": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo67/mundo67"
+          },
+          "68": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo68/mundo68"
+          },
+          "69": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo69/mundo69"
+          },
+          "70": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo70/mundo70"
+          },
+          "71": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo71/mundo71"
+          },
+          "72": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo72/mundo72"
+          },
+          "73": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo73/mundo73"
+          },
+          "74": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo74/mundo74"
+          },
+          "75": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo75/mundo75"
+          },
+          "76": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo76/mundo76"
+          },
+          "77": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo77/mundo77"
+          },
+          "78": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo78/mundo78"
+          },
+          "79": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo79/mundo79"
+          },
+          "80": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo80/mundo80"
+          },
+          "81": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo81/mundo81"
+          },
+          "82": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo82/mundo82"
+          },
+          "83": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo83/mundo83"
+          },
+          "84": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo84/mundo84"
+          },
+          "85": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo85/mundo85"
+          },
+          "86": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo86/mundo86"
+          },
+          "87": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo87/mundo87"
+          },
+          "88": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo88/mundo88"
+          },
+          "89": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo89/mundo89"
+          },
+          "90": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo90/mundo90"
+          },
+          "91": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo91/mundo91"
+          },
+          "92": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo92/mundo92"
+          },
+          "93": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo93/mundo93"
+          },
+          "94": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo94/mundo94"
+          },
+          "95": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo95/mundo95"
+          },
+          "96": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo96/mundo96"
+          },
+          "97": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo97/mundo97"
+          },
+          "98": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo98/mundo98"
+          },
+          "99": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo99/mundo99"
+          },
+          "100": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo100/mundo100"
+          },
+          "101": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo101/mundo101"
+          },
+          "102": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo102/mundo102"
+          },
+          "103": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo103/mundo103"
+          },
+          "104": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo104/mundo104"
+          },
+          "105": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo105/mundo105"
+          },
+          "106": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo106/mundo106"
+          },
+          "107": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo107/mundo107"
+          },
+          "108": {
+            "Versao": 2,
+            "Url": "https://d1ezfb95yb1u96.cloudfront.net/mundo108/mundo108"
+          }
+        },
+        "Countdown": {
+          "Language": "1aca585a-8e15-3029-89a0-54aa078acec2",
+          "Seconds": -1,
+          "NovosMundos": false,
+          "Countdown": "-23.05:44:32.3221676",
+          "WorldNumber": 108
+        }
+      },
+      "PackConfig": {
+        "Enabled": true,
+        "PuzzleCost": 2,
+        "PuzzleParaLiberarPacks": 45,
+        "PackCollectionsVersion": {
+          "e85217af-89d5-4976-8fbd-10b89b895d7b": 244,
+          "86dca5e0-add2-4020-b26a-82a4ea135e97": 115,
+          "a2bf8938-3c7e-4b2d-a44e-a0babd78adf9": 115,
+          "a60bc1b6-46a5-495f-8ded-b33d55442007": 117
+        },
+        "ModalNovosPacks": null
+      },
+      "SubscriptionConfig": {
+        "Enabled": true,
+        "Bullets": [
+          "No ads when you solve puzzles",
+          "More daily prizes",
+          "Earn double the Bitz when you complete a puzzle",
+          "Unlimited energy to play Missions",
+          "Full access to Themed Packs"
+        ],
+        "BulletsV2": [
+          "No ads when you solve puzzles",
+          "More daily prizes",
+          "Unlimited energy to play Missions",
+          "Full access to Themed Packs",
+          "Earn more pages by solving puzzles"
+        ],
+        "FaqUrl": "https://codycross-en-2-0.helpscoutdocs.com/category/188-subscriptions-and-packs",
+        "Benefits": [
+          {
+            "Description": "No ads when you solve puzzles",
+            "SubscriptionBenefitIcon": 1
+          },
+          {
+            "Description": "More daily prizes",
+            "SubscriptionBenefitIcon": 2
+          },
+          {
+            "Description": "Earn double the Bitz when you complete a puzzle",
+            "SubscriptionBenefitIcon": 4
+          },
+          {
+            "Description": "Unlimited energy to play Missions",
+            "SubscriptionBenefitIcon": 5
+          },
+          {
+            "Description": "Full access to Themed Packs",
+            "SubscriptionBenefitIcon": 6
+          }
+        ],
+        "BenefitsV2": [
+          {
+            "Description": "No ads when you solve puzzles",
+            "SubscriptionBenefitIcon": 1
+          },
+          {
+            "Description": "More daily prizes",
+            "SubscriptionBenefitIcon": 2
+          },
+          {
+            "Description": "Unlimited energy to play Missions",
+            "SubscriptionBenefitIcon": 5
+          },
+          {
+            "Description": "Full access to Themed Packs",
+            "SubscriptionBenefitIcon": 6
+          },
+          {
+            "Description": "Earn more pages by solving puzzles",
+            "SubscriptionBenefitIcon": 7
+          }
+        ],
+        "ProductId": "codycross.subscription.monthly.freetrial.a",
+        "SubscriptionType": 2,
+        "ProgressToShowNag": 20
+      },
+      "MapChestConfig": {
+        "Enabled": true,
+        "RateOfAppearance": 3
+      },
+      "AvatarConfig": {
+        "AvatarCost": 10,
+        "DefaultAvatarId": "73627c27-2634-43fb-ac86-118f07dc6e29",
+        "Version": "f05792b810e1773d",
+        "AvatarList": {
+          "5d68f390-8314-407e-9278-717f395210f4": {
+            "UnlockMethod": 3,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "85808b99-8fba-4022-9e97-9ffc10a3b1a7": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 5,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "89150f61-0a93-4bbe-a91c-e245d95e5205": {
+            "UnlockMethod": 1,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "de810cc3-e3e6-4fe9-bc6f-ae73915a05f5": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 17,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "14647d30-6034-4bcc-8ade-9324478e5e7d": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 18,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "1f9100e5-19eb-46ab-aa59-2417a0eeb708": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "e1a65fe7-7b20-4a85-918b-c39676dded5b": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 27,
+            "ProgressUnlockGroupIndex": 5
+          },
+          "10a3d49c-9731-459c-9b05-9566a433285c": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 14,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "5ce9cb2f-67d1-4b84-b0ef-a534e82b729f": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 28,
+            "ProgressUnlockGroupIndex": 15
+          },
+          "4dfa4371-bd93-4576-a3c1-de8978bef598": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 32,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "a46ba835-d648-4b36-ab0a-6d2b3760c1f5": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 33,
+            "ProgressUnlockGroupIndex": 5
+          },
+          "200d7a7d-3f70-46d3-8caf-9a2434f4b239": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 36,
+            "ProgressUnlockGroupIndex": 15
+          },
+          "2f74c7c6-80f3-471b-9030-86f61e22a061": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 14,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "7cbfd0b1-0e19-4de1-ae09-29dfa154c7fd": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 38,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "23b7f217-3919-41e6-a0a5-b51eea6baae3": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 4,
+            "ProgressUnlockGroupIndex": 15
+          },
+          "013c86bb-c6ed-4f47-ad2b-4d65720f6582": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "12b2a617-fa0b-40f7-98f2-0c64af659ec7": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "307828fa-6a6e-477b-a89f-7f4ce3653296": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 6,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "c7092f55-0e95-4912-b591-150cdbfb6dbe": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 7,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "dd0c5c31-fd6e-4450-90f7-f1f1f2ce1c4e": {
+            "UnlockMethod": 3,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "b62a975f-b53b-4f76-9a9b-6195d4c299d8": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 9,
+            "ProgressUnlockGroupIndex": 5
+          },
+          "4ec0b840-3dbd-4a29-a222-24dbdcc05feb": {
+            "UnlockMethod": 3,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "dda5db92-d7a1-4c91-a897-1af2361d5dd4": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 15,
+            "ProgressUnlockGroupIndex": 5
+          },
+          "a847ae13-9e9f-4485-a02a-39b46aa1464c": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 16,
+            "ProgressUnlockGroupIndex": 13
+          },
+          "629e5690-7bdb-4b35-b952-3d0e6c8f775f": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "2b200815-2a2b-4395-8917-0f9deecc160b": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "37d398b3-9ab9-4945-be6b-8c686609e6e5": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 17,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "732ebcd2-4b41-43b7-ab63-b0165ac413bd": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 19,
+            "ProgressUnlockGroupIndex": 15
+          },
+          "f5d0e509-b8bf-4963-8123-6e006225951b": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 24,
+            "ProgressUnlockGroupIndex": 15
+          },
+          "25c46097-14da-48ee-9beb-4001451ce3cd": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 21,
+            "ProgressUnlockGroupIndex": 5
+          },
+          "b6dcb5c0-0389-48d4-9ec9-19faa9581f9a": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 25,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "39f02fec-6cba-45ef-a367-8c9aa437a6f9": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 25,
+            "ProgressUnlockGroupIndex": 13
+          },
+          "c08c6e28-879b-4395-b4e4-2837f3f5fb6a": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "df0f74c4-2388-4782-91ba-eb481bfb6dd5": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 29,
+            "ProgressUnlockGroupIndex": 13
+          },
+          "a09251b8-0ba4-4449-9b0f-a804e3f1d213": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 32,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "8d358412-2ace-4ee5-8c68-f5dd6810aecd": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "ff56e90a-028c-43be-b469-afb1514c71d5": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 38,
+            "ProgressUnlockGroupIndex": 13
+          },
+          "4cfb5708-d180-4d56-ad54-ba6245ffb9d8": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "1b155fc0-a7e9-42f5-bb01-678d6ea48e68": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "0631eaf2-e4dc-4aed-9430-8b056233bc2a": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 15,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "3dd8623d-7041-4338-9928-baea0c57fef5": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "a1dfa53b-8e9e-463a-9d13-802d146c65a1": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 13,
+            "ProgressUnlockGroupIndex": 3
+          },
+          "018bc516-105e-4b21-ab6c-f462b89bea19": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 24,
+            "ProgressUnlockGroupIndex": 5
+          },
+          "adad4a21-0556-44db-9b83-0d9c0da2b029": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 11,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "0c2fd2d3-e0ed-45bf-8616-6e86424b18b5": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 16,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "cdbbab25-1a46-4a2f-a0a1-4b159428c26b": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 23,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "4a519175-1a55-4f4f-a9b1-ed108260fc92": {
+            "UnlockMethod": 3,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "d6169a72-5316-423b-af0f-5e62ccd36752": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 8,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "4bcdbe86-af18-4cb4-a315-ed2475ba3a66": {
+            "UnlockMethod": 1,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "263f7d4f-b028-490d-b4cc-855caed3b00f": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "903805cb-d55b-4f4b-bfa9-e7278c3316a8": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 19,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "dd8fa1ec-e153-488c-a017-90c710962bc6": {
+            "UnlockMethod": 1,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "b010954f-bee1-4015-9d62-7b5a46f07eaa": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 26,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "83842a3f-225a-4555-83c8-e815eba5a36f": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "f4f69cd2-a562-4cd5-a060-34f4adb278e8": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "36cfa08d-d880-4d75-b525-189b23948465": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "d37cceb5-12e4-48b2-b54e-393ec0d10503": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 29,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "80c5cd65-895e-4c37-8370-d690c3f4572d": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 2,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "f0ed4320-3ba9-45df-8403-2bbb06258899": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 41,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "95a52a29-60f8-43a3-86d9-05c97e1145d9": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 7,
+            "ProgressUnlockGroupIndex": 15
+          },
+          "81d655d9-b801-4402-a45f-e009221f54e3": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 10,
+            "ProgressUnlockGroupIndex": 15
+          },
+          "1e995dd8-f37a-4bb5-922b-09f9b1030861": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 1,
+            "ProgressUnlockGroupIndex": 15
+          },
+          "623bc7c6-8625-405f-a5a2-e197f7d3a45b": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 8,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "d6c3152e-cd25-4b39-828a-b53d35677542": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "6d5427c4-4633-402a-8a50-ca41756b4483": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 11,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "22310f94-0251-4f49-a2e3-6ab4df99150c": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 12,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "62998289-ab44-45c0-9547-52b707cff337": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "b532166c-b519-4970-9d86-7f77c5f28c80": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 26,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "a6a2d170-6e52-4c37-b83b-cad144f8271f": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 40,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "6e155174-422b-4e95-8885-96a8584d4076": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 41,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "cd84c694-767c-40e8-96da-1fdc48931c5b": {
+            "UnlockMethod": 1,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "73627c27-2634-43fb-ac86-118f07dc6e29": {
+            "UnlockMethod": 1,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "f2f14f3b-03d9-45e8-a9be-56cab62e1f66": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 20,
+            "ProgressUnlockGroupIndex": 5
+          },
+          "0c8a595d-9fac-4390-87f7-656b83d19f2d": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 20,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "4d26e1a6-5a3d-4320-8166-4b9fb68e69ae": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 21,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "19709074-d4c4-42a8-87f0-e4e1bed0a241": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 1,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "d130ddb3-4280-40b8-97d5-9ec75f1f736d": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 22,
+            "ProgressUnlockGroupIndex": 15
+          },
+          "75f42a14-46ee-4d78-974c-054820c2cbf3": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "f9550e60-3d19-4883-9493-87ba859be94e": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "1a2f24dc-40b2-4f37-b460-cf05d07c5083": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 5,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "38d00b26-353b-4531-bbc9-9a6e04b12607": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "cdd1057c-d64c-49d1-afdc-318062aa8ef8": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 27,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "16a428dc-d8a1-4ba1-904b-1ea44cf53dcc": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 18,
+            "ProgressUnlockGroupIndex": 5
+          },
+          "9b4dacc0-8207-471d-8bd0-ffc1d65a6693": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "cc05f6a4-11de-482a-89c1-a4ced1e23211": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 35,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "a4a021f6-c598-4a5b-a421-dae452737c54": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "93834145-cf10-46ed-84d5-ee5072583662": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 31,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "90d3dd99-bd22-4212-bdfe-a06f2e5f3d0f": {
+            "UnlockMethod": 3,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "613f78c1-1e07-4fe5-a0c6-66269fddd49c": {
+            "UnlockMethod": 1,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "79fedd3e-5466-48af-be18-fc0e7dc8e9a6": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 37,
+            "ProgressUnlockGroupIndex": 13
+          },
+          "d675a47e-3645-40df-8eba-5ed8ac6208c7": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 2,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "7dabf9b4-ce8b-4821-a30a-53cd57c1431b": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 3,
+            "ProgressUnlockGroupIndex": 5
+          },
+          "9c25be5a-340d-4013-9a00-13470173a006": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 4,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "8689682b-f268-455e-8554-70f16083c8dc": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "fec63690-a8e3-4cde-9d11-c1f0f41186ed": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 10,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "a2ab9336-50d9-452e-9d91-1fa6516b00c2": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 22,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "c40d7c09-3082-43e2-8928-a92b869e982c": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 23,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "5c142010-edaa-4dcd-8c45-68d7f53f6724": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "6faa86b9-883b-4766-9d00-a91f291ffa47": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 30,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "564d36de-08a5-42ea-97fb-34fe9995d725": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 30,
+            "ProgressUnlockGroupIndex": 3
+          },
+          "3c86d72d-f268-4724-a299-33ef5c8b0c2a": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 39,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "f36e6885-64b6-4ba8-ae60-f5024de642a3": {
+            "UnlockMethod": 3,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "088039d8-53c8-4404-acd4-75b32385db8a": {
+            "UnlockMethod": 3,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "d05c54d9-caaf-4dc4-97b6-acfd19357a5c": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 3,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "959ed867-145d-4681-8fd0-ca5250291ef8": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 34,
+            "ProgressUnlockGroupIndex": 15
+          },
+          "22cd9ab0-de52-4d5e-93c1-edac5604a38a": {
+            "UnlockMethod": 3,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "d913bd03-7ba9-490a-8514-228fbd7c56da": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "4d10445d-e7e7-4bf1-aac6-43a2ca0695b8": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 31,
+            "ProgressUnlockGroupIndex": 15
+          },
+          "08ab7d21-b588-4201-91ce-457881821244": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 34,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "a1980896-a42d-4302-8b24-d0596fe12b80": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "4f58da37-f63e-42d0-859b-5fffff0db812": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "7911a855-3df3-45a2-b5d4-b3001e1b891b": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 33,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "6ba4ee88-d81f-4766-acb2-b6e057348e33": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 39,
+            "ProgressUnlockGroupIndex": 3
+          },
+          "e6d414b1-137e-4d0b-8c77-ba74b7a33b1e": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 37,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "2f1a3988-6a95-456b-a5d4-d37d166658c2": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 42,
+            "ProgressUnlockGroupIndex": 5
+          },
+          "5f190cc5-7fcc-4493-9168-6aa7f0e86c43": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 6,
+            "ProgressUnlockGroupIndex": 5
+          },
+          "7830a8f3-2872-4276-b350-ef3065b1a1b5": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 9,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "e0273bb8-3a75-4de0-b329-3514b96ad835": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "7fac1247-dd9c-426d-a8b3-51bf517fd8c1": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "8a0adced-9c0d-4404-82e6-e900c2e76973": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 12,
+            "ProgressUnlockGroupIndex": 5
+          },
+          "21b11f74-7326-45da-8857-328966755c2e": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "7f394581-fa7c-4011-859a-5362102b7bd2": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "0513f3aa-f4cc-4fc8-b2ba-4c926a40f267": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "61a4279f-f81c-4c05-a646-ae83cef22c6c": {
+            "UnlockMethod": 3,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "cd826bdd-2fe3-4a76-88fa-ceba912ce60b": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 35,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "1e36997e-d849-4233-a0ee-7726f58a3bcb": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 28,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "eeda19f8-a5a0-4132-a5e4-a8ed41967670": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "64c6955d-1724-41ab-ad0c-1667cf6f3734": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 36,
+            "ProgressUnlockGroupIndex": 3
+          },
+          "4d6acc42-9840-498b-b745-25c8ccf06209": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 40,
+            "ProgressUnlockGroupIndex": 13
+          },
+          "a66b8e98-04b6-43a9-8c66-ebc922d7cd54": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 42,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "e16d99e3-a89d-45b8-aff9-fd296b162399": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 43,
+            "ProgressUnlockGroupIndex": 15
+          },
+          "0a18b057-1e91-4742-884b-4284315c2b16": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 44,
+            "ProgressUnlockGroupIndex": 5
+          },
+          "c535e790-8b2f-4beb-9597-d1645db56884": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "6cce789c-4099-4ddd-beda-4a47b0cc7970": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 46,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "c20d4742-264d-4954-a6b6-711e8943cf71": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 13,
+            "ProgressUnlockGroupIndex": 15
+          },
+          "927074f7-294d-4dac-8708-ec7a14a5371b": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "a9d820f5-d1bc-4f5d-98de-2390b41cea57": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 45,
+            "ProgressUnlockGroupIndex": 3
+          },
+          "f09010bd-b430-44e4-a3a8-bc558a1c663d": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 43,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "9d3580b7-1977-41b2-af46-f141bb4a92a3": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 44,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "0526f268-e67f-4e02-adc5-aece24eab07e": {
+            "UnlockMethod": 3,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "6673bda3-7ff7-44b4-9f1b-5fbfb8aeda0c": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "dcd1f329-dd36-4285-ab79-1dbee178f22b": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "62184909-5d76-4e93-a666-f929836af2f3": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 45,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "a756c420-55ab-4d72-afc6-97f94301b08d": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 46,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "ce23bfe3-0606-406c-8ac3-da97e2db2e3e": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "9fcb0141-bb90-4952-9687-c3cca8c664c8": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 47,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "0de53aa0-50dd-4eb6-a2a2-0db262ca2fb7": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 47,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "9ed7291b-0165-4c31-9535-495c0f8357b5": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "940a80c3-2e06-47b4-a556-6f031cd25452": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 48,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "5278ded5-3286-47ff-8a7f-691dfb12ce4a": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 48,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "0a17bec2-baa1-43ed-b900-9ff99222efaf": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 49,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "7e4c3e10-afa1-4dd1-a2ab-7b21414eeaf1": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 49,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "57577638-694a-43b4-a899-75ea7a7c4cf1": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "28daf6d0-b80d-44c3-9ccd-9e2f7c8300e1": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 50,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "4743c458-1208-45a4-810b-5c4bd6addf28": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 50,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "fd7eb9a2-fee4-4006-a4fa-87e6c9c12e45": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "6eaecd27-aa95-4f4e-ad66-8d3736fe732a": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 51,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "cf193017-099a-48e9-ace7-303efe964098": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 51,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "2a41d405-f2cc-4a5a-9529-840349359ebf": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "4151344a-006d-475b-b73d-fdb9c78e6721": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 52,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "f51601ba-f2cb-4518-946d-522d834de1e9": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 52,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "db9fab2c-474f-414d-8fa8-397934950705": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "6c5a56b2-ca87-4863-b0af-a2ed7003a5a8": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 53,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "bdadd2cf-d6ab-4a80-aa84-409e6ce77336": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 53,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "0973e0ad-b0da-474d-858c-88967666239a": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "0095cbe4-0007-4c33-b571-c4cf14179067": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 54,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "ed86f9e6-57cc-499e-85e1-b8cf0e179914": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 54,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "8e307ed1-461a-4e80-a594-8e8fbe356d4d": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "43a84042-f934-45d5-9d38-92560d6532c6": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 55,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "070e49c5-310b-4cef-b3d3-5af16a262d4e": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 55,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "7f415078-51c0-444b-a901-69e7d2b6e30a": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "1556fc38-8822-4801-8c1e-8a56296abce2": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 56,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "d555ece7-0fa4-44cd-878a-21f113e73c84": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 56,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "acfabc7d-fc48-410c-94ec-00f18959a0fb": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "289bd5a9-a4a4-40fa-a264-d876eb37f7ca": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 57,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "860edc50-58b5-46c0-a6e1-8d2117399b76": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 57,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "2bec327d-fadf-445f-9fad-a4b29a3cf1e7": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "6416a531-1079-4539-b091-5a8d5b8edfb5": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 58,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "cb82d1b1-558d-4c54-8359-3cac76e7d801": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 58,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "b7108bc6-07a9-4f4e-ab4e-6caba63aecfb": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "31823d7c-f961-477c-9702-1056d14b0572": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 59,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "8eba3f52-07f7-44b6-b4c4-503f12c88147": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 59,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "497213a1-9f01-44c3-b7c2-709c9a5a46ff": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "2cb90e95-1327-4485-ba96-0d09589325f6": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 60,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "afc51df3-8218-466a-bd53-f8ecbfd1e0df": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 60,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "7b638792-1baf-4724-b117-9e26c7bc75d9": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "e2d3b3e9-ee55-47dd-bea6-0d96fbd03acd": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 61,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "f3e7a7f2-12b5-4568-a09e-dbd5481aac44": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 61,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "74314683-e669-48f9-8eda-191944568ac5": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "2c2ae093-da29-44b3-a662-e71574fd5c21": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 62,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "9191d21f-0cdb-4a0a-a98c-aed327848b34": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 62,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "32fca558-38ce-426f-943d-34fa38b81249": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "bed00470-ac66-4743-8a0c-7c7a2d5da78e": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 63,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "54a88fd7-21e1-45bf-abc0-9405c268988c": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 63,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "838b1adc-5144-4686-9f27-343829969311": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "86c974fe-137f-42b4-b88d-85542beabedb": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 64,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "5c5f7228-a0dd-4d42-b4f4-c1d947d69257": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 64,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "d77e5e06-e808-438b-ac08-350b551e0754": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "a412091c-9816-41a3-8202-aa8640b9e50f": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 65,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "eb25b6c8-a387-4309-a1aa-4647b5aee250": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 65,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "8ec6dafd-2e1b-4926-adbe-5e722fad5afc": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "7a7c1f28-a8df-4c17-98f6-24bd3ca6805a": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 66,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "4c3b588c-eb6e-4688-9cf2-fc29b902d0c3": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 66,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "f798a5a8-fa17-4564-a2c9-fa5567d6a2c5": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "b01485b6-9594-4fbf-9b16-98a1fd3b10ed": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 67,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "040c4c6b-18e9-480e-9749-4d0072c1a870": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 67,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "74e2e8f6-4f44-491c-ba74-ba6b3b9b11f1": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "ec8c6c56-519c-4de2-82fa-1ed05a8c4544": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 68,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "47963330-8a2c-4c9b-8029-5dc5ecf785ff": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 68,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "d43ec376-16d9-4835-aaf0-d266a0e311db": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "e96435e5-9892-41a9-a328-738836884dd3": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 69,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "80ef010c-2efb-4f3d-bc7d-dd96410a4f53": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 69,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "f97269c5-90d1-408e-bab7-20ec2d6596be": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "0ea49e0f-eba1-4695-b47f-d537ceaba125": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 70,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "9ed6cc5a-578c-4da8-86df-a8cc3810dfe1": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 70,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "419579e7-f7b0-45d2-9e8b-eda43ebea5a2": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "19e6b003-0828-4960-8f4f-c7e86458a21a": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 71,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "6351c842-70a9-4768-8d64-4fd0bd1c184c": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 71,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "7a4281a3-bd55-48dc-b5fd-a91f716724bb": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "1d7318c5-0fa2-4e82-8533-46ec62c2f323": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 72,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "1b73b304-763a-4b3a-bf4c-c1522f1c246b": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 72,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "e11c0ad5-c9fe-4928-bf61-55e4d17decf8": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "afef709f-519a-4778-bdf4-65209b7f57aa": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 73,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "2659bc32-aeb6-4601-9c4d-1057529ddb7a": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 73,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "18e17522-91e1-4ea4-950a-a1e837737969": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "f46edb18-b5cb-4b60-a9da-3b704e2f3274": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 74,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "e1706ea8-5d13-4a09-b522-109572150f57": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 74,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "b495c82c-ea8d-4ce0-8601-1093112a4420": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "cf097368-80d4-48e8-9e37-afa5843a519b": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 75,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "4fbe0ec3-ac75-4e7e-af21-f7817c4d4664": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 75,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "fc818ee4-6763-4bea-9c53-d80902a4e2e7": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "bc5f5158-2f54-4470-9115-45a57d6cf33d": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 76,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "6e4dbb4a-181e-4e64-9b7f-0c8de6b1bcf4": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 76,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "3834a2aa-0d5c-4261-b0d0-b366c9662792": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "680c9480-8d69-4f8c-b622-2e85b92c7037": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 77,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "9fecab9a-d31f-42b2-ac2c-3a06d4fde2ec": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 77,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "9025589b-f258-4a69-898b-ce10c67508c5": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "b3334453-224f-4c83-a241-ce75c6463d64": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 78,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "c9b9d04c-c917-45f2-85f3-8f150aba7e91": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 78,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "6b6d5c1d-01c9-4bc5-a5ba-9c64490b832f": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "346d0bc0-a765-4299-8372-ec4004a05d39": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 80,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "c55cdc02-7c5f-4021-963f-db1b2c562d3b": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 80,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "73f4658d-dadb-40b7-b6de-754051d138cd": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "338be0d4-4968-4110-a807-587b038cf318": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 79,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "dfb3db8e-80fa-4a8a-b7ef-5620eec4ef50": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 79,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "d0188f67-d775-4aa6-9f1a-c33733096e6b": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "2b7a077d-d1ac-45e7-acbe-f06f44f17400": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 81,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "56ae7d1a-06ab-4d71-b349-038d19ce4992": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 81,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "84cee466-f0a4-4b2b-b048-82f33faf5ead": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "5f19c4f8-9414-4a81-aabc-7fb2197701a7": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 82,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "ccdf88b9-da0d-4c66-852d-de302ea115b1": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 82,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "596a7bed-2f73-481d-8cfe-b838b77e62a3": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "ffad9da4-b75f-48d5-810b-e199afc5ad0f": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 83,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "f8306500-f422-4523-84a0-6c736bd631c5": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 83,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "37e3edb3-4605-4a19-a6c0-fdb1b51a3ae1": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "40d47b56-0616-4ad2-9546-5d569d3da90c": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 84,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "ea95c7d3-864c-4f2a-837b-e6ea16e0be9e": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 84,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "d99f4fdd-0214-4007-8480-99e78e36e904": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "fda6a5f4-ccd5-45d6-a1f2-8e0836fa4b15": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 85,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "57b3c759-c26c-4c11-89fb-211226132e55": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 85,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "84145478-8b56-4690-bcb4-9e6b2dff2484": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "e825fca1-459d-44db-a0fc-4261637337eb": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 86,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "d61d3207-1a50-4cf4-a467-856cb4cbbf35": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 86,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "fcc2fb45-8abc-41ee-8a78-c4105a5feca5": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "c71ecf7e-8a2a-419c-97c8-5aa1ddcd8754": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 87,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "b417b0be-4571-45b5-ab1b-fa57255d4071": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 87,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "94baada8-15cd-4a85-b014-5a8f09d8998d": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "5150bb50-e1d2-496e-b1e0-21a8e1bf1694": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 88,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "a89b045e-c812-4c14-b97b-7bd26a58eeaa": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 88,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "9da4c8b7-ded6-4190-8287-219674f612f0": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "001594f0-5406-45ac-b5cf-347fdec25f2a": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 89,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "52066b8f-327a-410c-8561-d4569ac2f2d6": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 89,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "e0a74498-92de-459e-ae57-3c0fbecf350b": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "dd525c06-41a4-474b-a6da-5b93d86f5680": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 90,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "85c97937-4241-4d29-b355-b0539022dcf3": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 90,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "851c73b7-ed58-4e91-8ae1-96c011deac67": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "f6f1c54a-1a0f-4a0a-81b2-46113f170a07": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 91,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "e9e3257d-84f9-456d-abba-e34da648dc73": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 91,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "4954df8e-2229-4996-b1b7-80a77a76b590": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "c5ddd904-7f25-4e60-9466-1643d7dd14e6": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 92,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "182862f5-937f-44ad-8c9b-a2b9d64798c0": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 92,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "509b8818-9bd0-4bf1-ad67-8da21db50f18": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "0d75e57c-b872-4b09-bcda-7829458899b0": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 93,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "99f8b8ef-f425-43a5-9d2a-9770192eb5b1": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 93,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "7cd1af35-181d-47fa-b9bd-7a40252824e5": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "19ecb786-4f44-43be-826c-49da7c4a28a8": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 94,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "2c32e9c6-520b-4ab8-8e5d-1c79857cbeff": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 94,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "e51a4132-7ef2-46de-819d-ab0d903ed0f3": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "3b30f6ea-f06d-48ad-a6bf-a63750858e8c": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 95,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "af23a354-3413-40ae-af89-c5f58fccd43c": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 95,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "b5476c30-1fde-4c16-96ab-df3e8b6609e2": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "ff3da8ac-f288-4be4-9c06-9799242a53d6": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 96,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "4c3898c1-2241-4f61-8112-b51f1ee61011": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 96,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "58e76b2f-6f7e-4780-9461-877dbc2e377a": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "0ac6228c-d64a-4be6-bb0c-598757e0a0c9": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 97,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "f4b79f33-13aa-4ca0-9488-38e28384cbf8": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 97,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "de9f1e17-f4ef-47cf-8922-a889d94bd67a": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "0371d117-545a-489e-a467-46c79bbad2f6": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 98,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "cb8b7be2-3a81-4a5d-b05f-ccd860f6a54d": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 98,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "ef733072-a0e7-463f-b2e0-8e4ffad4d2f9": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "f3fb234d-2244-436f-af80-27053c702081": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 99,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "53ae0700-2fd4-46cb-99a9-fceabd86b654": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 99,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "e61e7ede-8a28-4ebf-9039-ea2f6366ca76": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "534d0207-d1ff-40fe-85e5-18018d5547a3": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 100,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "3a3f0ddd-e30e-4389-b848-389c8d887023": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 100,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "c5de1d54-b501-402f-91be-74f2a7651286": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "d4a654a1-e47c-4aa4-bd1d-a05b9df86e5d": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 101,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "a345e947-eec1-4203-9eff-d7784bfe4590": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 101,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "e095f6e2-cc89-4841-bd29-94882b2d452f": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "a8be2fa7-7967-4cc0-b895-c0d25c1f5fe4": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 102,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "3e233565-94cf-42ef-8af5-25a9fef71379": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 102,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "ee333fee-2d7b-46c9-a64e-d30f6432ca8c": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "c3ce5dd7-34da-458f-9c7f-e6f690a9fff8": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 103,
+            "ProgressUnlockGroupIndex": 4
+          },
+          "6f6738d5-77a9-46ac-8ad5-8c1f5c58202f": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 103,
+            "ProgressUnlockGroupIndex": 14
+          },
+          "9edebfd9-68aa-4890-8a60-0cea49b64a30": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "01a4b0ca-3ff9-4555-bb7c-1efc4bce707a": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 104,
+            "ProgressUnlockGroupIndex": 5
+          },
+          "6fe85743-fd9d-4e6f-bde5-e39df470a72e": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 104,
+            "ProgressUnlockGroupIndex": 15
+          },
+          "e68bc20c-7084-4ffc-9635-691d08819f40": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "aa9d574f-9048-4836-96b5-0c079bde233f": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "d855de23-70db-4216-94e5-6cc9d9541ae7": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 105,
+            "ProgressUnlockGroupIndex": 5
+          },
+          "5369a573-b7af-4bb6-a976-e13eab5322a6": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 105,
+            "ProgressUnlockGroupIndex": 15
+          },
+          "5843c4da-e99d-4b58-8338-283a1265eaf1": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "fb80eb1c-1912-4d27-8bd8-d5b3bce02ddb": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 106,
+            "ProgressUnlockGroupIndex": 5
+          },
+          "aac873cc-9318-4c15-b67d-6073c9b07e4f": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 106,
+            "ProgressUnlockGroupIndex": 15
+          },
+          "305711e7-31a6-46d9-ad80-6191d5890fe6": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 107,
+            "ProgressUnlockGroupIndex": 5
+          },
+          "e661cb36-687b-4c9b-b78c-9c428c12fd5d": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 107,
+            "ProgressUnlockGroupIndex": 15
+          },
+          "5b52564e-79f8-49eb-8501-2153537a8a1e": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          },
+          "fbdd044f-6f54-4d69-bbc9-9ae7f4c1b105": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 108,
+            "ProgressUnlockGroupIndex": 5
+          },
+          "431f337e-c682-44b5-9d8b-971c79c8af2f": {
+            "UnlockMethod": 4,
+            "ProgressUnlockWorldNumber": 108,
+            "ProgressUnlockGroupIndex": 15
+          },
+          "1c6bc9d0-bf66-4e03-97f3-8aea02be8c79": {
+            "UnlockMethod": 2,
+            "ProgressUnlockWorldNumber": null,
+            "ProgressUnlockGroupIndex": null
+          }
+        }
+      },
+      "LimitedOffersConfig": [
+        {
+          "Id": "94d3091e-22b7-48c6-bfa9-9143d07ffee8",
+          "Identificador": "starter_pack",
+          "OfferPuzzle": 5,
+          "Enabled": true,
+          "OfferDuration": "1.00:00:00",
+          "Product": "codycross.bundle.3",
+          "TokenThreshold": 0
+        }
+      ],
+      "CifraRatingQueueConfig": {
+        "CifraQueueLength": 10,
+        "RefreshThreshold": 0.3,
+        "Enabled": true,
+        "MinPuzzle": 25
+      },
+      "SecretMessageConfig": {
+        "Enabled": true,
+        "DailyLimit": 10,
+        "Remaining": 10,
+        "PuzzleNumberModalSecretMessageTutorial": [
+          24
+        ]
+      },
+      "CascataPorCpm": {
+        "Enabled": true,
+        "Rewarded": [
+          5,
+          15,
+          25,
+          45,
+          100
+        ],
+        "Interstitial": [
+          5,
+          10,
+          20,
+          30,
+          70
+        ],
+        "Banner": [
+          0.16,
+          0.46,
+          1.06,
+          2,
+          3.6
+        ]
+      },
+      "ProductConfig": {
+        "NoAdsProductConfig": {
+          "Enabled": true,
+          "CPM": 0
+        },
+        "NoAdsPeriodConfig": {
+          "Enabled": true,
+          "CPM": 0
+        }
+      },
+      "InAppOfferConfig": {
+        "AfterInterstitial": {
+          "Enabled": true,
+          "BaseOffers": [],
+          "PerCpmOffers": [
+            {
+              "DailyInterstitialPeriod": 30,
+              "Products": [
+                {
+                  "Identificador": "codycross.no.ads.period.offer.3",
+                  "AppleProductId": "codycross.no.ads.period.offer.3",
+                  "AndroidProductId": "codycross.no.ads.period.offer.3",
+                  "GalaxyStoreProductId": "",
+                  "Nome": "No ads for 30 days",
+                  "Descricao": "",
+                  "AdFreeTime": 0,
+                  "AdFreeTimeUnit": 0,
+                  "InfiniteEnergyTime": 0,
+                  "InfiniteEnergyTimeUnit": 0,
+                  "RewardBundle": null,
+                  "LabelType": 0,
+                  "USDBasePrice": 0.99,
+                  "Label": 0
+                },
+                {
+                  "Identificador": "codycross.no.ads.period.offer.2",
+                  "AppleProductId": "codycross.no.ads.period.offer.2",
+                  "AndroidProductId": "codycross.no.ads.period.offer.2",
+                  "GalaxyStoreProductId": "",
+                  "Nome": "No ads for 30 days",
+                  "Descricao": "",
+                  "AdFreeTime": 0,
+                  "AdFreeTimeUnit": 0,
+                  "InfiniteEnergyTime": 0,
+                  "InfiniteEnergyTimeUnit": 0,
+                  "RewardBundle": null,
+                  "LabelType": 0,
+                  "USDBasePrice": 1.99,
+                  "Label": 0
+                },
+                {
+                  "Identificador": "codycross.no.ads.period.offer.1",
+                  "AppleProductId": "codycross.no.ads.period.offer.1",
+                  "AndroidProductId": "codycross.no.ads.period.offer.1",
+                  "GalaxyStoreProductId": "",
+                  "Nome": "No ads for 30 days",
+                  "Descricao": "",
+                  "AdFreeTime": 0,
+                  "AdFreeTimeUnit": 0,
+                  "InfiniteEnergyTime": 0,
+                  "InfiniteEnergyTimeUnit": 0,
+                  "RewardBundle": null,
+                  "LabelType": 0,
+                  "USDBasePrice": 2.99,
+                  "Label": 0
+                }
+              ],
+              "Thresholds": [
+                0.99,
+                1.99,
+                2.99
+              ],
+              "Enabled": true,
+              "Order": 3,
+              "Id": "00000000-0000-0000-0000-000000000000",
+              "PrivateName": "OfertaPorCPM",
+              "Product": {
+                "Identificador": "codycross.no.ads.period",
+                "AppleProductId": "codycross.no.ads.period",
+                "AndroidProductId": "codycross.no.ads.period",
+                "GalaxyStoreProductId": "",
+                "Nome": "No ads for 30 days",
+                "Descricao": "",
+                "AdFreeTime": 0,
+                "AdFreeTimeUnit": 0,
+                "InfiniteEnergyTime": 0,
+                "InfiniteEnergyTimeUnit": 0,
+                "RewardBundle": null,
+                "LabelType": 0,
+                "USDBasePrice": 3.99,
+                "Label": 0
+              },
+              "Duration": "12:00:00",
+              "Delay": "3.00:00:00",
+              "AssetBundle": {
+                "Id": "9a9d593d-be60-4830-ae0c-7e8445d612f1",
+                "Language": "en",
+                "Content": {
+                  "title": "SPECIAL OFFER",
+                  "disclaimer": "You can still watch ads to earn rewards",
+                  "skip": "No thanks",
+                  "offer_description": "Remove ads\nfor 30 Days",
+                  "time_left_detail": "Ends in:"
+                },
+                "Version": 6
+              }
+            }
+          ]
+        }
+      },
+      "AppsFlyer": {
+        "TemplateId": "yjjH",
+        "TriviaTemplateId": "V676"
+      },
+      "CmpConfig": {
+        "Enabled": true
+      },
+      "MemberGetMemberConfig": {
+        "InvitePrizes": [
+          {
+            "SubscriptionDays": 3,
+            "Rewards": [],
+            "Book": null,
+            "RewardDescription": "3-day subscription to CodyCross Club"
+          },
+          {
+            "SubscriptionDays": 0,
+            "Rewards": [
+              {
+                "Item": 1,
+                "Count": 10
+              }
+            ],
+            "Book": null,
+            "RewardDescription": "10 tokens"
+          },
+          {
+            "SubscriptionDays": 7,
+            "Rewards": [],
+            "Book": null,
+            "RewardDescription": "7-day subscription to CodyCross Club"
+          },
+          {
+            "SubscriptionDays": 0,
+            "Rewards": [
+              {
+                "Item": 1,
+                "Count": 20
+              }
+            ],
+            "Book": null,
+            "RewardDescription": "20 tokens"
+          },
+          {
+            "SubscriptionDays": 10,
+            "Rewards": [
+              {
+                "Item": 1,
+                "Count": 40
+              }
+            ],
+            "Book": null,
+            "RewardDescription": "10-day subscription to CodyCross Club + 40 tokens"
+          }
+        ],
+        "SubscriberInvitePrizes": [
+          {
+            "SubscriptionDays": 0,
+            "Rewards": [
+              {
+                "Item": 1,
+                "Count": 10
+              }
+            ],
+            "Book": null,
+            "RewardDescription": "10 tokens"
+          },
+          {
+            "SubscriptionDays": 0,
+            "Rewards": [
+              {
+                "Item": 1,
+                "Count": 20
+              }
+            ],
+            "Book": null,
+            "RewardDescription": "20 tokens"
+          },
+          {
+            "SubscriptionDays": 0,
+            "Rewards": [
+              {
+                "Item": 1,
+                "Count": 30
+              }
+            ],
+            "Book": null,
+            "RewardDescription": "30 tokens"
+          },
+          {
+            "SubscriptionDays": 0,
+            "Rewards": [
+              {
+                "Item": 1,
+                "Count": 40
+              }
+            ],
+            "Book": null,
+            "RewardDescription": "40 tokens"
+          },
+          {
+            "SubscriptionDays": 0,
+            "Rewards": [
+              {
+                "Item": 1,
+                "Count": 50
+              }
+            ],
+            "Book": null,
+            "RewardDescription": "50 tokens"
+          }
+        ],
+        "InvitedRewardValue": 15
+      },
+      "PlayersOnMapConfig": {
+        "Enabled": true,
+        "MaxGroupSize": 10,
+        "MaxPinsAhead": 30,
+        "MaxPinsBehind": 15
+      },
+      "RankedEventsConfig": {
+        "MinPuzzle": 40,
+        "ScorePerPuzzleComplete": 10,
+        "Notification": {
+          "Started": true,
+          "WillEnd": true,
+          "Ended": true,
+          "WillEndOffset": "02:00:00"
+        },
+        "ShowSmallOfferModal": false,
+        "IapOfferProduct": "codycross.rankedevent.offer.1",
+        "Enabled": true
+      },
+      "DailyChestConfig": {
+        "CollectFromStore": true,
+        "CollectFromHome": true,
+        "AllowSkipDoubleDailyRewardedAd": false,
+        "MaxPuzzleShowUnavailableStateNag": 50
+      },
+      "SkinConfig": {
+        "Version": -922743643,
+        "UnlockPuzzle": 22,
+        "TutorialSkin": "7d67be93-c855-4356-9a2a-967bde295191",
+        "Default": {
+          "Cody": {
+            "Id": "63aa2895-2f66-498c-9ece-0e93c51d2f94"
+          },
+          "Dibz": {
+            "Id": "a6d32b83-8af4-425b-820f-7d94b5c74bef"
+          },
+          "Liz": {
+            "Id": "e9d21d42-4c2a-4244-933a-f8838b6efc2e"
+          },
+          "Twiz": {
+            "Id": "17247d74-e18d-423f-a6fb-fa3ec6b6f909"
+          },
+          "Voltz": {
+            "Id": "e6238188-9666-4c4f-b313-d7b87aff49c8"
+          },
+          "Header": {
+            "Id": "7d10744c-e2fd-4695-bb40-4b71cedd4832"
+          },
+          "Keyboard": {
+            "Id": "3d470f6f-7e9f-453d-a616-5da7c681fb52"
+          },
+          "Pin": {
+            "Id": "aeab940b-bf27-4017-abee-6a4892f67e16"
+          }
+        },
+        "InitialBitz": 3000
+      },
+      "CrossPromotionConfig": {
+        "Enabled": false,
+        "InstalledDaysNeededToShow": 1,
+        "DaysToBeShown": 20
+      },
+      "SignInConfig": {
+        "GoogleSignIn": {
+          "Enabled": false
+        },
+        "GsiSignIn": {
+          "Enabled": true
+        },
+        "FacebookSignIn": {
+          "Enabled": true
+        },
+        "FaqUrl": "https://codycross-en-2-0.helpscoutdocs.com/article/222-play-in-multiple-devices"
+      },
+      "PuzzleCompleteBarConfig": {
+        "BarSize": 22,
+        "CostToRestartInTokens": 5,
+        "RestartCooldown": "06:00:00",
+        "Prizes": {
+          "2": {
+            "Quantity": 100,
+            "Type": 6
+          },
+          "6": {
+            "Quantity": 100,
+            "Type": 6
+          },
+          "14": {
+            "Quantity": 100,
+            "Type": 6
+          },
+          "22": {
+            "Quantity": 100,
+            "Type": 6
+          }
+        },
+        "SubscriberPrizes": {
+          "2": {
+            "Quantity": 200,
+            "Type": 6
+          },
+          "6": {
+            "Quantity": 200,
+            "Type": 6
+          },
+          "14": {
+            "Quantity": 200,
+            "Type": 6
+          },
+          "22": {
+            "Quantity": 200,
+            "Type": 6
+          }
+        }
+      },
+      "PuzzleCompleteBarV2Config": {
+        "BarSize": 22,
+        "CostToRestartInTokens": 5,
+        "RestartCooldown": "06:00:00",
+        "Prizes": {
+          "2": {
+            "FragmentPackType": 10,
+            "Quantity": 1,
+            "Type": 20
+          },
+          "6": {
+            "FragmentPackType": 10,
+            "Quantity": 1,
+            "Type": 20
+          },
+          "14": {
+            "FragmentPackType": 10,
+            "Quantity": 1,
+            "Type": 20
+          },
+          "22": {
+            "FragmentPackType": 10,
+            "Quantity": 1,
+            "Type": 20
+          }
+        },
+        "SubscriberPrizes": {
+          "2": {
+            "FragmentPackType": 20,
+            "Quantity": 1,
+            "Type": 20
+          },
+          "6": {
+            "FragmentPackType": 20,
+            "Quantity": 1,
+            "Type": 20
+          },
+          "14": {
+            "FragmentPackType": 20,
+            "Quantity": 1,
+            "Type": 20
+          },
+          "22": {
+            "FragmentPackType": 20,
+            "Quantity": 1,
+            "Type": 20
+          }
+        },
+        "AlternativePrize": {
+          "Quantity": 100,
+          "Type": 6
+        },
+        "AlternativeSubscriberPrize": {
+          "Quantity": 200,
+          "Type": 6
+        }
+      },
+      "PreModalIdfa": {
+        "Enabled": false
+      },
+      "EscadinhaConfig": {
+        "Enabled": true
+      },
+      "BookLibraryV2Config": {
+        "Version": -1446988716,
+        "MaxActiveCollections": 3,
+        "DailyFreeBitz": 50,
+        "UnlockPuzzle": 30,
+        "FragmentsXp": {
+          "Common": 10,
+          "Rare": 25,
+          "Epic": 75
+        },
+        "BookReadRewards": {
+          "Common": {
+            "Quantity": 50,
+            "Type": 6
+          },
+          "Rare": {
+            "Quantity": 75,
+            "Type": 6
+          },
+          "Epic": {
+            "Quantity": 100,
+            "Type": 6
+          }
+        },
+        "BitzPerLevelSkipped": 250,
+        "FaqUrl": "https://codycross-en-2-0.helpscoutdocs.com/article/2887-how-does-the-xp-system-work-in-the-new-library"
+      },
+      "BookStoreV2Config": {
+        "PackOfferConfig": {
+          "OffersPrice": {
+            "Classic": 500,
+            "Special": 750,
+            "Ultimate": 1100,
+            "Seasonal": 600
+          },
+          "Enabled": true
+        },
+        "DailyOfferConfig": {
+          "Fragments": 3,
+          "RefreshOffersCooldown": "08:00:00",
+          "OffersPrice": {
+            "Common": 1000,
+            "Rare": 1250,
+            "Epic": 1500
+          },
+          "RefreshOffersPrice": [
+            5,
+            10,
+            20,
+            50
+          ],
+          "MaxActiveOffers": 3,
+          "Enabled": true
+        },
+        "FaqUrl": "https://codycross-en-2-0.helpscoutdocs.com/article/2840-how-does-the-pages-raffle-system-work/",
+        "FragmentBoxIapInLibrary": false
+      },
+      "FragmentDrawConfig": {
+        "PackConfig": {
+          "Classic": {
+            "Fragments": 5,
+            "GuaranteedFragments": {
+              "Rare": 0,
+              "Epic": 0
+            },
+            "IncompleteBookFragmentChance": 0.5
+          },
+          "Special": {
+            "Fragments": 8,
+            "GuaranteedFragments": {
+              "Rare": 0,
+              "Epic": 0
+            },
+            "IncompleteBookFragmentChance": 0.5
+          },
+          "Ultimate": {
+            "Fragments": 12,
+            "GuaranteedFragments": {
+              "Rare": 1,
+              "Epic": 1
+            },
+            "IncompleteBookFragmentChance": 0.5
+          },
+          "Seasonal": {
+            "Fragments": 5,
+            "GuaranteedFragments": {
+              "Rare": 0,
+              "Epic": 0
+            },
+            "IncompleteBookFragmentChance": 0.5
+          }
+        },
+        "BoxConfig": [
+          {
+            "BoxFragments": 10,
+            "MinCollectionFragments": 0
+          }
+        ],
+        "OddModifierConfig": {
+          "Common": 1,
+          "Rare": 0.98,
+          "Epic": 0.93
+        }
+      },
+      "ExcessFragmentsBarConfig": {
+        "Size": 50,
+        "Prize": {
+          "Quantity": 1000,
+          "Type": 6
+        },
+        "ExcessFragmentSegments": {
+          "Common": 1,
+          "Rare": 2,
+          "Epic": 3
+        },
+        "Enabled": true
+      },
+      "BitzOfferV2Config": {
+        "OffersPrice": {
+          "50": 2000,
+          "200": 10000,
+          "750": 45000
+        }
+      },
+      "ReportContentConfig": {
+        "Enabled": true
+      },
+      "NotificationConfig": {
+        "CleverTapNotifications": true,
+        "TimeBombs": [
+          {
+            "Title": "CodyCross",
+            "Body": "Collect your reward!",
+            "Interval": "1.00:00:00"
+          },
+          {
+            "Title": "CodyCross",
+            "Body": "Collect your reward and continue the quest!",
+            "Interval": "3.00:00:00"
+          },
+          {
+            "Title": "CodyCross",
+            "Body": "CodyCross needs your help to explore the world. Come play!",
+            "Interval": "10.00:00:00"
+          },
+          {
+            "Title": "CodyCross",
+            "Body": "Are you up for the challenge of helping CodyCross today?",
+            "Interval": "25.00:00:00"
+          },
+          {
+            "Title": "CodyCross",
+            "Body": "More puzzles available in a whole new world. Play now!",
+            "Interval": "55.00:00:00"
+          },
+          {
+            "Title": "CodyCross",
+            "Body": "New puzzles available! Come challenge yourself!",
+            "Interval": "115.00:00:00"
+          }
+        ]
+      }
+    }
+  ]
+}

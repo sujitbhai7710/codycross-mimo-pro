@@ -4,20 +4,24 @@ export interface ClueAnswer {
   answer: string;
 }
 
+export type DataSource = 'live' | 'cached' | 'game-api' | 'fallback';
+
 export interface DailyAnswers {
   date: string;
   title: string;
   clues: ClueAnswer[];
   totalClues: number;
   scrapedAt: string;
-  source: 'live' | 'cached';
+  source: DataSource;
+  dataSource?: 'game-api' | 'web-scrape';
 }
 
 export interface ApiResponse<T> {
   success: boolean;
   data: T | null;
   error?: string;
-  source?: 'live' | 'cached';
+  source?: DataSource;
+  dataSource?: 'game-api' | 'web-scrape';
 }
 
 // Keep RE info type for the findings dialog
@@ -32,4 +36,14 @@ export interface ReverseEngineeringInfo {
   architecture: string;
   worldCount: number;
   keyClasses: string[];
+}
+
+// Game API auth status
+export interface GameApiStatus {
+  isAvailable: boolean;
+  hasAuth: boolean;
+  deviceId: string | null;
+  playerId: string | null;
+  lastAuthTimestamp: string | null;
+  authMethod: string | null;
 }

@@ -1,0 +1,893 @@
+{
+  "endpoint": "Texto/List",
+  "timestamp": "2026-03-29T20:38:21.365Z",
+  "dataType": "object",
+  "data": {
+    "Ok": true,
+    "Status": 0,
+    "Message": "",
+    "Msg": "",
+    "Records": [
+      {
+        "Identificador": "map_puzzlepack_call_0",
+        "Valor": {
+          "de": "JEDE WOCHE\nNEUE RÄTSEL",
+          "en": "NEW PUZZLES\nEVERY WEEK",
+          "es": "NEW PUZZLES\nEVERY WEEK",
+          "fr": "NEW PUZZLES\nEVERY WEEK",
+          "it": "NEW PUZZLES\nEVERY WEEK",
+          "nl": "NEW PUZZLES\nEVERY WEEK",
+          "pt": "NEW PUZZLES\nEVERY WEEK",
+          "tr": "NEW PUZZLES\nEVERY WEEK",
+          "ru": "NEW PUZZLES\nEVERY WEEK",
+          "ko": "NEW PUZZLES\nEVERY WEEK",
+          "ja": "NEW PUZZLES\nEVERY WEEK"
+        }
+      },
+      {
+        "Identificador": "map_puzzlepack_call_1",
+        "Valor": {
+          "de": "VON LEICHT\nBIS SCHWER",
+          "en": "DIFFERENT\nDIFFICULTIES",
+          "es": "DIFFERENT\nDIFFICULTIES",
+          "fr": "DIFFERENT\nDIFFICULTIES",
+          "it": "DIFFERENT\nDIFFICULTIES",
+          "nl": "DIFFERENT\nDIFFICULTIES",
+          "pt": "DIFFERENT\nDIFFICULTIES",
+          "tr": "DIFFERENT\nDIFFICULTIES",
+          "ru": "DIFFERENT\nDIFFICULTIES",
+          "ko": "DIFFERENT\nDIFFICULTIES",
+          "ja": "DIFFERENT\nDIFFICULTIES"
+        }
+      },
+      {
+        "Identificador": "map_puzzlepack_call_2",
+        "Valor": {
+          "de": "EINFACH UND\nMITTELSCHWER",
+          "en": "EASY, MEDIUM\nAND HARD",
+          "es": "EASY, MEDIUM\nAND HARD",
+          "fr": "EASY, MEDIUM\nAND HARD",
+          "it": "EASY, MEDIUM\nAND HARD",
+          "nl": "EASY, MEDIUM\nAND HARD",
+          "pt": "EASY, MEDIUM\nAND HARD",
+          "tr": "EASY, MEDIUM\nAND HARD",
+          "ru": "EASY, MEDIUM\nAND HARD",
+          "ko": "EASY, MEDIUM\nAND HARD",
+          "ja": "EASY, MEDIUM\nAND HARD"
+        }
+      },
+      {
+        "Identificador": "map_puzzlepack_call_3",
+        "Valor": {
+          "de": "THEMENPAKETE\nSPIELEN",
+          "en": "PLAY THEMED\nPACKS!",
+          "es": "PLAY THEMED\nPACKS!",
+          "fr": "PLAY THEMED\nPACKS!",
+          "it": "PLAY THEMED\nPACKS!",
+          "nl": "PLAY THEMED\nPACKS!",
+          "pt": "PLAY THEMED\nPACKS!",
+          "tr": "PLAY THEMED\nPACKS!",
+          "ru": "PLAY THEMED\nPACKS!",
+          "ko": "PLAY THEMED\nPACKS!",
+          "ja": "PLAY THEMED\nPACKS!"
+        }
+      },
+      {
+        "Identificador": "abstory_coins_weekly_sub",
+        "Valor": {
+          "de": "30",
+          "en": "30",
+          "es": "30",
+          "fr": "30",
+          "it": "30",
+          "nl": "30",
+          "pt": "30",
+          "tr": "30",
+          "ru": "30",
+          "ko": "30",
+          "ja": "30"
+        }
+      },
+      {
+        "Identificador": "abstory_coins_monthly_sub",
+        "Valor": {
+          "de": "150",
+          "en": "150",
+          "es": "150",
+          "fr": "150",
+          "it": "150",
+          "nl": "150",
+          "pt": "150",
+          "tr": "150",
+          "ru": "150",
+          "ko": "150",
+          "ja": "150"
+        }
+      },
+      {
+        "Identificador": "modal_content_end_more_free_puzzles",
+        "Valor": {
+          "de": "MEHR KOSTENLOSE RÄTSEL GIBT’S BALD!",
+          "en": "More free puzzles coming soon",
+          "es": "More free puzzles coming soon",
+          "fr": "More free puzzles coming soon",
+          "it": "More free puzzles coming soon",
+          "nl": "More free puzzles coming soon",
+          "pt": "More free puzzles coming soon",
+          "tr": "More free puzzles coming soon",
+          "ru": "More free puzzles coming soon",
+          "ko": "More free puzzles coming soon",
+          "ja": "More free puzzles coming soon"
+        }
+      },
+      {
+        "Identificador": "modal_gdpr_footer",
+        "Valor": {
+          "de": "Ich stimme den Nutzungsbedingungen von Fanatee für die Datenverarbeitung zu. Datenschutz, Nutzung ",
+          "en": "I agree with Fanatee's data usage policy.\nPrivacy Policy, Terms of Service",
+          "es": "Acepto la política de uso de datos de Fanatee. Política de privacidad, Condiciones de servicio",
+          "fr": "J'accepte la politique d'utilisation des données de Fanatee\nPolitique de confidentialité, Conditions d'utilisation",
+          "it": "Accetto le Condizioni di Utilizzo e la\nPrivacy Policy di Fanatee.",
+          "nl": "Ik ga akkoord met Fanatee's beleid voor datagebruik, privacybeleid en leveringsvoorwaarden",
+          "pt": "Eu concordo com a política de uso de dados da Fanatee. Política de Privacidade, Termos de Uso",
+          "tr": "Fanatee'nin veri kullanım sözleşmesini, Gizlilik\nSözleşmesini Hizmet Kullanım Şartlarını kabul ediyorum",
+          "ru": "Соглашаюсь с политиками Fanatee по использованию данных, Политикой Конфиденциальности и Условиями Использования",
+          "ko": "Fanatee의 데이터 사용 정책\n개인 정보 보호 정책, 서비스 약관에 동의합니다",
+          "ja": "Fanateeのデータ利用規約および\nプライバシーポリシー、利用規約に同意する"
+        }
+      },
+      {
+        "Identificador": "modal_gdpr_terms_link",
+        "Valor": {
+          "de": "Nutzung ",
+          "en": "Terms of Service",
+          "es": "Condiciones de servicio",
+          "fr": "Conditions d'utilisation",
+          "it": "Condizioni di Utilizzo",
+          "nl": "Leveringsvoorwaarden",
+          "pt": "Termos de Uso",
+          "tr": "Hizmet Kullanım Şartları",
+          "ru": "Условия использования",
+          "ko": "서비스 약관",
+          "ja": "利用規約"
+        }
+      },
+      {
+        "Identificador": "modal_gdpr_pp_link",
+        "Valor": {
+          "de": "Datenschutz",
+          "en": "Privacy Policy",
+          "es": "Política de privacidad",
+          "fr": "Politique de confidentialité",
+          "it": "Privacy Policy",
+          "nl": "Privacybeleid",
+          "pt": "Política de Privacidade",
+          "tr": "Gizlilik Sözleşmesi",
+          "ru": "Политика Конфиденциальности",
+          "ko": "개인 정보 보호 정책",
+          "ja": "プライバシーポリシー"
+        }
+      },
+      {
+        "Identificador": "modal_gdpr_btn_decline",
+        "Valor": {
+          "de": "Ablehnen",
+          "en": "Decline",
+          "es": "Rechazar",
+          "fr": "Refuser",
+          "it": "Rifiuta",
+          "nl": "Afwijzen",
+          "pt": "Não aceito",
+          "tr": "Red",
+          "ru": "Отклонить",
+          "ko": "동의 안함",
+          "ja": "同意しない"
+        }
+      },
+      {
+        "Identificador": "modal_gdpr_btn_accept",
+        "Valor": {
+          "de": "OK",
+          "en": "OK",
+          "es": "OK",
+          "fr": "OK",
+          "it": "OK",
+          "nl": "OK",
+          "pt": "OK",
+          "tr": "TAMAM",
+          "ru": "OK",
+          "ko": "확인",
+          "ja": "OK"
+        }
+      },
+      {
+        "Identificador": "modal_gdpr_pls_accept_to_continue",
+        "Valor": {
+          "de": "Zum Weiterspielen bitten die vorgenannten Bedingungen akzeptieren.",
+          "en": "You need to accept conditions in order to proceed",
+          "es": "Es necesario que aceptes estas condiciones para continuar",
+          "fr": "Vous devez accepter les conditions pour continuer",
+          "it": "Devi accettare le condizioni per poter procedere",
+          "nl": "Je moet de voorwaarden accepteren voor je verder kunt",
+          "pt": "Você precisa aceitar as condições para poder prosseguir.",
+          "tr": "Devam etmek için şartları kabul etmen gerekiyor",
+          "ru": "Для продолжения, необходимо принять условия",
+          "ko": "계속하려면 조건에 동의해야 합니다",
+          "ja": "続行するにはこれらの条件に同意する必要があります"
+        }
+      },
+      {
+        "Identificador": "modal_gdpr_btn_ok",
+        "Valor": {
+          "de": "Ok",
+          "en": "Ok",
+          "es": "Ok",
+          "fr": "Ok",
+          "it": "Ok",
+          "nl": "OK",
+          "pt": "Ok",
+          "tr": "Tamam",
+          "ru": "Ок",
+          "ko": "확인",
+          "ja": "OK"
+        }
+      },
+      {
+        "Identificador": "modal_gdpr_footer_android",
+        "Valor": {
+          "de": "Ich stimme den Nutzungsbedingungen von Fanatee für die Datenverarbeitung zu.",
+          "en": "I agree with Fanatee's data usage policy.",
+          "es": "Acepto la política de uso de datos de Fanatee.",
+          "fr": "J'accepte la politique d'utilisation des données de Fanatee.",
+          "it": "Accetto le Condizioni di Utilizzo e la\nPrivacy Policy di Fanatee.",
+          "nl": "Ik ga akkoord met Fanatee's beleid voor datagebruik.",
+          "pt": "Eu concordo com a política de uso de dados da Fanatee.",
+          "tr": "Fanatee'nin veri kullanım sözleşmesini kabul ediyorum.",
+          "ru": "Соглашаюсь с политикой использования данных Fanatee.",
+          "ko": "Fanatee의 데이터 사용 정책에 동의합니다.",
+          "ja": "Fanateeのデータ利用規約に同意する。"
+        }
+      },
+      {
+        "Identificador": "modal_gdpr_text",
+        "Valor": {
+          "de": "Unser Ziel ist es, dir ein großartiges Spielerlebnis in verantwortungsvoller Art und Weise bereitzustellen.\n\nBitte lies die Allgemeinen Geschäfts-/ Nutzungsbedingungen und Datenschutzerklärung für weitere Informationen.",
+          "en": "Our goal is to provide you with a great gaming experience in a responsible way.\n\nPlease read the Terms of Use and Privacy Policy for more information.",
+          "es": "Nuestro objetivo es brindarte una gran experiencia de juego de manera responsable.\n\nPor favor, lee los términos de la Política de Privacidad para más información.",
+          "fr": "Notre objectif est de vous offrir une formidable expérience de jeu de manière responsable.\n\nVeuillez lire les Conditions d'utilisation et la Politique de confidentialité pour plus d'informations.",
+          "it": "Vogliamo offrirti una bella esperienza di gioco in modo responsabile.\n\nTi invitiamo a leggere i nostri Termini d'Uso e la Privacy Policy per maggiori informazioni.",
+          "nl": "Ons doel is je op een verantwoordelijke manier een fantastische spelervaring te bieden.\n\nLees ons Privacybeleid en de Leveringsvoorwaarden voor meer informatie.",
+          "pt": "Nosso objetivo é oferecer a você uma grande experiência de jogo de maneira responsável.\n\nPor favor, leia os Termos de Uso e a Política de Privacidade para mais informações.",
+          "tr": "Amacımız, sorumlu bir şekilde size harika bir oyun deneyimi sunmaktır.\n\nDaha fazla bilgi için lütfen Kullanım Şartlarını ve Gizlilik Politikasını okuyunuz.",
+          "ru": "Наша цель - предоставить вам возможность наслаждаться игрой, соблюдая ответственный подход.\n\nПожалуйста, ознакомьтесь с Условиями пользования и Политикой конфиденциальности",
+          "ko": "우리의 목표는 책임감 있게 멋진 게임을 제공하는 것입니다.\n\n이용 약관과 개인정보처리방침에서 더 자세한 내용을 확인해보세요.",
+          "ja": "当社ではユーザーの皆様に快適で楽しいゲーム体験を責任を持って提供するよう務めております。\n\n詳しくは利用規約とプライバシポリシーに記載されている内容をご確認ください。"
+        }
+      },
+      {
+        "Identificador": "modal_gdpr_title",
+        "Valor": {
+          "de": "Datenschutz",
+          "en": "Data And Privacy",
+          "es": "Datos y Privacidad",
+          "fr": "Données Et Vie Privée",
+          "it": "Dati e Privacy",
+          "nl": "Gegevensbescherming En Privacy",
+          "pt": "Dados e Privacidade",
+          "tr": "Veriler Ve Güvenlik",
+          "ru": "Данные и Конфиденциальность",
+          "ko": "데이터 프라이버시",
+          "ja": "データプライバシー"
+        }
+      },
+      {
+        "Identificador": "modal_fases_btn_unlock_all_puzzles",
+        "Valor": {
+          "de": "Alle Rätsel freischalten",
+          "en": "Unlock All Puzzles",
+          "es": "Desbloquea todos los crucigramas",
+          "fr": "Débloquez toutes les grilles",
+          "it": "Tutti i puzzle sbloccati",
+          "nl": "Deblokkeer alle puzzels",
+          "pt": "Desbloqueie todos os puzzles",
+          "tr": "Bütün bulmacaları aç",
+          "ru": "Разблокировать все головоломки",
+          "ko": "모든 퍼즐 잠금 해제",
+          "ja": "全てのパズルのロックを解除"
+        }
+      },
+      {
+        "Identificador": "modal_fases_btn_unlock_all_puzzles_A",
+        "Valor": {
+          "de": "SCHALTE ALLE RÄTSEL FREI",
+          "en": "UNLOCK ALL PUZZLES",
+          "es": "DESBLOQUEAR TODOS LOS CRUCIGRAMAS",
+          "fr": "DÉBLOQUEZ TOUTES LES GRILLES",
+          "it": "SBLOCCA TUTTI I PUZZLE",
+          "nl": "ONTGRENDEL ALLE PUZZELS",
+          "pt": "DESBLOQUEAR TODOS OS PUZZLES",
+          "tr": "BÜTÜN BULMACALARI AÇ",
+          "ru": "РАЗБЛОКИРОВАТЬ ВСЕ ГОЛОВОЛОМКИ",
+          "ko": "모든 퍼즐 잠금해제",
+          "ja": "パズルをすべてアンロック"
+        }
+      },
+      {
+        "Identificador": "modal_fases_btn_unlock_all_puzzles_B",
+        "Valor": {
+          "de": "Abonniere CodyCross",
+          "en": "Subscribe to CodyCross",
+          "es": "Regístrate en CodyCross",
+          "fr": "S'abonner à CodyCross",
+          "it": "Registrati a CodyCross",
+          "nl": "Abonneer je op CodyCross",
+          "pt": "Assine o CodyCross",
+          "tr": "CodyCross'a abone ol",
+          "ru": "Оформите подписку CodyCross",
+          "ko": "코디크로스 구독하기",
+          "ja": "CodyCrossサブスクリプションを購入しよう"
+        }
+      },
+      {
+        "Identificador": "manage_data_info_ios",
+        "Valor": {
+          "de": "Durch die Nutzung unserer mobilen Anwendungen werden Ihre Daten gemäß der Datenschutzrichtlinie von Fanatee verarbeitet. Sie können Ihre Datenschutzeinstellungen, einschließlich der Einstellungen für personalisierte Werbung, wie folgt verwalten:\n\n1. Werbe-ID zurücksetzen\n\nDurch das Zurücksetzen der Werbe-ID werden alle Daten im Zusammenhang mit interessenbezogener Werbung, die aus dem Zugriff auf die und die Nutzung der mobilen Anwendungen auf Ihrem Mobilgerät stammen, für Werbetreibende nicht mehr nachverfolgbar - also nicht nur Daten, die mit dem Zugriff auf die und der Nutzung von mobilen Anwendungen von Fanatee verbunden sind. So setzten Sie die Werbe-ID zurück:\n\nFür Android-Geräte mit OS 2.2 oder höher und Google Play Services 4.0 und höher über Einstellungen > Google-Dienste > Werbung > \"Personalisierte Werbung deaktivieren\" aktivieren bzw. \"Werbe-ID zurücksetzen\" antippen.\n\nEs ist wichtig zu betonen, dass Fanatee nicht für die Funktionen der Werbe-ID verantwortlich ist. Falls diesbezüglich Zweifel bestehen, bitte den Anbieter des Betriebssystems von Mobilapplikationen auf dem Gerät kontaktieren.\n\n2. Ausschluss bestimmter Werbetreibender:\n\nWenn Sie keine interessebasierte Werbung bestimmter Werbetreibender mehr erhalten möchten, können Sie solcher Werbung auf den Webseiten \n<color=blue><u><link=\"https://www.youradchoices.com\">www.youradchoices.com</link></u></color>\n und/oder \n<color=blue><u><link=\"https://www.networkadvertising.org\">www.networkadvertising.org</link></u></color> widersprechen.\n\nBitte berücksichtigen, dass über die oben genannten Links möglicherweise nicht alle Werbepartner von Fanatee erreicht werden können und verhaltensbasierte Werbung immer noch möglich sein könnte. Daher ist beim Zugriff auf die mobilen Anwendungen von Fanatee und bei deren Nutzung immer verhaltensbasierte Werbung möglich.\n\n3. Konto und die damit verbundenen Daten löschen:\n\nWenn Sie Ihr Konto für diese App löschen möchten, können Sie dies über den Button unten tun. Nach Anforderung der Löschung werden alle mit dem Konto verbunden personenbezogenen Daten von Fanatee gelöscht, und es gibt keinen Zugriff mehr auf Spielfortschritt, Erfolge oder andere Funktionen der App. Diese Aktion ist unumkehrbar.\n\nObwohl wir uns verpflichten, personenbezogene Daten so schnell wie möglich zu löschen, können einige Informationen für einen zusätzlichen Zeitraum aufbewahrt werden, um gesetzlichen oder regulatorischen Verpflichtungen nachzukommen oder um unsere Rechte in Übereinstimmung mit der Datenschutzrichtlinie von Fanatee zu schützen.",
+          "en": "By using our mobile applications, your data will be processed in accordance with Fanatee's Privacy Policy. You can manage your privacy preferences, including personalized advertising settings, through the following methods:\n\n1. Reset your Advertising ID (the \"Identifier for Advertisers\")\n\nBy resetting your Advertising ID, all of the data related to interest-based ads arising out of the access to and usage of mobile applications in your device will be untraceable by advertisers -  and not only the data related exclusively to access to and usage of Fanatee's mobile applications. For resetting your Advertising ID , please follow the applicable steps:\n\nFor Android devices with OS 2.2 or higher and Google Play Services 4.0 and higher, go to Settings > Google Settings App > Ads > Enable \"opt out of interest-based advertising\" or go to Settings > Google > Personal Info & privacy > Ads Settings > Enable \"opt out of Ads Personalization\". Make sure to click Reset Advertising ID.\n\nIt's important to emphasize that Fanatee is not responsible for the features of your  Advertising ID. In case you have any doubts related to this, we strongly suggest that you get in touch with the provider of the operational system of mobile applications in your device.\n\n2. Opt-out of specific advertisers (the \"Identifier for Advertisers\"):  \n\nIn case you no longer want to receive interest-based ads of specific advertisers, you may opt-out of such advertisers by accessing \n<color=blue><u><link=\"https://www.youradchoices.com\">www.youradchoices.com</link></u></color>\n and/or \n<color=blue><u><link=\"https://www.networkadvertising.org\">www.networkadvertising.org</link></u></color>.\n\nPlease note that the links above may not reach all Fanatee´s advertising partners and behaviorally targeted advertising may still be displayed to you. Therefore, the access to and usage of Fanatee's mobile applications may always subject you to behaviorally targeted advertisements.\n \n3. Delete your account and associated data:\n\nIf you wish to delete your account for this app, you can proceed by tapping below. Upon requesting deletion, all personal data associated with your account will be erased by Fanatee, and you'll no longer have access to progress data, achievements or other app features. This action is irreversible. While we are committed to deleting personal data as promptly as possible, some information may be retained for an additional period to comply with legal or regulatory obligations, or to protect our rights, in accordance with Fanatee's Privacy Policy.",
+          "es": "Al utilizar nuestras aplicaciones móviles, tus datos serán procesados de acuerdo con la Política de Privacidad de Fanatee. Puedes gestionar tus preferencias de privacidad, incluyendo la configuración de publicidad personalizada, a través de los siguientes métodos:\n\n1. Resetea tu IDFA (el \"Identificador para anunciantes\")\n\nAl resetear tu IDFA, todos los datos relacionados con anuncios basados en intereses, que se desprenden del acceso y el uso de las aplicaciones móviles de tu dispositivo, serán imposibles de rastrear por los anunciantes y no solo los datos relacionados exclusivamente con el acceso y el uso de las aplicaciones móviles de Fanatee.\nPara resetear tu IDFA, por favor sigue los siguientes pasos:\nPara Android con OS 2.2 o superior y Google Play Services 4-0 o superior, ve a Ajustes > Ajustes de Google> Anuncios > Inhabilitar Personalización de Anuncios.\n\nEs importante enfatizar que Fanatee no es responsable de las características de tu IDFA. Si tienes alguna duda al respecto, te sugerimos que te pongas en contacto con el proveedor del sistema operativo de tu dispositivo.\n\n2. Deshabilita anunciantes específicos (el \"Identificador de anunciantes\"):  \n\nSi no quieres recibir publicidad de anunciantes en concreto, puedes deshabilitarlos accediendo a \n<color=blue><u><link=\"https://www.youradchoices.com\">www.youradchoices.com</link></u></color>\n y/o \n<color=blue><u><link=\"https://www.networkadvertising.org\">www.networkadvertising.org</link></u></color>.\n\nTen en cuenta que los enlaces de más arriba pueden no llegar a todos los anunciantes y puedes llegar a ver algún anuncio basado en tus hábitos de navegación. Por lo tanto, el acceso y el uso de las aplicaciones móviles de Fanatee te pueden convertir en receptor de anuncios basados en tus hábitos de navegación.\n\n3. Elimina tu cuenta y los datos asociados:\n\nSi deseas eliminar tu cuenta en esta aplicación, puedes proceder haciendo clic a continuación. Al solicitar la eliminación, todos los datos personales asociados a tu cuenta serán borrados por Fanatee y ya no tendrás acceso a los datos de progreso, logros u otras funciones de la aplicación. Esta acción es irreversible.\n\nSi bien nos comprometemos a eliminar los datos personales lo antes posible, cierta información puede conservarse por un período adicional para cumplir con obligaciones legales o regulatorias, o para proteger nuestros derechos, de acuerdo con la Política de Privacidad de Fanatee.",
+          "fr": "En utilisant nos applications mobiles, vos données seront traitées conformément à la Politique de Confidentialité de Fanatee. Vous pouvez gérer vos préférences de confidentialité, y compris les paramètres de publicité personnalisée, via les méthodes suivantes :\n\n1. Réinitalisez votre IDFA (soit votre \"identifiant publicitaire\") \n\nEn réinitialisant votre IDFA, toutes les données liées aux publicités basées sur vos intérêts découlant de l'accès aux applications sur votre appareil et à leur usage deviendront intraçables pour les annonceurs de manière générale et pas seulement pour Fanatee.\nVoici les différentes étapes pour réinitialier votre IDFA : \nPour des appareils Android possédant la version 2.2 et au-delà du système d'exploitation et la version de Google Play 4.0 et au-delà, aller dans Paramètres > Paramètres de Google > Applications > Publicités > Choisir \"Désactiver la personnalisation des annonces\" ou aller dans Paramètres > Google > Informations personnelles et vie privée > Paramètres des annonces > Choisir \"Désactiver la personnalisation des annonces\". Cliquer ensuite sur \"Réinitialiser l'identifiant publicitaire\"\nNous tenons à préciser que Fanatee n'est en aucun cas responsable des diverses utilisations de votre IDFA. En cas de doute, nous vous invitons à vous rapprocher de l'opérateur du système d'exploitation gérant les applications de votre appareil.\n\n2. Retirer seulement certains annonceurs (ou \"Identifiant publicitaire\") :\n\nDans le cas où vous ne voudriez plus recevoir les publicités de certains annonceurs, vous avez la possiblité de les bloquer en allant sur \n<color=blue><u><link=\"https://www.youradchoices.com\">www.youradchoices.com</link></u></color>\n et/ou \n<color=blue><u><link=\"https://www.networkadvertising.org\">www.networkadvertising.org</link></u></color> \n\nVeuillez noter que ces liens ne regroupent pas tous les partenaires publicitaires de Fanatee et que des publicités ciblées pourraient continuer de vous être montrées. De ce fait, l'accès et l'usage des applications mobiles Fanatee peuvent vous exposer à des publicités ciblées.\n\n3. Supprimez votre compte et les données associées :\n\nSi vous souhaitez supprimer votre compte pour cette application, vous pouvez procéder en cliquant ci-dessous. En demandant la suppression, toutes les données personnelles associées à votre compte seront effacées par Fanatee et vous n’aurez plus accès aux données de progression, aux réussites ou aux autres fonctionnalités de l’application. Cette action est irréversible.\n\nBien que nous nous engagions à supprimer les données personnelles dans les plus brefs délais, certaines informations peuvent être conservées pour une période supplémentaire afin de respecter des obligations légales ou réglementaires, ou de protéger nos droits, conformément à la Politique de confidentialité de Fanatee.",
+          "it": "Quando utilizzi le nostre applicazioni, i tuoi dati saranno trattati in conformità con l'Informativa sulla Privacy di Fanatee. Puoi gestire le tue preferenze relative alla privacy, incluse le impostazioni per la pubblicità personalizzata, nei seguenti modi:\n\n1. Reimposta il tuo ID pubblicità (Identifier for Advertising)\n\nReimpostando il tuo ID pubblicità, tutti i dati relativi agli annunci - basati sugli interessi che derivano dall'accesso e dall'utilizzo di applicazioni sul tuo dispositivo (tutte, non solo quelle di Fanatee) - non saranno rintracciabili dagli inserzionisti. Per reimpostare il tuo ID pubblicità, segui questi step:\n\nPer i dispositivi Android con sistema OS 2.2 o superiore e con Google Play Services 4.0 o superiore, vai su Impostazioni > Impostazioni Google> Annunci, e abilita \"Disattiva Personalizzazione annunci\". Assicurati di selezionare anche \"Reimposta ID pubblicità\".\n\nFanatee non è in alcun modo responsabile delle funzionalità del tuo ID pubblicità. In caso di dubbi, ti consigliamo di metterti in contatto con il fornitore del sistema operativo del tuo dispositivo.\n\n2. Disattiva inserzionisti specifici (\"Identifier for Advertisers\"):\n\nSe non desideri più ricevere annunci basati sui tuoi interessi da parte di specifici inserzionisti, puoi farlo accedendo a: <color=blue><u><link=\"https://www.youradchoices.com\">www.youradchoices.com</link></u></color> and/or <color=blue><u><link=\"https://www.networkadvertising.org\">www.networkadvertising.org</link></u></color>.\n\nI link di cui sopra potrebbero non applicarsi a tutti i partner pubblicitari di Fanatee, quindi alcune pubblicità potrebbero essere ancora mostrate: di conseguenza, l'accesso e l'utilizzo di applicazioni di Fanatee potrebbe sempre comportare la visualizzazione di pubblicità basate sul comportamento dell'utente.\n\n3. Elimina il tuo account e i dati associati:\n\nSe desideri eliminare il tuo account su questa app, puoi procedere cliccando qui sotto. Dopo aver richiesto l'eliminazione, tutti i dati personali associati al tuo account saranno cancellati da Fanatee e non avrai più accesso ai dati di progresso, ai risultati o ad altre funzionalità dell'app. Questa azione è irreversibile.\n\nSebbene ci impegniamo a eliminare i dati personali il più rapidamente possibile, alcune informazioni potrebbero essere conservate per un periodo aggiuntivo per adempiere a obblighi legali o normativi, o per proteggere i nostri diritti, in conformità con l'Informativa sulla privacy di Fanatee.",
+          "nl": "Door onze mobiele applicaties te gebruiken, worden je gegevens verwerkt in overeenstemming met het Privacybeleid van Fanatee. Je kunt je privacyvoorkeuren beheren, inclusief de instellingen voor gepersonaliseerde advertenties, via de volgende methoden:\n\n1. Reset je IDFA (de ‘ID voor adverteerders’)\nAls je je IDFA opnieuw instelt, zijn voortaan alle gegevens die samenhangen met interesse-gestuurde advertenties, voortkomend uit de toegang tot en het gebruik van mobiele applicaties op je apparaat, onvindbaar voor adverteerders. Dit geldt dus niet alleen voor de gegevens rond toegang tot en gebruik van mobiele Fanatee-apps.\nJe kunt je IDFA als volgt resetten:\nVoor Android-toestellen met OS 2.2 of hoger en Google Play Services 4.0 en hoger: ga naar Instellingen> Google Instellingen > Advertenties > vink 'Personalisatie van advertenties niet toegestaan' aan. Of ga naar Google > Persoonlijke gegevens & Privacy > Advertentie-instellingen > zet 'Personalisatie van advertenties niet toegestaan' aan. Vergeet niet om te klikken op Advertentie ID resetten.\n\nWe benadrukken dat Fanatee niet verantwoordelijk is voor je IDFA-functies. Twijfel je, dan adviseren we je met klem om contact op te nemen met je mobiele provider.\n\n2. Afmelden (opt-out) voor specifieke adverteerders:\nWil je niet langer interesse-gestuurde advertenties van specifieke adverteerders ontvangen? Ga dan naar <color=blue><u><link=\"https://www.youradchoices.com\">www.youradchoices.com</link></u></color> en/of <color=blue><u><link=\"https://www.networkadvertising.org\">www.networkadvertising.org</link></u></color> en meld je af voor die adverteerders.\nHoud er echter rekening mee dat via deze links mogelijk niet alle advertentiepartners van Fanatee worden bereikt. In dat geval krijg je mogelijk nog steeds interesse-gestuurde advertenties te zien. De toegang tot en het gebruik van mobiele Fanatee-apps kan daarom altijd tot interesse-gestuurde advertenties leiden.\n\n3. Verwijder je account en de bijbehorende gegevens:\n\nAls je je account voor deze app wilt verwijderen, kun je doorgaan door hieronder te klikken. Zodra je de verwijdering aanvraagt, worden alle persoonlijke gegevens die aan je account zijn gekoppeld door Fanatee gewist, en heb je geen toegang meer tot voortgangsgegevens, prestaties of andere functies van de app. Deze actie is onomkeerbaar.\n\nHoewel we ons inzetten om persoonlijke gegevens zo snel mogelijk te verwijderen, kunnen sommige gegevens voor een aanvullende periode worden bewaard om te voldoen aan wettelijke of regelgevende verplichtingen, of om onze rechten te beschermen, in overeenstemming met het privacybeleid van Fanatee.",
+          "pt": "Ao utilizar nossos aplicativos móveis, seus dados serão tratados nos termos da Política de Privacidade da Fanatee. Você poderá gerenciar as suas preferências de privacidade, incluindo as configurações de publicidade personalizada, usando os seguintes métodos:\n\n1. Resete seu ID de Publicidade\n\nAo resetar seu ID de Publicidade, todos os dados relacionados aos anúncios baseados em interesses provenientes do acesso e uso de aplicativos móveis em seu dispositivo móvel serão irrastreáveis por anunciantes - e não apenas os dados ligados exclusivamente ao acesso e uso dos aplicativos móveis da Fanatee.\nPara resetar seu ID de Publicidade, por favor siga os passos necessários:\nPara dispositivos Android com SO 2.2 ou superior e Google Play Services 4.0 ou superior, vá a Configurações> Selecione Google> Selecione Anúncios> Ative a configuração \"Desativar anúncios c/ base em interesses\". Não se esqueça de clicar em Resetar ID de Publicidade.\n\nÉ importante enfatizar que a Fanatee não é responsável pelo funcionamento de seu ID de Publicidade. Caso você tenha dúvidas quanto a isso, reforçamos a sugestão de que entre em contato com o provedor do sistema operacional dos aplicativos móveis em seu dispositivo.\n\n2. Escolha anunciantes específicos (o \"Identificador para Anunciantes\"):\n\nCaso você não queira mais receber anúncios baseados em interesses de anunciantes específicos, você pode desativá-los ao acessar \n<color=blue><u><link=\"https://www.youradchoices.com\">www.youradchoices.com</link></u></color>\n e/ou \n<color=blue><u><link=\"https://www.networkadvertising.org\">www.networkadvertising.org</link></u></color>.\n\nEsteja ciente de que os links acima talvez não abranjam todos os parceiros de anúncios da Fanatee e que anúncios direcionados ainda poderão ser exibidos a você. Portanto, o acesso e uso dos aplicativos da Fanatee podem sempre trazer a você anúncios baseados em comportamento.\n\n3. Apague sua conta e dados associados:\n\nCaso queira que a sua conta deste aplicativo seja apagada, você poderá prosseguir clicando abaixo. Ao solicitar a exclusão, todos os dados pessoais associados à sua conta serão eliminados pela Fanatee e você não terá mais acesso às informações de progresso, conquistas ou outras funcionalidades do aplicativo. Esta é uma ação irreversível. No entanto, embora nos comprometamos a excluir os dados pessoais na maior brevidade possível, algumas informações poderão ser retidas por um período adicional para, por exemplo, cumprirmos com obrigações legais ou regulatórias ou protegermos nossos direitos, nos termos da Política de Privacidade da Fanatee.",
+          "tr": "Mobil uygulamalarımızı kullandığınızda, verileriniz Fanatee'nin Gizlilik Politikası'na uygun olarak işlenecektir. Gizlilik tercihlerinizi, kişiselleştirilmiş reklam ayarları da dahil olmak üzere, aşağıdaki yöntemler aracılığıyla yönetebilirsiniz.\n\n1. Reklam kimliğinizi (\"Reklam Tanımlayıcı\") sıfırlamak\n\nReklam kimliğinizi sıfırlayınca, cihazınızda mobil uygulamalara erişim ve bunların kullanımından doğan ilgi alanına dayalı reklamlara ait veriler, reklam verenler tarafından izlenemez hale gelecektir; bu veriler yalnızca Fanatee'nin mobil uygulamalarına erişim ve bunların kullanımından doğan verilerle sınırlı değildir. Reklam kimliğinizi sıfırlamak için aşağıdaki adımları uygulayınız:\n\nAndroid 2.2 ve daha yeni sürümler ile Google Play Hizmetleri 4.0 ve daha yeni sürümler için: Ayarlar > Google Ayarları > Reklamlar > \"İlgi alanına dayalı reklamları devre dışı bırak\" seçeneğini işaretleyin veya Ayarlar > Google > Kişisel Bilgiler ve Gizlilik > Reklam Ayarları > \"Reklam Kişiselleştirmeyi devre dışı bırak\" seçeneğini işaretleyin. Reklam Kimliğini Sıfırla seçeneğini tıklamayı unutmayın. \n\nFanatee'nin sizin reklam kimliğinizin özelliklerinden sorumlu olmadığının altını çizmek isteriz. Bununla ilgili sorularınız varsa, cihazınızdaki mobil uygulamaların işletim sistemi sağlayıcısı ile iletişime geçmenizi tavsiye ederiz. \n\n2. Belirli reklam verenleri (\"Reklam Tanımlayıcı\") devre dışı bırakmak :  \n\nBelirli reklam verenlerin ilgi alanlarınıza dayalı reklamlarını artık almak istemiyorsanız, \n<color=blue><u><link=\"https://www.youradchoices.com\">www.youradchoices.com</link></u></color>\n ve/veya \n<color=blue><u><link=\"https://www.networkadvertising.org\">www.networkadvertising.org</link></u></color>\n siteleri vasıtasıyla bu reklam verenleri devre dışı bırakabilirsiniz. \n\nYukarıdaki bağlantıların Fanatee'nin tüm reklam ortaklarına ulaşamayabileceğini ve kullanıcı davranışı temelli reklamların size de yine de gösterilebileceğini hatırlatmak isteriz. Dolayısıyla, Fanatee'nin mobil uygulamalarına erişiminiz ve bunları kullanmanız sebebiyle her zaman söz konusu kullanıcı davranışı temelli reklamlara maruz kalabilirsiniz.\n\n3. Hesabınızı ve ilişkili verileri silin:\n\nBu uygulamadaki hesabınızı silmek isterseniz, aşağıdaki butona tıklayarak işlemi gerçekleştirebilirsiniz. Silme işlemi talebinde bulunduğunuzda, Fanatee tarafından hesabınızla ilişkili tüm kişisel veriler silinecek ve ilerleme verilerine, başarımlara veya uygulamanın diğer özelliklerine artık erişemeyeceksiniz. Bu işlem geri alınamaz. Kişisel verileri mümkün olan en kısa sürede silmeyi taahhüt ediyor olmamıza rağmen, bazı bilgiler yasal veya düzenleyici yükümlülüklere uymak ya da Fanatee'nin Gizlilik Politikası uyarınca haklarımızı korumak amacıyla ek bir süre boyunca saklanabilir.",
+          "ru": "Используя наши мобильные приложения, вы соглашаетесь на обработку ваших данных в соответствии с Политикой конфиденциальности Fanatee. Вы можете управлять своими настройками конфиденциальности, включая параметры персонализированной рекламы, с помощью следующих методов:\n\n1. Сбросьте настройки вашего рекламного идентификатора (IDFA)\nСбрасывая настройки рекламного идентификатора, вы делаете все данные, имеющие отношение к рекламе по интересам и использованию мобильных приложений на вашем устройстве, недоступными к отслеживанию рекламодателями. Это касается не только данных, имеющих отношение к доступу и использованию мобильных приложений от компании Fanatee.\nДля того, чтобы сбросить настройки своего рекламного идентификатора, следуйте инструкции ниже.\n\n\nЕсли вы используете мобильное устройство на Android версии 2.2 и выше, а также Google Play версии 4.0 и выше, перейдите в раздел Настройки > Приложения >Google > Реклама > Отключить персонализацию рекламы. Убедитесь, что вы нажали «Сбросить рекламный идентификатор».\n\n\nВажно отметить, что Fanatee не несет ответственности за настройки вашего рекламного идентификатора. Если у вас есть какие-либо сомнения, мы настоятельно рекомендуем связаться с провайдером операционной системы, использующейся на вашем мобильном устройстве. \n\n2. Отпишитесь от конкретных рекламодателей (Рекламный идентификатор):\nЕсли вы больше не хотите получать рекламу по интересам, исходящую от определенных рекламодателей, вы можете отписаться от них на сайтах \n<color=blue><u><link=\"https://www.youradchoices.com\">www.youradchoices.com</link></u></color>\n и/или \n<color=blue><u><link=\"https://www.networkadvertising.org\">www.networkadvertising.org</link></u></color>.\n\nОбратите внимание, что вышеуказанные сервисы могут не охватывать всех рекламных партнеров Fanatee,следовательно, какие-то таргетированные объявления могут по-прежнему показываться вам. Таким образом, использование мобильных приложений от компании Fanatee всегда потенциально связано с показом таргетированной рекламы.\n\n3. Удалите свой аккаунт и связанные с ним данные:\n\nЕсли вы хотите удалить свой аккаунт в этом приложении, вы можете продолжить, нажав ниже. После запроса на удаление все личные данные, связанные с вашим аккаунтом, будут удалены Fanatee, и вы больше не получите доступ к данным о прогрессе, достижениям или другим функциям приложения. Это действие необратимо. Несмотря на то, что мы стремимся удалять личные данные как можно быстрее, некоторая информация может быть сохранена на дополнительный период для соблюдения юридических или нормативных обязательств, либо для защиты наших прав, в соответствии с Политикой конфиденциальности Fanatee.",
+          "ko": "Fanatee의 모바일 애플리케이션을 사용함으로써 귀하는 맞춤형 광고의 대상이 될 수 있습니다. 귀하는 다음과 같이 당사 플랫폼에서 이러한 맞춤형 광고 수신을 거부할 수 있습니다.\n\n1. 광고 ID (\"광고주를 위한 식별자\") 재설정\n\nIDFA를 재설정하면 기기의 모바일 애플리케이션에 대한 액세스 및 사용으로 발생하는 맞춤형 광고와 관련된 모든 데이터를 광고주가 추적할 수 없으며 Fanatee의 모바일 애플리케이션 액세스 및 사용과 관련된 데이터 또한 추적할 수 없습니다.\n광고 ID를 재설정하려면 해당 단계를 따르십시오:\n\nOS 2.2 이상 및 구글플레이 서비스 4.0 이상이 설치된 안드로이드 기기의 경우 설정> 구글 설정 앱> 광고> '맞춤형 광고 선택 해제'를 활성화하거나 설정> 구글> 개인 정보 및 개인 정보 보호> 광고 설정으로 이동합니다. > \"맞춤형 광고 적용 해제\"를 활성화합니다. 광고 ID 재설정을 클릭하십시오.\n\nFanatee는 귀하의 IDFA 기능에 대한 책임이 없음을 강조합니다. 이와 관련하여 의심스러운 사항이 있을 경우 기기의 모바일 애플리케이션 운영 시스템 제공 업체에 문의하십시오.\n\n2. 특정 광고주 선택 해제 (\"광고주를 위한 식별자\"):\n\n특정 광고주의 맞춤형 광고를 더 이상 받고 싶지 않은 경우 <color=blue><u><link=\"https://www.youradchoices.com\">www.youradchoices.com</link></u></color> 또는 <color=blue><u><link=\"https://www.networkadvertising.org\">www.networkadvertising.org</link></u></color>에 액세스 하여 해당 광고주의 수신을 거부할 수 있습니다.\n\n위의 링크가 모든 Fanatee의 광고 파트너에게 도달하지 않을 수 있으며 맞춤형 광고가 여전히 표시될 수 있습니다. 따라서 Fanatee의 모바일 애플리케이션에 대한 액세스 및 사용은 항상 맞춤형 광고의 대상이 될 수 있습니다.\n \n3. 데이터 삭제 :\n\nFanatee의 모바일 앱과 관련된 모든 데이터를 삭제하려면 아래를 클릭하여 요청할 수 있습니다. 진행 상황 및 계정을 포함하여 관련 응용 프로그램에 대한 액세스가 중지될 수 있으니 주의하십시오. Fanatee는 모든 파트너에게 귀하의 데이터 역시 삭제하도록 요청할 것입니다. 파트너사는 다른 목적을 위해 귀하의 데이터를 유지할 수도 있습니다. 어떤 경우에든 파트너사의 개인 정보 취급 방침을 확인하고 파트너사에 구체적인 요청을 보낼 것을 권장합니다.",
+          "ja": "Fanateeのいずれかのモバイルアプリを利用する場合、ユーザーは行動ターゲティング広告の対象となる場合があります。その場合、当社のプラットフォームでは以下の方法でインタレストベースの広告をオプトアウトすることができます：\n\n1. 広告ID（広告識別子）をリセットする\n\n広告IDをリセットすることで、ユーザーがモバイルアプリへアクセス、また使用する際に表示されるインタレストベースの広告に関する全てのデータの広告主による追跡が不可能になります。またこの設定は、Fanateeのモバイルアプリへのアクセスや使用に関する以外のデータにも適用されます。\n広告IDのリセット方法は以下の手順でおこなってください：\n\nOS2.2かそれ以降のバージョンのアンドロイド端末、またはGoogle Play開発者サービス 4.0かそれ以降のバージョンをご利用の場合、設定＞Google＞広告の順に進み「広告のカスタマイズをオプトアウト」を有効にするか、設定＞Google アカウントの管理＞プライバシーとカスタマイズの順に進み、広告のカスタマイズを無効にします。\n\nご利用中の機器の広告 IDの設定状況に関してはFanateeは責任を負いません。この件に関して不明な点がある場合はご利用中の機器のオペレーションシステムのプロバイダにお問い合わせください。\n\n2. 特定の広告（広告識別子）のオプトアウト：\n\n特定の広告主によるインタレストベースの広告を受け取りたくない場合、<color=blue><u><link=\"https://www.youradchoices.com\">www.youradchoices.com</link></u></color> and/or <color=blue><u><link=\"https://www.networkadvertising.org\">www.networkadvertising.org</link></u></color>.で対象となる広告をオプトアウトすることができます。\n\n上記のリンクで設定できるインタレストベース広告のオプトアウトはFanateeと協働している全ての広告主に適用されない場合があり、設定後も行動ターゲティング広告は表示される場合があることをご留意ください。したがって、Fanateeのモバイルアプリへのアクセス、または使用する際に行動ターゲティング広告の対象となる場合があります。\n\n3. データの削除：\n\nFanateeのモバイルアプリに関連する全てのデータの削除を希望する場合は、下のボタンをクリックし削除のリクエストを送信してください。この場合、アプリ内の進展状況やアカウント情報を含めた関連するアプリケーションへのアクセスが不可能になります。この場合、Fanateeは全てのパートナーにデータ消去を要請しますが、パートナーによっては他の目的でデータを保持することがあることをご留意ください。いずれの場合も、パートナーのプライバシポリシーを確認し、特定の削除のリクエストを送信することをお勧めします。"
+        }
+      },
+      {
+        "Identificador": "manage_data_info_android",
+        "Valor": {
+          "de": "Durch die Nutzung unserer mobilen Anwendungen werden Ihre Daten gemäß der Datenschutzrichtlinie von Fanatee verarbeitet. Sie können Ihre Datenschutzeinstellungen, einschließlich der Einstellungen für personalisierte Werbung, wie folgt verwalten:\n\n1. Werbe-ID zurücksetzen\n\nDurch das Zurücksetzen der Werbe-ID werden alle Daten im Zusammenhang mit interessenbezogener Werbung, die aus dem Zugriff auf die und die Nutzung der mobilen Anwendungen auf Ihrem Mobilgerät stammen, für Werbetreibende nicht mehr nachverfolgbar - also nicht nur Daten, die mit dem Zugriff auf die und der Nutzung von mobilen Anwendungen von Fanatee verbunden sind. So setzten Sie die Werbe-ID zurück:\n\nFür Android-Geräte mit OS 2.2 oder höher und Google Play Services 4.0 und höher über Einstellungen > Google-Dienste > Werbung > \"Personalisierte Werbung deaktivieren\" aktivieren bzw. \"Werbe-ID zurücksetzen\" antippen.\n\nEs ist wichtig zu betonen, dass Fanatee nicht für die Funktionen der Werbe-ID verantwortlich ist. Falls diesbezüglich Zweifel bestehen, bitte den Anbieter des Betriebssystems von Mobilapplikationen auf dem Gerät kontaktieren.\n\n2. Ausschluss bestimmter Werbetreibender:\n\nWenn Sie keine interessebasierte Werbung bestimmter Werbetreibender mehr erhalten möchten, können Sie solcher Werbung auf den Webseiten \n<color=blue><u><link=\"https://www.youradchoices.com\">www.youradchoices.com</link></u></color>\n und/oder \n<color=blue><u><link=\"https://www.networkadvertising.org\">www.networkadvertising.org</link></u></color> widersprechen.\n\nBitte berücksichtigen, dass über die oben genannten Links möglicherweise nicht alle Werbepartner von Fanatee erreicht werden können und verhaltensbasierte Werbung immer noch möglich sein könnte. Daher ist beim Zugriff auf die mobilen Anwendungen von Fanatee und bei deren Nutzung immer verhaltensbasierte Werbung möglich.\n\n3. Konto und die damit verbundenen Daten löschen:\n\nWenn Sie Ihr Konto für diese App löschen möchten, können Sie dies über den Button unten tun. Nach Anforderung der Löschung werden alle mit dem Konto verbunden personenbezogenen Daten von Fanatee gelöscht, und es gibt keinen Zugriff mehr auf Spielfortschritt, Erfolge oder andere Funktionen der App. Diese Aktion ist unumkehrbar.\n\nObwohl wir uns verpflichten, personenbezogene Daten so schnell wie möglich zu löschen, können einige Informationen für einen zusätzlichen Zeitraum aufbewahrt werden, um gesetzlichen oder regulatorischen Verpflichtungen nachzukommen oder um unsere Rechte in Übereinstimmung mit der Datenschutzrichtlinie von Fanatee zu schützen.",
+          "en": "By using our mobile applications, your data will be processed in accordance with Fanatee's Privacy Policy. You can manage your privacy preferences, including personalized advertising settings, through the following methods:\n\n1. Reset your Advertising ID (the \"Identifier for Advertisers\")\n\nBy resetting your Advertising ID, all of the data related to interest-based ads arising out of the access to and usage of mobile applications in your device will be untraceable by advertisers -  and not only the data related exclusively to access to and usage of Fanatee's mobile applications. For resetting your Advertising ID , please follow the applicable steps:\n\nFor Android devices with OS 2.2 or higher and Google Play Services 4.0 and higher, go to Settings > Google Settings App > Ads > Enable \"opt out of interest-based advertising\" or go to Settings > Google > Personal Info & privacy > Ads Settings > Enable \"opt out of Ads Personalization\". Make sure to click Reset Advertising ID.\n\nIt's important to emphasize that Fanatee is not responsible for the features of your  Advertising ID. In case you have any doubts related to this, we strongly suggest that you get in touch with the provider of the operational system of mobile applications in your device.\n\n2. Opt-out of specific advertisers (the \"Identifier for Advertisers\"):  \n\nIn case you no longer want to receive interest-based ads of specific advertisers, you may opt-out of such advertisers by accessing \n<color=blue><u><link=\"https://www.youradchoices.com\">www.youradchoices.com</link></u></color>\n and/or \n<color=blue><u><link=\"https://www.networkadvertising.org\">www.networkadvertising.org</link></u></color>.\n\nPlease note that the links above may not reach all Fanatee´s advertising partners and behaviorally targeted advertising may still be displayed to you. Therefore, the access to and usage of Fanatee's mobile applications may always subject you to behaviorally targeted advertisements.\n \n3. Delete your account and associated data:\n\nIf you wish to delete your account for this app, you can proceed by tapping below. Upon requesting deletion, all personal data associated with your account will be erased by Fanatee, and you'll no longer have access to progress data, achievements or other app features. This action is irreversible. While we are committed to deleting personal data as promptly as possible, some information may be retained for an additional period to comply with legal or regulatory obligations, or to protect our rights, in accordance with Fanatee's Privacy Policy.",
+          "es": "Al utilizar nuestras aplicaciones móviles, tus datos serán procesados de acuerdo con la Política de Privacidad de Fanatee. Puedes gestionar tus preferencias de privacidad, incluyendo la configuración de publicidad personalizada, a través de los siguientes métodos:\n\n1. Resetea tu IDFA (el \"Identificador para anunciantes\")\n\nAl resetear tu IDFA, todos los datos relacionados con anuncios basados en intereses, que se desprenden del acceso y el uso de las aplicaciones móviles de tu dispositivo, serán imposibles de rastrear por los anunciantes y no solo los datos relacionados exclusivamente con el acceso y el uso de las aplicaciones móviles de Fanatee.\nPara resetear tu IDFA, por favor sigue los siguientes pasos:\nPara Android con OS 2.2 o superior y Google Play Services 4-0 o superior, ve a Ajustes > Ajustes de Google> Anuncios > Inhabilitar Personalización de Anuncios.\n\nEs importante enfatizar que Fanatee no es responsable de las características de tu IDFA. Si tienes alguna duda al respecto, te sugerimos que te pongas en contacto con el proveedor del sistema operativo de tu dispositivo.\n\n2. Deshabilita anunciantes específicos (el \"Identificador de anunciantes\"):  \n\nSi no quieres recibir publicidad de anunciantes en concreto, puedes deshabilitarlos accediendo a \n<color=blue><u><link=\"https://www.youradchoices.com\">www.youradchoices.com</link></u></color>\n y/o \n<color=blue><u><link=\"https://www.networkadvertising.org\">www.networkadvertising.org</link></u></color>.\n\nTen en cuenta que los enlaces de más arriba pueden no llegar a todos los anunciantes y puedes llegar a ver algún anuncio basado en tus hábitos de navegación. Por lo tanto, el acceso y el uso de las aplicaciones móviles de Fanatee te pueden convertir en receptor de anuncios basados en tus hábitos de navegación.\n\n3. Elimina tu cuenta y los datos asociados:\n\nSi deseas eliminar tu cuenta en esta aplicación, puedes proceder haciendo clic a continuación. Al solicitar la eliminación, todos los datos personales asociados a tu cuenta serán borrados por Fanatee y ya no tendrás acceso a los datos de progreso, logros u otras funciones de la aplicación. Esta acción es irreversible.\n\nSi bien nos comprometemos a eliminar los datos personales lo antes posible, cierta información puede conservarse por un período adicional para cumplir con obligaciones legales o regulatorias, o para proteger nuestros derechos, de acuerdo con la Política de Privacidad de Fanatee.",
+          "fr": "En utilisant nos applications mobiles, vos données seront traitées conformément à la Politique de Confidentialité de Fanatee. Vous pouvez gérer vos préférences de confidentialité, y compris les paramètres de publicité personnalisée, via les méthodes suivantes :\n\n1. Réinitalisez votre IDFA (soit votre \"identifiant publicitaire\") \n\nEn réinitialisant votre IDFA, toutes les données liées aux publicités basées sur vos intérêts découlant de l'accès aux applications sur votre appareil et à leur usage deviendront intraçables pour les annonceurs de manière générale et pas seulement pour Fanatee.\nVoici les différentes étapes pour réinitialier votre IDFA : \nPour des appareils Android possédant la version 2.2 et au-delà du système d'exploitation et la version de Google Play 4.0 et au-delà, aller dans Paramètres > Paramètres de Google > Applications > Publicités > Choisir \"Désactiver la personnalisation des annonces\" ou aller dans Paramètres > Google > Informations personnelles et vie privée > Paramètres des annonces > Choisir \"Désactiver la personnalisation des annonces\". Cliquer ensuite sur \"Réinitialiser l'identifiant publicitaire\"\nNous tenons à préciser que Fanatee n'est en aucun cas responsable des diverses utilisations de votre IDFA. En cas de doute, nous vous invitons à vous rapprocher de l'opérateur du système d'exploitation gérant les applications de votre appareil.\n\n2. Retirer seulement certains annonceurs (ou \"Identifiant publicitaire\") :\n\nDans le cas où vous ne voudriez plus recevoir les publicités de certains annonceurs, vous avez la possiblité de les bloquer en allant sur \n<color=blue><u><link=\"https://www.youradchoices.com\">www.youradchoices.com</link></u></color>\n et/ou \n<color=blue><u><link=\"https://www.networkadvertising.org\">www.networkadvertising.org</link></u></color> \n\nVeuillez noter que ces liens ne regroupent pas tous les partenaires publicitaires de Fanatee et que des publicités ciblées pourraient continuer de vous être montrées. De ce fait, l'accès et l'usage des applications mobiles Fanatee peuvent vous exposer à des publicités ciblées.\n\n3. Supprimez votre compte et les données associées :\n\nSi vous souhaitez supprimer votre compte pour cette application, vous pouvez procéder en cliquant ci-dessous. En demandant la suppression, toutes les données personnelles associées à votre compte seront effacées par Fanatee et vous n’aurez plus accès aux données de progression, aux réussites ou aux autres fonctionnalités de l’application. Cette action est irréversible.\n\nBien que nous nous engagions à supprimer les données personnelles dans les plus brefs délais, certaines informations peuvent être conservées pour une période supplémentaire afin de respecter des obligations légales ou réglementaires, ou de protéger nos droits, conformément à la Politique de confidentialité de Fanatee.",
+          "it": "Quando utilizzi le nostre applicazioni, i tuoi dati saranno trattati in conformità con l'Informativa sulla Privacy di Fanatee. Puoi gestire le tue preferenze relative alla privacy, incluse le impostazioni per la pubblicità personalizzata, nei seguenti modi:\n\n1. Reimposta il tuo ID pubblicità (Identifier for Advertising)\n\nReimpostando il tuo ID pubblicità, tutti i dati relativi agli annunci - basati sugli interessi che derivano dall'accesso e dall'utilizzo di applicazioni sul tuo dispositivo (tutte, non solo quelle di Fanatee) - non saranno rintracciabili dagli inserzionisti. Per reimpostare il tuo ID pubblicità, segui questi step:\n\nPer i dispositivi Android con sistema OS 2.2 o superiore e con Google Play Services 4.0 o superiore, vai su Impostazioni > Impostazioni Google> Annunci, e abilita \"Disattiva Personalizzazione annunci\". Assicurati di selezionare anche \"Reimposta ID pubblicità\".\n\nFanatee non è in alcun modo responsabile delle funzionalità del tuo ID pubblicità. In caso di dubbi, ti consigliamo di metterti in contatto con il fornitore del sistema operativo del tuo dispositivo.\n\n2. Disattiva inserzionisti specifici (\"Identifier for Advertisers\"):\n\nSe non desideri più ricevere annunci basati sui tuoi interessi da parte di specifici inserzionisti, puoi farlo accedendo a: <color=blue><u><link=\"https://www.youradchoices.com\">www.youradchoices.com</link></u></color> and/or <color=blue><u><link=\"https://www.networkadvertising.org\">www.networkadvertising.org</link></u></color>.\n\nI link di cui sopra potrebbero non applicarsi a tutti i partner pubblicitari di Fanatee, quindi alcune pubblicità potrebbero essere ancora mostrate: di conseguenza, l'accesso e l'utilizzo di applicazioni di Fanatee potrebbe sempre comportare la visualizzazione di pubblicità basate sul comportamento dell'utente.\n\n3. Elimina il tuo account e i dati associati:\n\nSe desideri eliminare il tuo account su questa app, puoi procedere cliccando qui sotto. Dopo aver richiesto l'eliminazione, tutti i dati personali associati al tuo account saranno cancellati da Fanatee e non avrai più accesso ai dati di progresso, ai risultati o ad altre funzionalità dell'app. Questa azione è irreversibile.\n\nSebbene ci impegniamo a eliminare i dati personali il più rapidamente possibile, alcune informazioni potrebbero essere conservate per un periodo aggiuntivo per adempiere a obblighi legali o normativi, o per proteggere i nostri diritti, in conformità con l'Informativa sulla privacy di Fanatee.",
+          "nl": "Door onze mobiele applicaties te gebruiken, worden je gegevens verwerkt in overeenstemming met het Privacybeleid van Fanatee. Je kunt je privacyvoorkeuren beheren, inclusief de instellingen voor gepersonaliseerde advertenties, via de volgende methoden:\n\n1. Reset je IDFA (de ‘ID voor adverteerders’)\nAls je je IDFA opnieuw instelt, zijn voortaan alle gegevens die samenhangen met interesse-gestuurde advertenties, voortkomend uit de toegang tot en het gebruik van mobiele applicaties op je apparaat, onvindbaar voor adverteerders. Dit geldt dus niet alleen voor de gegevens rond toegang tot en gebruik van mobiele Fanatee-apps.\nJe kunt je IDFA als volgt resetten:\nVoor Android-toestellen met OS 2.2 of hoger en Google Play Services 4.0 en hoger: ga naar Instellingen> Google Instellingen > Advertenties > vink 'Personalisatie van advertenties niet toegestaan' aan. Of ga naar Google > Persoonlijke gegevens & Privacy > Advertentie-instellingen > zet 'Personalisatie van advertenties niet toegestaan' aan. Vergeet niet om te klikken op Advertentie ID resetten.\n\nWe benadrukken dat Fanatee niet verantwoordelijk is voor je IDFA-functies. Twijfel je, dan adviseren we je met klem om contact op te nemen met je mobiele provider.\n\n2. Afmelden (opt-out) voor specifieke adverteerders:\nWil je niet langer interesse-gestuurde advertenties van specifieke adverteerders ontvangen? Ga dan naar <color=blue><u><link=\"https://www.youradchoices.com\">www.youradchoices.com</link></u></color> en/of <color=blue><u><link=\"https://www.networkadvertising.org\">www.networkadvertising.org</link></u></color> en meld je af voor die adverteerders.\nHoud er echter rekening mee dat via deze links mogelijk niet alle advertentiepartners van Fanatee worden bereikt. In dat geval krijg je mogelijk nog steeds interesse-gestuurde advertenties te zien. De toegang tot en het gebruik van mobiele Fanatee-apps kan daarom altijd tot interesse-gestuurde advertenties leiden.\n\n3. Verwijder je account en de bijbehorende gegevens:\n\nAls je je account voor deze app wilt verwijderen, kun je doorgaan door hieronder te klikken. Zodra je de verwijdering aanvraagt, worden alle persoonlijke gegevens die aan je account zijn gekoppeld door Fanatee gewist, en heb je geen toegang meer tot voortgangsgegevens, prestaties of andere functies van de app. Deze actie is onomkeerbaar.\n\nHoewel we ons inzetten om persoonlijke gegevens zo snel mogelijk te verwijderen, kunnen sommige gegevens voor een aanvullende periode worden bewaard om te voldoen aan wettelijke of regelgevende verplichtingen, of om onze rechten te beschermen, in overeenstemming met het privacybeleid van Fanatee.",
+          "pt": "Ao utilizar nossos aplicativos móveis, seus dados serão tratados nos termos da Política de Privacidade da Fanatee. Você poderá gerenciar as suas preferências de privacidade, incluindo as configurações de publicidade personalizada, usando os seguintes métodos:\n\n1. Resete seu ID de Publicidade\n\nAo resetar seu ID de Publicidade, todos os dados relacionados aos anúncios baseados em interesses provenientes do acesso e uso de aplicativos móveis em seu dispositivo móvel serão irrastreáveis por anunciantes - e não apenas os dados ligados exclusivamente ao acesso e uso dos aplicativos móveis da Fanatee.\nPara resetar seu ID de Publicidade, por favor siga os passos necessários:\nPara dispositivos Android com SO 2.2 ou superior e Google Play Services 4.0 ou superior, vá a Configurações> Selecione Google> Selecione Anúncios> Ative a configuração \"Desativar anúncios c/ base em interesses\". Não se esqueça de clicar em Resetar ID de Publicidade.\n\nÉ importante enfatizar que a Fanatee não é responsável pelo funcionamento de seu ID de Publicidade. Caso você tenha dúvidas quanto a isso, reforçamos a sugestão de que entre em contato com o provedor do sistema operacional dos aplicativos móveis em seu dispositivo.\n\n2. Escolha anunciantes específicos (o \"Identificador para Anunciantes\"):\n\nCaso você não queira mais receber anúncios baseados em interesses de anunciantes específicos, você pode desativá-los ao acessar \n<color=blue><u><link=\"https://www.youradchoices.com\">www.youradchoices.com</link></u></color>\n e/ou \n<color=blue><u><link=\"https://www.networkadvertising.org\">www.networkadvertising.org</link></u></color>.\n\nEsteja ciente de que os links acima talvez não abranjam todos os parceiros de anúncios da Fanatee e que anúncios direcionados ainda poderão ser exibidos a você. Portanto, o acesso e uso dos aplicativos da Fanatee podem sempre trazer a você anúncios baseados em comportamento.\n\n3. Apague sua conta e dados associados:\n\nCaso queira que a sua conta deste aplicativo seja apagada, você poderá prosseguir clicando abaixo. Ao solicitar a exclusão, todos os dados pessoais associados à sua conta serão eliminados pela Fanatee e você não terá mais acesso às informações de progresso, conquistas ou outras funcionalidades do aplicativo. Esta é uma ação irreversível. No entanto, embora nos comprometamos a excluir os dados pessoais na maior brevidade possível, algumas informações poderão ser retidas por um período adicional para, por exemplo, cumprirmos com obrigações legais ou regulatórias ou protegermos nossos direitos, nos termos da Política de Privacidade da Fanatee.",
+          "tr": "Mobil uygulamalarımızı kullandığınızda, verileriniz Fanatee'nin Gizlilik Politikası'na uygun olarak işlenecektir. Gizlilik tercihlerinizi, kişiselleştirilmiş reklam ayarları da dahil olmak üzere, aşağıdaki yöntemler aracılığıyla yönetebilirsiniz.\n\n1. Reklam kimliğinizi (\"Reklam Tanımlayıcı\") sıfırlamak\n\nReklam kimliğinizi sıfırlayınca, cihazınızda mobil uygulamalara erişim ve bunların kullanımından doğan ilgi alanına dayalı reklamlara ait veriler, reklam verenler tarafından izlenemez hale gelecektir; bu veriler yalnızca Fanatee'nin mobil uygulamalarına erişim ve bunların kullanımından doğan verilerle sınırlı değildir. Reklam kimliğinizi sıfırlamak için aşağıdaki adımları uygulayınız:\n\nAndroid 2.2 ve daha yeni sürümler ile Google Play Hizmetleri 4.0 ve daha yeni sürümler için: Ayarlar > Google Ayarları > Reklamlar > \"İlgi alanına dayalı reklamları devre dışı bırak\" seçeneğini işaretleyin veya Ayarlar > Google > Kişisel Bilgiler ve Gizlilik > Reklam Ayarları > \"Reklam Kişiselleştirmeyi devre dışı bırak\" seçeneğini işaretleyin. Reklam Kimliğini Sıfırla seçeneğini tıklamayı unutmayın. \n\nFanatee'nin sizin reklam kimliğinizin özelliklerinden sorumlu olmadığının altını çizmek isteriz. Bununla ilgili sorularınız varsa, cihazınızdaki mobil uygulamaların işletim sistemi sağlayıcısı ile iletişime geçmenizi tavsiye ederiz. \n\n2. Belirli reklam verenleri (\"Reklam Tanımlayıcı\") devre dışı bırakmak :  \n\nBelirli reklam verenlerin ilgi alanlarınıza dayalı reklamlarını artık almak istemiyorsanız, \n<color=blue><u><link=\"https://www.youradchoices.com\">www.youradchoices.com</link></u></color>\n ve/veya \n<color=blue><u><link=\"https://www.networkadvertising.org\">www.networkadvertising.org</link></u></color>\n siteleri vasıtasıyla bu reklam verenleri devre dışı bırakabilirsiniz. \n\nYukarıdaki bağlantıların Fanatee'nin tüm reklam ortaklarına ulaşamayabileceğini ve kullanıcı davranışı temelli reklamların size de yine de gösterilebileceğini hatırlatmak isteriz. Dolayısıyla, Fanatee'nin mobil uygulamalarına erişiminiz ve bunları kullanmanız sebebiyle her zaman söz konusu kullanıcı davranışı temelli reklamlara maruz kalabilirsiniz.\n\n3. Hesabınızı ve ilişkili verileri silin:\n\nBu uygulamadaki hesabınızı silmek isterseniz, aşağıdaki butona tıklayarak işlemi gerçekleştirebilirsiniz. Silme işlemi talebinde bulunduğunuzda, Fanatee tarafından hesabınızla ilişkili tüm kişisel veriler silinecek ve ilerleme verilerine, başarımlara veya uygulamanın diğer özelliklerine artık erişemeyeceksiniz. Bu işlem geri alınamaz. Kişisel verileri mümkün olan en kısa sürede silmeyi taahhüt ediyor olmamıza rağmen, bazı bilgiler yasal veya düzenleyici yükümlülüklere uymak ya da Fanatee'nin Gizlilik Politikası uyarınca haklarımızı korumak amacıyla ek bir süre boyunca saklanabilir.",
+          "ru": "Используя наши мобильные приложения, вы соглашаетесь на обработку ваших данных в соответствии с Политикой конфиденциальности Fanatee. Вы можете управлять своими настройками конфиденциальности, включая параметры персонализированной рекламы, с помощью следующих методов:\n\n1. Сбросьте настройки вашего рекламного идентификатора (IDFA)\nСбрасывая настройки рекламного идентификатора, вы делаете все данные, имеющие отношение к рекламе по интересам и использованию мобильных приложений на вашем устройстве, недоступными к отслеживанию рекламодателями. Это касается не только данных, имеющих отношение к доступу и использованию мобильных приложений от компании Fanatee.\nДля того, чтобы сбросить настройки своего рекламного идентификатора, следуйте инструкции ниже.\n\n\nЕсли вы используете мобильное устройство на Android версии 2.2 и выше, а также Google Play версии 4.0 и выше, перейдите в раздел Настройки > Приложения >Google > Реклама > Отключить персонализацию рекламы. Убедитесь, что вы нажали «Сбросить рекламный идентификатор».\n\n\nВажно отметить, что Fanatee не несет ответственности за настройки вашего рекламного идентификатора. Если у вас есть какие-либо сомнения, мы настоятельно рекомендуем связаться с провайдером операционной системы, использующейся на вашем мобильном устройстве. \n\n2. Отпишитесь от конкретных рекламодателей (Рекламный идентификатор):\nЕсли вы больше не хотите получать рекламу по интересам, исходящую от определенных рекламодателей, вы можете отписаться от них на сайтах \n<color=blue><u><link=\"https://www.youradchoices.com\">www.youradchoices.com</link></u></color>\n и/или \n<color=blue><u><link=\"https://www.networkadvertising.org\">www.networkadvertising.org</link></u></color>.\n\nОбратите внимание, что вышеуказанные сервисы могут не охватывать всех рекламных партнеров Fanatee,следовательно, какие-то таргетированные объявления могут по-прежнему показываться вам. Таким образом, использование мобильных приложений от компании Fanatee всегда потенциально связано с показом таргетированной рекламы.\n\n3. Удалите свой аккаунт и связанные с ним данные:\n\nЕсли вы хотите удалить свой аккаунт в этом приложении, вы можете продолжить, нажав ниже. После запроса на удаление все личные данные, связанные с вашим аккаунтом, будут удалены Fanatee, и вы больше не получите доступ к данным о прогрессе, достижениям или другим функциям приложения. Это действие необратимо. Несмотря на то, что мы стремимся удалять личные данные как можно быстрее, некоторая информация может быть сохранена на дополнительный период для соблюдения юридических или нормативных обязательств, либо для защиты наших прав, в соответствии с Политикой конфиденциальности Fanatee.",
+          "ko": "Fanatee의 모바일 애플리케이션을 사용함으로써 귀하는 맞춤형 광고의 대상이 될 수 있습니다. 귀하는 다음과 같이 당사 플랫폼에서 이러한 맞춤형 광고 수신을 거부할 수 있습니다.\n\n1. 광고 ID (\"광고주를 위한 식별자\") 재설정\n\nIDFA를 재설정하면 기기의 모바일 애플리케이션에 대한 액세스 및 사용으로 발생하는 맞춤형 광고와 관련된 모든 데이터를 광고주가 추적할 수 없으며 Fanatee의 모바일 애플리케이션 액세스 및 사용과 관련된 데이터 또한 추적할 수 없습니다.\n광고 ID를 재설정하려면 해당 단계를 따르십시오:\n\nOS 2.2 이상 및 구글플레이 서비스 4.0 이상이 설치된 안드로이드 기기의 경우 설정> 구글 설정 앱> 광고> '맞춤형 광고 선택 해제'를 활성화하거나 설정> 구글> 개인 정보 및 개인 정보 보호> 광고 설정으로 이동합니다. > \"맞춤형 광고 적용 해제\"를 활성화합니다. 광고 ID 재설정을 클릭하십시오.\n\nFanatee는 귀하의 IDFA 기능에 대한 책임이 없음을 강조합니다. 이와 관련하여 의심스러운 사항이 있을 경우 기기의 모바일 애플리케이션 운영 시스템 제공 업체에 문의하십시오.\n\n2. 특정 광고주 선택 해제 (\"광고주를 위한 식별자\"):\n\n특정 광고주의 맞춤형 광고를 더 이상 받고 싶지 않은 경우 <color=blue><u><link=\"https://www.youradchoices.com\">www.youradchoices.com</link></u></color> 또는 <color=blue><u><link=\"https://www.networkadvertising.org\">www.networkadvertising.org</link></u></color>에 액세스 하여 해당 광고주의 수신을 거부할 수 있습니다.\n\n위의 링크가 모든 Fanatee의 광고 파트너에게 도달하지 않을 수 있으며 맞춤형 광고가 여전히 표시될 수 있습니다. 따라서 Fanatee의 모바일 애플리케이션에 대한 액세스 및 사용은 항상 맞춤형 광고의 대상이 될 수 있습니다.\n \n3. 데이터 삭제 :\n\nFanatee의 모바일 앱과 관련된 모든 데이터를 삭제하려면 아래를 클릭하여 요청할 수 있습니다. 진행 상황 및 계정을 포함하여 관련 응용 프로그램에 대한 액세스가 중지될 수 있으니 주의하십시오. Fanatee는 모든 파트너에게 귀하의 데이터 역시 삭제하도록 요청할 것입니다. 파트너사는 다른 목적을 위해 귀하의 데이터를 유지할 수도 있습니다. 어떤 경우에든 파트너사의 개인 정보 취급 방침을 확인하고 파트너사에 구체적인 요청을 보낼 것을 권장합니다.",
+          "ja": "Fanateeのいずれかのモバイルアプリを利用する場合、ユーザーは行動ターゲティング広告の対象となる場合があります。その場合、当社のプラットフォームでは以下の方法でインタレストベースの広告をオプトアウトすることができます：\n\n1. 広告ID（広告識別子）をリセットする\n\n広告IDをリセットすることで、ユーザーがモバイルアプリへアクセス、また使用する際に表示されるインタレストベースの広告に関する全てのデータの広告主による追跡が不可能になります。またこの設定は、Fanateeのモバイルアプリへのアクセスや使用に関する以外のデータにも適用されます。\n広告IDのリセット方法は以下の手順でおこなってください：\n\nOS2.2かそれ以降のバージョンのアンドロイド端末、またはGoogle Play開発者サービス 4.0かそれ以降のバージョンをご利用の場合、設定＞Google＞広告の順に進み「広告のカスタマイズをオプトアウト」を有効にするか、設定＞Google アカウントの管理＞プライバシーとカスタマイズの順に進み、広告のカスタマイズを無効にします。\n\nご利用中の機器の広告 IDの設定状況に関してはFanateeは責任を負いません。この件に関して不明な点がある場合はご利用中の機器のオペレーションシステムのプロバイダにお問い合わせください。\n\n2. 特定の広告（広告識別子）のオプトアウト：\n\n特定の広告主によるインタレストベースの広告を受け取りたくない場合、<color=blue><u><link=\"https://www.youradchoices.com\">www.youradchoices.com</link></u></color> and/or <color=blue><u><link=\"https://www.networkadvertising.org\">www.networkadvertising.org</link></u></color>.で対象となる広告をオプトアウトすることができます。\n\n上記のリンクで設定できるインタレストベース広告のオプトアウトはFanateeと協働している全ての広告主に適用されない場合があり、設定後も行動ターゲティング広告は表示される場合があることをご留意ください。したがって、Fanateeのモバイルアプリへのアクセス、または使用する際に行動ターゲティング広告の対象となる場合があります。\n\n3. データの削除：\n\nFanateeのモバイルアプリに関連する全てのデータの削除を希望する場合は、下のボタンをクリックし削除のリクエストを送信してください。この場合、アプリ内の進展状況やアカウント情報を含めた関連するアプリケーションへのアクセスが不可能になります。この場合、Fanateeは全てのパートナーにデータ消去を要請しますが、パートナーによっては他の目的でデータを保持することがあることをご留意ください。いずれの場合も、パートナーのプライバシポリシーを確認し、特定の削除のリクエストを送信することをお勧めします。"
+        }
+      },
+      {
+        "Identificador": "modal_gdpr_text_update",
+        "Valor": {
+          "de": "Wir haben unsere Datenschutzerklärung und unsere Nutzungsbedingungen aktualisiert.\n\nUnser Ziel ist es, dir ein großartiges Spielerlebnis in verantwortungsvoller Art und Weise bereitzustellen.\n\nBitte lies die Allgemeinen Geschäfts-/ Nutzungsbedingungen und Datenschutzerklärung für weitere Informationen.",
+          "en": "We have updated our Privacy Policy and Terms of Service.\n\nOur goal is to provide you with a great gaming experience in a responsible way.\n\nPlease read the Terms of Use and Privacy Policy for more information.",
+          "es": "Hemos actualizado nuestra Política de privacidad y Condiciones de servicio.\n\nNuestro objetivo es brindarte una gran experiencia de juego de manera responsable.\n\nPor favor, lee los términos de la Política de Privacidad para más información.",
+          "fr": "Nous avons mis à jour notre politique de confidentialité et nos conditions d'utilisation.\n\nNotre objectif est de vous offrir une formidable expérience de jeu de manière responsable.\n\nVeuillez lire les Conditions d'utilisation et la Politique de confidentialité pour plus d'informations.",
+          "it": "Abbiamo aggiornato le Norme sulla Privacy e i Termini di Utilizzo.\n\nVogliamo offrirti una bella esperienza di gioco in modo responsabile.\n\nTi invitiamo a leggere i nostri Termini d'Uso e la Privacy Policy per maggiori informazioni.",
+          "nl": "We hebben de servicevoorwaarden en ons privacybeleid veranderd.\n\nOns doel is je op een verantwoordelijke manier een fantastische spelervaring te bieden.\n\nLees ons Privacybeleid en de Leveringsvoorwaarden voor meer informatie.",
+          "pt": "Atualizamos nossa Política de Privacidade e Termos de Uso.\n\nNosso objetivo é oferecer a você uma grande experiência de jogo de maneira responsável.\n\nPor favor, leia os Termos de Uso e a Política de Privacidade para mais informações.",
+          "tr": "Gizlilik Politikamızı ve Hizmet Şartlarımızı güncelledik.\n\nAmacımız, sorumlu bir şekilde size harika bir oyun deneyimi sunmaktır.\n\nDaha fazla bilgi için lütfen Kullanım Şartlarını ve Gizlilik Politikasını okuyunuz.",
+          "ru": "Мы обновили нашу Политику конфиденциальности и Условия пользования.\n\nНаша цель - предоставить вам возможность наслаждаться игрой, соблюдая ответственный подход.\n\nПожалуйста, ознакомьтесь с Условиями пользования и Политикой конфиденциальности",
+          "ko": "개인정보처리방침 및 서비스 이용 약관을 업데이트했습니다.\n\n우리의 목표는 책임감 있게 멋진 게임을 제공하는 것입니다.\n\n이용 약관과 개인정보처리방침에서 더 자세한 내용을 확인해보세요.",
+          "ja": "プライバシーポリシーと利用規約を更新しました。\n\n当社ではユーザーの皆様に快適で楽しいゲーム体験を責任を持って提供するよう務めております。\n\n詳しくは利用規約とプライバシポリシーに記載されている内容をご確認ください。"
+        }
+      },
+      {
+        "Identificador": "bookstore_notification_body",
+        "Valor": {
+          "de": "Jeden Tag gibt es verschiedene Bücher. Verpasse nicht die heutige Auswahl!",
+          "en": "Different books are available every day. Don't miss today's selection!",
+          "es": "Cada día hay disponibles libros distintos. ¡No te pierdas la selección de hoy!",
+          "fr": "Chaque jour, de nouveaux livres sont proposés. Ne manque pas la sélection d'aujourd'hui !",
+          "it": "Ogni giorno, libri diversi. Non perderti quelli di oggi!",
+          "nl": "Er zijn elke dag weer nieuwe boeken beschikbaar. Loop de selectie van vandaag niet mis!",
+          "pt": "Todo dia oferecemos livros diferentes. Não perca a seleção de hoje!",
+          "tr": "Her gün farklı kitaplar getiriyoruz. Bugünün kitaplarını kaçırma!",
+          "ru": "Каждый день на полке появляются новые и разные книги. Не пропустите сегодняшнюю подборку!",
+          "ko": "매일 다양한 책을 이용할 수 있어요. 오늘의 책을 놓치지 마세요!",
+          "ja": "毎日新しい本が新着します！今日の本を新着本をお見逃しなく！"
+        }
+      },
+      {
+        "Identificador": "bookstore_notification_title",
+        "Valor": {
+          "de": "Es gibt neue Bücher im Buchladen",
+          "en": "New books are available at the Bookstall",
+          "es": "Hay nuevos libros disponibles en la librería",
+          "fr": "De nouveaux livres sont disponibles en magasin",
+          "it": "Sono disponibili nuovi libri in libreria!",
+          "nl": "Er zijn nieuwe boeken beschikbaar in de Boekenstal!",
+          "pt": "Novos livros estão disponíveis na Livraria",
+          "tr": "Kitapçıda yeni kitaplar var!",
+          "ru": "На полке появились новые книги",
+          "ko": "서점에서 새로운 책을 이용할 수 있어요",
+          "ja": "ブックストアに新しい本が新着しました"
+        }
+      },
+      {
+        "Identificador": "st_evnt_end_notification_body",
+        "Valor": {
+          "de": "Das Event {0} hat angefangen.\nMach mit und gewinne Preise!",
+          "en": "Event {0} is almost over!\nDon't waste any more time and go after the prizes!",
+          "es": "¡El evento {0} está a punto de terminar!\n¡No pierdas más tiempo y ve a por los premios!",
+          "fr": "L'événement {0} est presque terminé !\nNe perds pas de temps pour aller chercher les récompenses !",
+          "it": "L'evento {0} è quasi concluso!\nNon perdere altro tempo, vai a caccia di premi!",
+          "nl": "Het {0}-event is bijna voorbij!\nDoe snel mee en loop de prijzen niet mis!",
+          "pt": "O evento {0} está quase terminando!\nNão perca mais tempo e vá atrás dos prêmios!",
+          "tr": "{0} etkinliği bitmek üzere!\nVakit kaybetmeden ödüllerin peşine düş!",
+          "ru": "Событие {0} скоро закончится!\nПоспешите принять участие и выиграть призы!",
+          "ko": "{0} 이벤트가 거의 끝나가요! 기회를 놓치지 말고 보상을 받으세요!",
+          "ja": "{0}のイベントがもうすぐ終了します。今すぐ参加して賞品をもらいましょう！"
+        }
+      },
+      {
+        "Identificador": "st_evnt_end_notification_title",
+        "Valor": {
+          "de": "LOS GEHTS!",
+          "en": "LET'S GO!",
+          "es": "¡VAMOS!",
+          "fr": "ON Y VA !",
+          "it": "ANDIAMO!",
+          "nl": "PAD VOLGEN!",
+          "pt": "VAMOS LÁ!",
+          "tr": "BAŞLA!",
+          "ru": "ПОЕХАЛИ!",
+          "ko": "가 보자!",
+          "ja": "始める"
+        }
+      },
+      {
+        "Identificador": "st_evnt_energy_restored_body",
+        "Valor": {
+          "de": "Der Energielevel in {0} ist voll! Spiel jetzt!",
+          "en": "The energy level in {0} is full! Play now!",
+          "es": "¡El nivel de energía en {0} está lleno!¡ Juega ahora!",
+          "fr": "Ton niveau d'énergie pour {0} est plein ! Tu peux maintenant jouer !",
+          "it": "Il livello di energia per {0} è pieno! Gioca ora!",
+          "nl": "Het energielevel in {0} is vol! Speel nu!",
+          "pt": "A energia em {0} está cheia! Jogue agora!",
+          "tr": "{0} enerji seviyesi tam dolu! Hemen oyna!",
+          "ru": "Уровень энергии полон до краев в {0}! Сыграйте сейчас!",
+          "ko": "{0}에서 에너지가 완충되었어요! 지금 플레이하세요!",
+          "ja": "{0}のエネルギーレベルはMaxです。今すぐプレイしましょう！"
+        }
+      },
+      {
+        "Identificador": "st_evnt_energy_restored_title",
+        "Valor": {
+          "de": "Energie ist voll!",
+          "en": "Energy is Full!",
+          "es": "¡Energía a tope!",
+          "fr": "Ton énergie est à son maximum !",
+          "it": "Energia piena!",
+          "nl": "Energie vol!",
+          "pt": "Energia Cheia!",
+          "tr": "Enerji Tam Dolu!",
+          "ru": "Энергия полностью восстановлена",
+          "ko": "에너지 완충!",
+          "ja": "エネルギーがMaxです"
+        }
+      },
+      {
+        "Identificador": "st_evnt_start_notification_body",
+        "Valor": {
+          "de": "Das Event {0} hat angefangen.\nMach mit und gewinne Preise!",
+          "en": "Event {0} has already started.\nParticipate and win prizes!",
+          "es": "El evento {0} ya ha empezado.\n¡Participa y gana premios!",
+          "fr": "L'événement {0} a déjà commencé.\nJoue pour gagner des récompenses !",
+          "it": "L'evento {0} è già cominciato.\nPartecipa per vincere premi!",
+          "nl": "Het {0}-event is al begonnen.\nDoe mee en win prijzen!",
+          "pt": "O evento {0} já começou!\nParticipe e ganhe prêmios!",
+          "tr": "{0} etkinliği başladı bile.\nHemen katıl ve ödüller kazan!",
+          "ru": "Событие {0} уже началось.\nУчаствуйте и получайте призы!",
+          "ko": "{0} 이벤트가 이미 시작됐어요. 참여하고 보상을 받으세요!",
+          "ja": "{0}のイベントはすでに始まっています。今すぐ参加して賞品もらいましょう！"
+        }
+      },
+      {
+        "Identificador": "st_evnt_start_notification_title",
+        "Valor": {
+          "de": "Neue Rätsel verfügbar!",
+          "en": "New puzzles available!",
+          "es": "¡Hay más crucigramas disponibles!",
+          "fr": "Nouvelles grilles disponibles !",
+          "it": "Nuovi puzzle disponibili!",
+          "nl": "Er zijn nieuwe puzzels!",
+          "pt": "Mais fases disponíveis!",
+          "tr": "Yeni bulmacalar var!",
+          "ru": "Доступны новые головоломки!",
+          "ko": "새로운 퍼즐 도착! 자신의 한계에 도전해보세요!",
+          "ja": "新しいパズルが追加されました。今すぐプレイ！"
+        }
+      },
+      {
+        "Identificador": "st_evnt_end_notification_body_fallback",
+        "Valor": {
+          "de": "Neue Rätsel verfügbar! Nimm die Herausforderung an!",
+          "en": "New puzzles available! Come challenge yourself!",
+          "es": "¡Hay más crucigramas disponibles! ¡Ven y ponte a prueba!",
+          "fr": "Nouvelles grilles disponibles ! Venez relever le défi !",
+          "it": "Nuovi puzzle disponibili! Sfida te stesso!",
+          "nl": "Er zijn nieuwe puzzels! Daag jezelf uit!",
+          "pt": "Mais fases disponíveis! Encare esse desafio!",
+          "tr": "Yeni bulmacalar var. Gel ve mücadeleye başla!",
+          "ru": "Доступны новые головоломки! Испытайте себя!",
+          "ko": "새로운 퍼즐 도착! 자신의 한계에 도전해보세요!",
+          "ja": "新しいパズルが追加されました。今すぐプレイ！"
+        }
+      },
+      {
+        "Identificador": "st_evnt_energy_restored_body_fallback",
+        "Valor": {
+          "de": "Neue Rätsel verfügbar! Nimm die Herausforderung an!",
+          "en": "New puzzles available! Come challenge yourself!",
+          "es": "¡Hay más crucigramas disponibles! ¡Ven y ponte a prueba!",
+          "fr": "Nouvelles grilles disponibles ! Venez relever le défi !",
+          "it": "Nuovi puzzle disponibili! Sfida te stesso!",
+          "nl": "Er zijn nieuwe puzzels! Daag jezelf uit!",
+          "pt": "Mais fases disponíveis! Encare esse desafio!",
+          "tr": "Yeni bulmacalar var. Gel ve mücadeleye başla!",
+          "ru": "Доступны новые головоломки! Испытайте себя!",
+          "ko": "새로운 퍼즐 도착! 자신의 한계에 도전해보세요!",
+          "ja": "新しいパズルが追加されました。今すぐプレイ！"
+        }
+      },
+      {
+        "Identificador": "st_evnt_start_notification_body_fallback",
+        "Valor": {
+          "de": "Neue Rätsel verfügbar! Nimm die Herausforderung an!",
+          "en": "New puzzles available! Come challenge yourself!",
+          "es": "¡Hay más crucigramas disponibles! ¡Ven y ponte a prueba!",
+          "fr": "Nouvelles grilles disponibles ! Venez relever le défi !",
+          "it": "Nuovi puzzle disponibili! Sfida te stesso!",
+          "nl": "Er zijn nieuwe puzzels! Daag jezelf uit!",
+          "pt": "Mais fases disponíveis! Encare esse desafio!",
+          "tr": "Yeni bulmacalar var. Gel ve mücadeleye başla!",
+          "ru": "Доступны новые головоломки! Испытайте себя!",
+          "ko": "새로운 퍼즐 도착! 자신의 한계에 도전해보세요!",
+          "ja": "新しいパズルが追加されました。今すぐプレイ！"
+        }
+      },
+      {
+        "Identificador": "vip_card_body",
+        "Valor": {
+          "de": "Tritt der CodyCross-Community auf Facebook bei! Gehöre zu den Ersten, die Neues erfahren und trage dazu bei, das Spiel noch besser zu machen.",
+          "en": "Join the CodyCross Community group on Facebook! Be among the first to receive news and contribute to making the game even better.",
+          "es": "¡Únete al grupo de la Comunidad de CodyCross en Facebook! Sé uno de los primeros en enterarte de lo nuevo y danos tus aportes para mejorar el juego.",
+          "fr": "Rejoins la communauté de CodyCross sur Facebook pour être parmi les premiers à recevoir des informations et à contribuer à l'amélioration du jeu.",
+          "it": "Entra nel gruppo Facebook di CodyCross! Conoscerai le novità in anteprima e potrai suggerire come migliorare il gioco! ",
+          "nl": "Sluit je aan bij de CodyCross Community-groep op Facebook! Je ontvangt nieuws dan als eerste en je kunt eraan bijdragen om het spel nog beter te maken.",
+          "pt": "Faça parte da Comunidade CodyCross no Facebook! Saiba das novidades em primeira mão e contribua para tornar o jogo ainda melhor.",
+          "tr": "Facebook CodyCross Topluluk grubuna katıl! Haberleri ilk sen öğren ve oyunu iyileştirmeye katkı sağla.",
+          "ru": "Вступайте в сообщество КодиКросс на Фейсбуке! Узнавайте первыми о всех новостях и помогайте улучшать игру, делясь идеями и предложениями.",
+          "ko": "코디크로스 VIP 페이스북 그룹에 가입하세요! 소식을 가장 먼저 받아보고 피드백으로 게임을 더 나은 방향으로 개선해보세요.",
+          "ja": "CodyCrossのVIP Facebookグループに参加しましょう。VIPになると新着情報がいち早く手に入るほか、ゲームをより面白くするための提案をすることができます。"
+        }
+      },
+      {
+        "Identificador": "vip_card_btn",
+        "Valor": {
+          "de": "BEITRETEN",
+          "en": "JOIN",
+          "es": "PARTICIPAR",
+          "fr": "REJOINDRE",
+          "it": "ENTRA",
+          "nl": "LID WORDEN",
+          "pt": "PARTICIPAR",
+          "tr": "KATIL",
+          "ru": "ВСТУПИТЬ",
+          "ko": "",
+          "ja": ""
+        }
+      },
+      {
+        "Identificador": "vip_invite_modal_body",
+        "Valor": {
+          "de": "Tritt der CodyCross-Community auf Facebook bei! Gehöre zu den Ersten, die Neues erfahren und trage dazu bei, das Spiel noch besser zu machen.",
+          "en": "Join the CodyCross Community group on Facebook! Be among the first to receive news and contribute to making the game even better.",
+          "es": "¡Únete al grupo de la Comunidad de CodyCross en Facebook! Sé uno de los primeros en enterarte de lo nuevo y danos tus aportes para mejorar el juego.",
+          "fr": "Rejoins la communauté de CodyCross sur Facebook pour être parmi les premiers à recevoir des informations et à contribuer à l'amélioration du jeu.",
+          "it": "Entra nel gruppo Facebook di CodyCross! Conoscerai le novità in anteprima e potrai suggerire come migliorare il gioco! ",
+          "nl": "Sluit je aan bij de CodyCross Community-groep op Facebook! Je ontvangt nieuws dan als eerste en je kunt eraan bijdragen om het spel nog beter te maken.",
+          "pt": "Faça parte da Comunidade CodyCross no Facebook! Saiba das novidades em primeira mão e contribua para tornar o jogo ainda melhor.",
+          "tr": "Facebook CodyCross Topluluk grubuna katıl! Haberleri ilk sen öğren ve oyunu iyileştirmeye katkı sağla.",
+          "ru": "Вступайте в сообщество КодиКросс на Фейсбуке! Узнавайте первыми о всех новостях и помогайте улучшать игру, делясь идеями и предложениями.",
+          "ko": "코디크로스 VIP 페이스북 그룹에 가입하세요! 소식을 가장 먼저 받아보고 피드백으로 게임을 더 나은 방향으로 개선해보세요.",
+          "ja": "CodyCrossのVIP Facebookグループに参加しましょう。VIPになると新着情報がいち早く手に入るほか、ゲームをより面白くするための提案をすることができます。"
+        }
+      },
+      {
+        "Identificador": "vip_invite_modal_btn_accept",
+        "Valor": {
+          "de": "BEITRETEN",
+          "en": "JOIN",
+          "es": "PARTICIPAR",
+          "fr": "REJOINDRE",
+          "it": "ENTRA",
+          "nl": "LID WORDEN",
+          "pt": "PARTICIPAR",
+          "tr": "KATIL",
+          "ru": "ВСТУПИТЬ",
+          "ko": "",
+          "ja": ""
+        }
+      },
+      {
+        "Identificador": "vip_invite_modal_btn_refuse",
+        "Valor": {
+          "de": "JETZT NICHT",
+          "en": "NOT NOW ",
+          "es": "AHORA NO",
+          "fr": "PAS MAINTENANT",
+          "it": "NON ORA",
+          "nl": "NIET NU",
+          "pt": "AGORA NÃO",
+          "tr": "ŞİMDİ DEĞİL",
+          "ru": "НЕ СЕЙЧАС",
+          "ko": "나중에",
+          "ja": "後で"
+        }
+      },
+      {
+        "Identificador": "vip_invite_modal_header",
+        "Valor": {
+          "de": "COMMUNITY",
+          "en": "COMMUNITY",
+          "es": "COMUNIDAD",
+          "fr": "COMMUNAUTÉ",
+          "it": "GRUPPO FACEBOOK",
+          "nl": "COMMUNITY",
+          "pt": "COMUNIDADE",
+          "tr": "TOPLULUK",
+          "ru": "СООБЩЕСТВО",
+          "ko": "VIP 그룹",
+          "ja": "VIPグループ"
+        }
+      },
+      {
+        "Identificador": "gm_reminder_1_title",
+        "Valor": {
+          "de": "Etwas vergessen?🤔",
+          "en": "Forget something?🤔",
+          "es": "¿Olvidaste algo? 🤔",
+          "fr": "Vous n'auriez pas oublié quelque chose ?",
+          "it": "Hai dimenticato qualcosa?🤔",
+          "nl": "Moest je niet nog iets doen?🤔",
+          "pt": "Olá, tudo bem?",
+          "tr": "Bir şey mi unuttun? 🤔",
+          "ru": "Вы ничего не забыли? 🤔",
+          "ko": "잊은 거 없나요? 🤔",
+          "ja": "お忘れなく！🤔"
+        }
+      },
+      {
+        "Identificador": "gm_reminder_2_title",
+        "Valor": {
+          "de": "Du wurdest schon vermisst!",
+          "en": "You've been missed!",
+          "es": "¡Te hemos extrañado!",
+          "fr": "Vous nous avez manqué !",
+          "it": "Ci manchi!",
+          "nl": "We missen je!",
+          "pt": "🎶Cadêêê vocêêê...",
+          "tr": "Seni özledik!",
+          "ru": "Мы по вам соскучились!",
+          "ko": "그리웠어요!",
+          "ja": "まだ間に合います！"
+        }
+      },
+      {
+        "Identificador": "gm_reminder_5_title",
+        "Valor": {
+          "de": "Trainiere deine Skills!",
+          "en": "Sharpen your skills",
+          "es": "Mejora tus habilidades",
+          "fr": "Aiguisez votre esprit",
+          "it": "Affina le tue abilità",
+          "nl": "Train je brein!",
+          "pt": "Ei, você aí!",
+          "tr": "Becerilerini geliştir",
+          "ru": "Оттачивай свои навыки!",
+          "ko": "스킬을 연마해보세요",
+          "ja": "スキルアップしましょう"
+        }
+      },
+      {
+        "Identificador": "gm_reminder_4_title",
+        "Valor": {
+          "de": "Wusstest du, ...",
+          "en": "Did you know...",
+          "es": "Sabías que ...",
+          "fr": "Saviez-vous...",
+          "it": "Lo sapevi?",
+          "nl": "Wist je dat...",
+          "pt": "Você sabia...",
+          "tr": "Bunu biliyor muydun?",
+          "ru": "А вы знаете, что...",
+          "ko": "알고 있나요...",
+          "ja": "ご存じでしたか？"
+        }
+      },
+      {
+        "Identificador": "gm_reminder_3_title",
+        "Valor": {
+          "de": "Schau wieder vorbei, lieber Rätselfreund!",
+          "en": "Come back, friend!",
+          "es": "¡Vuelve amigo(a)!",
+          "fr": "Allez l'aider !",
+          "it": "Non lasciarmi solo!",
+          "nl": "Kom je terug?!",
+          "pt": "Não precisamos nem dizer...",
+          "tr": "Dostum, geri dön!",
+          "ru": "Возвращайся... Мы тебя ждем",
+          "ko": "돌아와요!",
+          "ja": "今すぐ合流しましょう！"
+        }
+      },
+      {
+        "Identificador": "gm_reminder_2_body",
+        "Valor": {
+          "de": "CodyCross wartet darauf, dass du ihm hilfst, die heutigen Rätsel zu lösen. Los geht's!",
+          "en": "CodyCross is waiting for you to help him solve the daily puzzles. Come on!",
+          "es": "CodyCross está esperándote para que lo ayudes a resolver los puzzles diarios. ¡A jugar!",
+          "fr": "CodyCross vous attend, il a besoin de vous pour l'aider à résoudre les énigmes quotidiennes !",
+          "it": "CodyCross ha bisogno del tuo aiuto per risolvere i puzzle di oggi. Raggiungilo, ti sta aspettando!",
+          "nl": "CodyCross is op jou aan het wachten om de dagelijkse puzzels op te lossen! Kom!",
+          "pt": "Que nunca mais apareceu aqui? Estamos te esperando pra completar os jogos do dia. Vamos lá!",
+          "tr": "CodyCross günün bulmacalarını çözmek için senden yardım bekliyor. Haydi, gelsene!",
+          "ru": "КодиКросс ждет твоей помощи в разгадывании ежедневных кроссвордов. Ну же, помоги ему!",
+          "ko": "코디크로스가 데일리 퍼즐에서 여러분의 도움을 기다리고 있어요. 서두르세요!",
+          "ja": "CodyCrossがあなたの助けを求めています。一緒に今日のパズルにチャレンジしましょう！"
+        }
+      },
+      {
+        "Identificador": "gm_reminder_1_body",
+        "Valor": {
+          "de": "Du hast die neuen Rätsel von heute noch nicht gespielt. Stelle deine Fähigkeiten jetzt auf die Probe!",
+          "en": "You still haven't played the daily puzzles. Come back and put your skills to the test!",
+          "es": "Aún no has jugado los puzzles diarios. ¡Vuelve y pon a prueba tus habilidades!",
+          "fr": "Il semblerait que vous n'ayez toujours pas joué à nos jeux quotidiens ! Qu'attendez-vous pour mettre vos talents au défi ?",
+          "it": "Non hai ancora giocato agli schemi di oggi: mettiti alla prova e dimostra ciò che sai!",
+          "nl": "Je hebt de dagelijkse puzzels nog niet gespeeld. Kom terug en test jouw skills!",
+          "pt": "Só passando para dizer que os jogos do dia já estão disponíveis. Vem jogar!",
+          "tr": "Günün bulmacalarını henüz çözmedin. Haydi, geri dönüp bilgini test et!",
+          "ru": "Вы все еще не играли в Кроссворд Дня. Возвращайтесь и испытайте свои знания!",
+          "ko": "아직 데일리 퍼즐을 풀지 않았어요. 코디크로스에서 실력을 발휘해보세요!",
+          "ja": "今日のパズルをまだプレイしていません。いますぐトライして知恵試しをしましょう！"
+        }
+      },
+      {
+        "Identificador": "gm_reminder_3_body",
+        "Valor": {
+          "de": "CodyCross schätzt es, dich als Freund zu haben! Spiel doch noch was mit. Wir vermissen dich!",
+          "en": "CodyCross loves having you as a friend! Play some more. We miss you!",
+          "es": "¡A CodyCross le encanta que seas su amigo(a)! ¡Te extrañamos!",
+          "fr": "CodyCross adore vous avoir à ses côtés ! Ne vous arrêtez pas de jouer. Vous lui manquez !",
+          "it": "CodyCross si è affezionato a te: gioca ancora con lui, gli manchi!",
+          "nl": "CodyCross is heel blij met jou als vriend! Speel wat vaker. We missen je!",
+          "pt": "Mas vamos mesmo assim: é muito bom ter você como amigo! Volte a jogar, estamos com saudade!",
+          "tr": "CodyCross senin gibi bir arkadaşı olduğu için çok mutlu! Haydi, oyuna devam et. Seni özledik!",
+          "ru": "КодиКросс очень рад, что подружился с тобой! Поиграй еще... Он скучает!",
+          "ko": "코디크로스는 당신이 친구가 되어주어서 행복해요! 조금 더 플레이해보세요. 보고 싶었어요!",
+          "ja": "CodyCrossはあなたと一緒にプレイするのが大好きです！"
+        }
+      },
+      {
+        "Identificador": "gm_reminder_4_body",
+        "Valor": {
+          "de": "Egal was passiert, du findest immer neue Rätsel auf CodyCross!",
+          "en": "Come rain or shine, there's always new puzzles to solve on CodyCross!",
+          "es": "¡Llueva, truene o relampaguee, siempre habrá nuevos puzzles para resolver en CodyCross!",
+          "fr": "Qu'il pleuve ou qu'il vente, il y a toujours une nouvelle énigme à résoudre sur CodyCross !",
+          "it": "Con il sole o con la pioggia, ogni giorno su CodyCross trovi sempre nuovi schemi da risolvere!",
+          "nl": "Of het nou regent of de zon schijnt, er zijn altijd nieuwe puzzels op te lossen op CodyCross!",
+          "pt": "Que todos os dias, faça chuva ou faça sol, tem novos jogos disponíveis no CodyCross?",
+          "tr": "Yaz kış fark etmez, CodyCross'ta her zaman çözülecek yeni bulmacalar var!",
+          "ru": "Каждый день, независимо от погоды и обстоятельств, в игре появляются новые кроссворды!",
+          "ko": "비가 오나 눈이 오나, 코디크로스에는 항상 플레이할 새로운 퍼즐이 준비되어 있어요!",
+          "ja": "CodyCrossならどんなときでも新しいパズルがあなたのチャレンジを待っています！"
+        }
+      },
+      {
+        "Identificador": "st_reminder_notification_title",
+        "Valor": {
+          "de": "Bist du der Aufgabe gewachsen?",
+          "en": "Up to the challenge?",
+          "es": "¿Preparado(a) para el reto?",
+          "fr": "Prêt.e au challenge ?",
+          "it": "Accetti la sfida?",
+          "nl": "Klaar voor een uitdaging?!",
+          "pt": "Quem tem um amigo...",
+          "tr": "Meydan okumaya var mısın?",
+          "ru": "Готовы принять вызов?",
+          "ko": "챌린지에 참여하시겠어요?",
+          "ja": "チャレンジの準備はできましたか？"
+        }
+      },
+      {
+        "Identificador": "gm_reminder_5_body",
+        "Valor": {
+          "de": "Hast du heute schon CodyCross gespielt? Bleib am Ball. Schon ein Rätsel pro Tag trainiert dein Gehirn!",
+          "en": "Have you played CodyCross today? Keep up the pace. One puzzle a day will help you exercise your brain!",
+          "es": "¿Ya jugaste CodyCross hoy? Mantén el ritmo. ¡Un puzzle al día te ayudará a ejercitar tu cerebro!",
+          "fr": "Avez-vous joué à CodyCross aujourd'hui ? Votre cerveau a besoin de s'exercer tous les jours, alors ne perdez pas le rythme.",
+          "it": "Hai già giocato a CodyCross oggi? Mantieni il ritmo: basta un puzzle al giorno per aiutare il cervello a restare in forma!",
+          "nl": "Heb je CodyCross vandaag al gespeeld? Blijf in het ritme. Een puzzel per dag helpt al om je brein te oefenen!",
+          "pt": "Já jogou CodyCross hoje? Mantenha o ritmo, uma fase por dia já ajuda a manter seu cérebro afiado.",
+          "tr": "Bugün CodyCross oynadın mı? Hız kesme! Günde bir bulmaca çözerek beyin jimnastiğine devam et.",
+          "ru": "А ТЫ сегодня играл в КодиКросс? Не отставай! Один кроссворд в день - и твой мозг в порядке!",
+          "ko": "오늘도 코디크로스를 플레이했나요? 페이스를 유지하세요. 하루 한 개의 퍼즐로 뇌를 단련시킬 수 있어요!",
+          "ja": "今日はCodyCrossをプレイしましたか？毎日1つのパズルを解く習慣は脳の活性化にもつながります！"
+        }
+      },
+      {
+        "Identificador": "st_reminder_notification_body",
+        "Valor": {
+          "de": "Hilf CodyCross, seine Missionen zu erfüllen und gewinne Preise!",
+          "en": "Help CodyCross complete his Missions and win prizes!",
+          "es": "Ayuda a CodyCross a completar sus Misiones y ¡ganar premios!",
+          "fr": "Aidez CodyCross à accomplir ses Missions et à gagner les récompenses !",
+          "it": "Aiuta CodyCross a completare le sue Missioni e vinci premi!",
+          "nl": "Help CodyCross zijn missies te volotooien en win prijzen!",
+          "pt": "Nunca está só. Ajude o CodyCross a completar suas Missões e ainda ganhe prêmios!",
+          "tr": "CodyCross'a Görevlerini tamamlamasında yardım et, ödüller kazan!",
+          "ru": "Помогайте КодиКросс проходить Миссии и получать награды",
+          "ko": "코디크로스를 도와 미션을 완성하고 보상을 받으세요!",
+          "ja": "CodyCrossと一緒にミッションズをクリアして賞品をもらいましょう！"
+        }
+      },
+      {
+        "Identificador": "codycross_name",
+        "Valor": {
+          "de": "CodyCross",
+          "en": "CodyCross",
+          "es": "CodyCross",
+          "fr": "CodyCross",
+          "it": "CodyCross",
+          "nl": "CodyCross",
+          "pt": "CodyCross",
+          "tr": "CodyCross",
+          "ru": "CodyCross",
+          "ko": "코디크로스",
+          "ja": "CodyCross"
+        }
+      },
+      {
+        "Identificador": "todays_password_share_description",
+        "Valor": {
+          "de": "Ich habe das heutige Passwort in {0} von {1} Versuchen gelöst! Wie viele Versuche brauchst du?",
+          "en": "I solved Today's Password in {0} out of {1} attempts! How many turns will it take you?",
+          "es": "¡Resolví la Palabra Clave del Día en {0} de {1} intentos! ¿Que tal tú?",
+          "fr": "J'ai trouvé le Mot de Passe du jour en {0} coups sur {1} essais possible ! Penses-tu pouvoir faire mieux ?",
+          "it": "Ho indovinato la Parola d'ordine di oggi in {0} tentativi su {1}! Quanto ci metterai tu?",
+          "nl": "Ik heb Het Wachtwoord van Vandaag in {0} van de {1} pogingen opgelost! Hoeveel pogingen heb jij nodig?",
+          "pt": "Resolvi a Senha do Dia do CodyCross em {0} de {1} tentativas! E você?",
+          "tr": "Ben Günün Şifresini {1} hamlenin {0}. hamlesinde çözdüm! Bakalım sen kaçıncı denemende bulacaksın?",
+          "ru": "Мне удалось разгадать Ключ Дня с {0} из {1} попыток! А как быстро это удастся тебе?",
+          "ko": "저는 오늘의 패스워드를 {1}번 가운데 {0} 번째 시도 만에 풀었어요! 여러분은 몇 번째에 풀 수 있을까요?",
+          "ja": "今日は{1}回のうち{0} 回目のチャレンジでパスワードをゲットできました。あなたは何回目でゲットできますか？"
+        }
+      },
+      {
+        "Identificador": "todays_password_share_description_defeat",
+        "Valor": {
+          "de": "Do you think you can solve Today's Password? I couldn't :(",
+          "en": "Do you think you can solve Today's Password? I couldn't :(",
+          "es": "Do you think you can solve Today's Password? I couldn't :(",
+          "fr": "Do you think you can solve Today's Password? I couldn't :(",
+          "it": "Do you think you can solve Today's Password? I couldn't :(",
+          "nl": "Do you think you can solve Today's Password? I couldn't :(",
+          "pt": "Do you think you can solve Today's Password? I couldn't :(",
+          "tr": "Do you think you can solve Today's Password? I couldn't :(",
+          "ru": "Do you think you can solve Today's Password? I couldn't :(",
+          "ko": "Do you think you can solve Today's Password? I couldn't :(",
+          "ja": "Do you think you can solve Today's Password? I couldn't :("
+        }
+      }
+    ]
+  }
+}
