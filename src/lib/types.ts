@@ -1,37 +1,35 @@
-export interface CodyClue {
-  direction: 'across' | 'down';
+export interface ClueAnswer {
   number: number;
   clue: string;
   answer: string;
-  position: { row: number; col: number };
 }
 
-export interface PuzzleGroup {
-  id: string;
-  groupName: string;
-  theme: string;
-  clues: CodyClue[];
-  secretWord: string;
-  difficulty: string;
-}
-
-export interface DailyCrossword {
+export interface DailyAnswers {
   date: string;
-  puzzleGroups: PuzzleGroup[];
-  month: number;
-  year: number;
-  dayOfYear: number;
+  title: string;
+  clues: ClueAnswer[];
+  totalClues: number;
+  scrapedAt: string;
+  source: 'live' | 'cached';
 }
 
 export interface ApiResponse<T> {
   success: boolean;
   data: T | null;
   error?: string;
-  source: 'api' | 'cache' | 'fallback';
+  source?: 'live' | 'cached';
 }
 
-export interface ArchiveEntry {
-  date: string;
-  groupCount: number;
-  theme: string;
+// Keep RE info type for the findings dialog
+export interface ReverseEngineeringInfo {
+  version: string;
+  package: string;
+  apiBase: string;
+  cdnBase: string;
+  endpoints: string[];
+  encryption: Record<string, string>;
+  authentication: Record<string, string | string[]>;
+  architecture: string;
+  worldCount: number;
+  keyClasses: string[];
 }

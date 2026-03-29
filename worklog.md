@@ -64,3 +64,36 @@ Stage Summary:
 - Fully functional website at localhost:3000
 - API returning structured puzzle data
 - Beautiful UI with crossword-themed design
+---
+Task ID: 5
+Agent: Main Agent
+Task: Rebuild CodyCross Daily Answers website with REAL answer data from codycross.info
+
+Work Log:
+- Replaced fake fallback puzzle generation with real web scraping via z-ai-web-dev-sdk page_reader
+- Rewrote src/lib/codycross-api.ts to fetch HTML from codycross.info and parse clue-answer pairs using regex
+- Updated src/lib/types.ts with simplified ClueAnswer and DailyAnswers interfaces (removed complex puzzle group/grid types)
+- Updated API routes /api/today and /api/archive to use the new scraper with date validation
+- Removed unused API routes: /api/puzzle, /api/route.ts
+- Removed old codycross components (src/components/codycross/) and hook (src/hooks/useCodyCross.ts)
+- Completely rewrote src/app/page.tsx with clean flat clue-answer card layout:
+  - Today's date prominently displayed in stats bar
+  - All clue-answer pairs in a single card with reveal/hide per clue
+  - Reveal All / Hide All toggle button
+  - Date navigation with previous/next and calendar picker
+  - Search functionality across clues and answers
+  - Live/Cached source indicator badges
+  - Archive tab with quick date links and date picker
+  - RE Findings dialog preserved
+  - Mobile-first responsive design with teal/emerald gradient theme
+- Created data/daily-answers.json with pre-populated March 30, 2026 data (11 real clues)
+- Created scripts/scrape-daily.ts standalone scraper script (supports date parameter, yesterday, or today default)
+- Created .github/workflows/daily-scrape.yml for automated daily scraping at 00:05 UTC
+- Added in-memory cache with 30-minute TTL to reduce redundant API calls
+- All source code passes ESLint with zero warnings/errors
+
+Stage Summary:
+- Website now serves REAL daily answers scraped from codycross.info
+- Clean, simplified UI replacing the overly complex puzzle group/grid layout
+- Automated daily scraping via GitHub Actions
+- Pre-populated data for March 30, 2026 included
