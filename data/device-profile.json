@@ -11,10 +11,10 @@
     "screenResolution": "1080x2400",
     "isPhysicalDevice": true
   },
-  "authToken": "873f1143-86bc-4d4c-b038-f81a1fae663b",
+  "authToken": "",
   "accessToken": "",
   "userLoginToken": "",
-  "playerId": "bed4f52b-e1f4-425c-a1c4-d8847c12176f",
+  "playerId": "",
   "appVersion": "2.8.1",
   "lang": "en",
   "country": "US",
@@ -50,7 +50,7 @@
       "timestamp": "2026-03-29T20:44:25.837Z",
       "action": "Login",
       "status": "success",
-      "details": "Token: 873f1143-86bc-4d4c-b038-f81a1fae663b, PlayerId: bed4f52b-e1f4-425c-a1c4-d8847c12176f"
+      "details": "Token: [REDACTED], PlayerId: [REDACTED]"
     },
     {
       "timestamp": "2026-03-29T20:44:26.343Z",
@@ -62,7 +62,7 @@
       "timestamp": "2026-03-29T20:44:32.191Z",
       "action": "Login",
       "status": "success",
-      "details": "Token: 873f1143-86bc-4d4c-b038-f81a1fae663b, PlayerId: bed4f52b-e1f4-425c-a1c4-d8847c12176f"
+      "details": "Token: [REDACTED], PlayerId: [REDACTED]"
     }
   ]
 }
